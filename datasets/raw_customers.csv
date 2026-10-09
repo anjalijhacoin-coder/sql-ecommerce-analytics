@@ -1,0 +1,1001 @@
+cust_id,first_name,last_name,email,phone_num,dob,address_line_1,city,state,zipcode,country,registration_date,last_login,loyalty_tier,pref_language,marketing_opt_in,full_name
+1,Mike,Brown,84d54ddc@hotmail.com,9854073913,1973-06-08,9287 Cedar Ln,Chicago,TX,55961,USA,2018-09-08 02:35:07,2023-06-20 03:26:27,Silver,es-ES,,Mike Brown
+2,Mary,,fb094f3b@example.org,+1-433-772-7610,1977-10-23,6691 Main St,n/a,IL,65256,USA,2018-11-29 14:12:22,2023-11-30 17:40:45,Silver,fr-FR,True,Mary 
+3,  sam  ,Moore,8ea5878f@yahoo.com,+1-209-402-9149,1992-04-04,5633 Maple Dr,New York,IL,32036,USA,2022-07-02 16:43:46,2023-03-05 21:44:12,Bronze,en-US,,  sam   Moore
+4,Emily,Wilson,101e13e3@gmail.com,6656981533,1991-12-09,9054 Oak Ave,Houston,AZ,18543,USA,2018-03-22 19:30:52,2023-03-21 06:52:02,Platinum,en-US,Yes,Emily Wilson
+5,David,taylor,8d4a735e@example.org,+1-332-959-2752,02/16/1992,7725 Main St,New York,NY,70210,USA,2019-11-27 08:26:22,2023-04-03 00:33:26,Silver,es-ES,,David taylor
+6,Mike,Wilson,0bbcbf1e@hotmail.com,+1-408-550-2885,1970-01-01,3594 Maple Dr,UNKNOWN,NY,18431,USA,2019-03-09 12:57:54,2023-10-25 01:53:37,Platinum,en-UK,False,Mike Wilson
+7,KIM,Johnson,09605754@yahoo.com,+1-115-270-3609,1983-02-07,4339 Oak Ave,Phoenix,,77899,USA,2019-01-31 21:54:08,2023-10-23 01:08:28,Platinum,fr-FR,0,KIM Johnson
+8,Alex,Johnson,7f394a5f@yahoo.com,8825117745,2005-01-12,5586 Main St,Houston,,44601,USA,2018-10-16 15:26:18,2023-08-04 08:45:30,,es-ES,,Alex Johnson
+9,Mike,Moore,c828f630@example.org,+1-693-377-6315,1962-09-09,8558 Maple Dr,Chicago,CA,29881,USA,2020-01-16 22:27:03,2023-02-13 17:15:41,Bronze,en-US,True,Mike Moore
+10,  sam  ,Davis,77858c9d@gmail.com,+1-754-495-5914,2005-11-12,1247 Oak Ave,Phoenix,AZ,73319,USA,2022-11-03 09:21:26,2023-12-29 00:36:05,Platinum,EN,False,  sam   Davis
+11,  sam  ,Brown,d04c0199@gmail.com,+1-522-857-1100,1983-01-20,8690 Cedar Ln,Houston,TX,83186,USA,2018-08-31 16:45:12,2023-04-11 04:45:16,Bronze,en-UK,,  sam   Brown
+12,Emily,Moore,f70ed691@hotmail.com,+1-870-891-2082,10/04/2004,6140 Oak Ave,n/a,California,58845,USA,2019-12-04 16:40:25,2023-02-23 01:41:55,,EN,,Emily Moore
+13,David,Miller,0d28e542@test.com,1856398071,1979-11-02,4445 Oak Ave,n/a,AZ,96679,USA,2020-03-09 03:04:19,2023-06-12 17:34:13,Bronze,es-ES,True,David Miller
+14,Mary,Doe,3c4f2f14@hotmail.com,+1-193-972-8675,1993-11-06,2353 Main St,n/a,CA,75282,USA,2020-02-16 07:36:12,2023-03-10 06:35:31,Silver,en-US,1,Mary Doe
+15,Emily,Brown,7b4b0f87@gmail.com,+1-223-621-5167,1971-12-17,6472 Oak Ave,n/a,,88930,USA,2021-11-20 17:32:29,2023-09-09 18:42:59,Platinum,fr-FR,1,Emily Brown
+16,Emily,,2167b87b@gmail.com,3379851939,1975-12-11,1967 Cedar Ln,Chicago,AZ,84353,USA,2020-02-01 07:31:43,2023-12-26 03:03:10,Bronze,EN,,Emily 
+17,Alex,Brown,9e465c06@example.org,+1-104-119-5176,1988-02-21,6890 Maple Dr,New York,AZ,22298,USA,2022-12-13 08:27:48,2023-01-21 11:46:43,Gold,fr-FR,1,Alex Brown
+18,Sarah,Miller,3b3c0e42@hotmail.com,7423098103,1994-05-15,8521 Cedar Ln,Houston,,70135,USA,2019-12-10 00:00:35,2023-09-02 18:34:48,Bronze,en-US,No,Sarah Miller
+19,David,Miller,37a7700e@yahoo.com,+1-330-463-1785,1982-09-25,9620 Cedar Ln,Chicago,Texas,27482,USA,2018-12-25 17:44:13,2023-06-20 13:38:46,Platinum,EN,True,David Miller
+20,Jane,Smith,8fa73cff@gmail.com,+1-747-635-9805,1982-10-24,1022 Maple Dr,n/a,CA,39036,US,2018-10-08 01:48:25,2023-03-29 14:19:30,,fr-FR,No,Jane Smith
+21,Emily,Moore,c04026f7@yahoo.com,+1-945-944-8281,12/27/1964,8328 Cedar Ln,UNKNOWN,,00000,USA,2020-12-04 17:00:41,2023-09-09 05:37:22,,fr-FR,False,Emily Moore
+22,,Miller,315e6152@hotmail.com,+1-456-515-2745,05/13/1974,259 Maple Dr,New York,NY,71175,USA,2018-06-29 23:47:50,2023-11-03 01:05:09,Platinum,EN,No, Miller
+23,Sarah,Johnson,8e53b130@gmail.com,+1-440-173-2355,1992-03-04,480 Maple Dr,UNKNOWN,TX,13474,USA,2018-03-07 14:08:32,2023-01-06 20:49:55,Silver,en-US,False,Sarah Johnson
+24,Jane,taylor,3a80bb14@test.com,+1-434-800-1033,1982-04-17,6814 Cedar Ln,Phoenix,,63053,USA,2018-10-31 16:16:48,2023-01-26 07:04:14,Silver,fr-FR,,Jane taylor
+25,,Doe,1d0a26e7@gmail.com,+1-590-351-3751,07/23/1964,8704 Maple Dr,UNKNOWN,CA,23526,USA,2021-11-20 15:33:16,2023-03-14 11:28:14,,es-ES,False, Doe
+26,David,,e46ecb9d@gmail.com,+1-461-238-8058,1998-05-08,8055 Oak Ave,Phoenix,IL,98524,USA,2020-05-31 09:36:08,2023-10-13 22:37:44,,EN,False,David 
+27,John,Moore,49fb2818@hotmail.com,1911732184,1987-12-14,9649 Main St,Phoenix,NY,17939,USA,2020-01-23 15:38:45,2023-01-24 23:45:23,Platinum,en-UK,0,John Moore
+28,,ANDERSON,a5d98816@yahoo.com,+1-435-303-2746,2001-08-07,3704 Cedar Ln,n/a,IL,92862,USA,2020-03-24 19:41:32,2023-03-02 12:05:28,Silver,en-UK,No, ANDERSON
+29,KIM,Johnson,2f44cecb@test.com,8127883816,08/13/1971,2202 Maple Dr,Phoenix,California,90927,USA,2018-06-05 17:10:58,2023-11-21 02:12:47,,en-US,0,KIM Johnson
+30,Sarah,Davis,invalid_email_at_test.com,+1-247-512-9499,1967-11-30,875 Maple Dr,Los Angeles,,37843,US,2022-12-14 23:03:02,2023-07-20 17:27:31,Silver,es-ES,,Sarah Davis
+31,,Miller,b8ba1326@example.org,+1-547-885-5907,1988-01-06,1224 Main St,Houston,NY,69900,USA,2018-11-13 07:26:13,2023-07-20 06:50:25,,fr-FR,True, Miller
+32,chris,ANDERSON,invalid_email_at_example.org,+1-768-329-5542,06/06/1965,4062 Oak Ave,Houston,TX,35515,USA,2020-12-09 17:04:40,2023-11-13 12:19:29,Bronze,en-UK,No,chris ANDERSON
+33,John,Miller,f44605f3@example.org,+1-541-912-6312,1975-03-26,4205 Main St,n/a,,37679,USA,2019-04-12 02:39:18,2023-11-06 19:14:12,Gold,en-US,True,John Miller
+34,  sam  ,Brown,9b9310cb@test.com,+1-784-828-9563,08/26/1964,9357 Main St,Los Angeles,TX,11955,US,2021-06-17 01:22:24,2023-01-04 07:53:55,Bronze,es-ES,True,  sam   Brown
+35,  sam  ,Johnson,feaa9238@gmail.com,+1-800-448-5584,09/17/1996,8986 Cedar Ln,UNKNOWN,Texas,61188,USA,2022-05-24 17:13:47,2023-01-07 18:05:10,,es-ES,False,  sam   Johnson
+36,KIM,Brown,a46859a3@yahoo.com,+1-942-275-8076,10/08/1967,5153 Oak Ave,Chicago,AZ,39656,USA,2021-04-25 02:54:07,2023-06-27 18:16:29,Gold,en-US,No,KIM Brown
+37,,Smith,0362a70f@hotmail.com,+1-680-619-2903,1976-09-25,2058 Cedar Ln,UNKNOWN,IL,25209,USA,2018-03-27 00:50:00,2023-07-13 23:39:54,Gold,en-US,True, Smith
+38,,Brown,6905838c@example.org,+1-431-846-5263,1964-03-29,1329 Main St,Chicago,NY,47854,USA,2019-10-21 17:06:06,2023-02-24 15:45:40,,fr-FR,1, Brown
+39,Alex,Smith,af1d1da4@gmail.com,2072743371,06/16/1991,2022 Oak Ave,Phoenix,TX,37113,USA,2022-10-25 00:34:36,2023-07-13 19:18:45,,en-US,True,Alex Smith
+40,,Smith,d14cba6b@example.org,7994973367,1967-01-13,6548 Main St,New York,CA,00000,USA,2020-12-14 04:15:42,2023-12-25 07:52:25,Silver,fr-FR,1, Smith
+41,Mike,ANDERSON,invalid_email_at_yahoo.com,9536637202,1965-05-09,7050 Oak Ave,Chicago,TX,48285,USA,2022-11-30 05:21:26,2023-07-03 09:26:27,,fr-FR,No,Mike ANDERSON
+42,Mary,Miller,faf059e4@test.com,+1-738-376-4861,1979-01-20,1797 Oak Ave,New York,CA,95499,USA,2022-09-08 11:40:15,2023-09-07 11:49:48,Platinum,EN,,Mary Miller
+43,chris,Davis,f418ac85@test.com,+1-754-796-4785,1976-08-14,219 Main St,Houston,,78563,USA,2018-11-17 14:39:41,2023-09-25 12:16:43,,es-ES,0,chris Davis
+44,Alex,,8544784e@test.com,+1-172-870-2150,1990-07-31,8494 Maple Dr,New York,NY,52779,USA,2019-05-03 08:10:27,2023-06-04 07:58:25,Platinum,es-ES,No,Alex 
+45,David,Brown,3353df6e@yahoo.com,+1-150-268-9468,07/01/1984,2158 Cedar Ln,Houston,TX,93502,USA,2018-04-10 00:42:15,2023-11-24 06:48:44,,es-ES,0,David Brown
+46,Alex,,162c5536@test.com,+1-473-101-9032,1972-01-20,3871 Cedar Ln,Los Angeles,California,48447,USA,2022-04-02 22:18:41,2023-01-20 14:24:41,Silver,EN,0,Alex 
+47,Mike,Johnson,c4edbf14@gmail.com,2372527560,2003-01-11,815 Maple Dr,Los Angeles,TX,79119,USA,2022-05-05 05:08:52,2023-12-16 09:02:00,Platinum,fr-FR,No,Mike Johnson
+48,David,Smith,698aefc7@example.org,5592711370,1974-01-22,8859 Maple Dr,n/a,Texas,28664,USA,2020-01-13 08:10:57,2023-08-18 14:42:38,Bronze,fr-FR,True,David Smith
+49,chris,Miller,97c940d7@test.com,8522499629,1960-12-25,2275 Main St,n/a,California,29108,USA,2022-12-13 14:30:45,2023-07-21 03:03:34,Platinum,en-US,Yes,chris Miller
+50,Mike,Doe,5691a714@example.org,+1-499-270-7885,07/11/1971,6540 Cedar Ln,Phoenix,NY,82485,US,2020-11-12 14:48:00,2023-01-05 14:31:31,Silver,EN,True,Mike Doe
+51,Jane,Moore,f1c30ca7@hotmail.com,+1-915-405-5296,1965-08-28,9568 Cedar Ln,Chicago,Texas,48184,US,2022-06-16 00:21:49,2023-02-05 15:56:02,Platinum,en-US,True,Jane Moore
+52,Mary,ANDERSON,f6a599f1@example.org,+1-281-606-7497,1985-08-12,304 Main St,Phoenix,TX,15595,USA,2020-08-08 21:44:48,2023-09-06 12:22:01,,EN,,Mary ANDERSON
+53,chris,Davis,90085e70@hotmail.com,+1-612-933-7203,1980-03-10,2981 Maple Dr,Houston,CA,37676,USA,2020-02-28 04:23:05,2023-08-25 09:39:41,,en-US,False,chris Davis
+54,,Wilson,209cabcf@hotmail.com,+1-163-498-8103,1985-04-23,4648 Oak Ave,Phoenix,TX,40957,USA,2018-11-28 04:39:14,2023-01-13 01:19:26,Silver,en-UK,False, Wilson
+55,Jane,ANDERSON,3250555c@test.com,+1-312-173-2680,1960-09-02,4172 Main St,New York,IL,30254,USA,2019-04-25 04:05:02,2023-06-07 17:29:35,Gold,es-ES,True,Jane ANDERSON
+56,KIM,Doe,b0a44b6a@test.com,+1-260-476-7419,1962-05-13,7822 Oak Ave,Houston,,35163,USA,2020-09-03 11:58:42,2023-07-12 01:10:58,,es-ES,1,KIM Doe
+57,chris,Moore,e9dbc8c6@example.org,+1-203-454-7197,2003-12-23,6112 Oak Ave,n/a,AZ,81151,USA,2022-09-29 23:09:23,2023-12-19 01:39:32,Bronze,fr-FR,,chris Moore
+58,KIM,Doe,e118e4b7@yahoo.com,2067140052,1978-12-07,4879 Main St,Los Angeles,CA,18794,USA,2020-08-13 15:48:24,2023-12-01 09:05:00,Silver,en-UK,0,KIM Doe
+59,David,Brown,52f77356@test.com,+1-829-833-7448,1970-11-26,6379 Main St,n/a,IL,87680,USA,2021-04-27 15:34:01,2023-09-10 23:51:58,Platinum,es-ES,False,David Brown
+60,Jane,Smith,ffc76dd5@test.com,7891498605,1994-08-07,8148 Main St,Chicago,California,14661,USA,2020-03-07 23:57:41,2023-01-19 17:48:02,Platinum,fr-FR,True,Jane Smith
+61,Mary,Davis,2b7c3ec9@test.com,+1-429-493-3312,1962-02-14,5811 Main St,Houston,,20389,USA,2020-05-24 22:34:38,2023-02-09 17:54:38,Bronze,en-UK,,Mary Davis
+62,,taylor,invalid_email_at_yahoo.com,1848382751,1962-12-16,399 Oak Ave,Houston,NY,18900,USA,2021-02-25 23:27:49,2023-12-02 05:33:40,,es-ES,Yes, taylor
+63,,Smith,ba4fe8ab@example.org,+1-921-532-4295,1982-09-16,3356 Main St,New York,CA,77101,USA,2022-05-13 09:49:02,2023-04-29 07:58:23,Silver,en-US,1, Smith
+64,Mike,taylor,invalid_email_at_yahoo.com,+1-399-895-5354,1964-05-21,623 Cedar Ln,Chicago,AZ,33406,USA,2021-01-16 15:51:55,2023-04-20 11:38:41,Bronze,EN,No,Mike taylor
+65,,,ddf05999@example.org,2385903607,1979-01-03,722 Cedar Ln,Los Angeles,,77414,USA,2019-04-13 21:11:51,2023-08-21 08:18:02,,en-UK,True, 
+66,Emily,Moore,95340b4e@test.com,3742839446,1977-02-10,7625 Maple Dr,UNKNOWN,California,29402,USA,2018-07-12 03:12:32,2023-09-03 14:13:07,Silver,fr-FR,,Emily Moore
+67,Alex,Miller,invalid_email_at_example.org,+1-223-408-2755,1964-01-29,6561 Cedar Ln,Houston,Texas,00000,USA,2019-03-20 21:40:25,2023-02-26 03:27:05,Platinum,en-UK,True,Alex Miller
+68,John,Wilson,invalid_email_at_yahoo.com,+1-421-757-6391,1978-01-23,6259 Oak Ave,Houston,Texas,86011,USA,2019-12-30 01:28:14,2023-10-06 22:43:13,Silver,fr-FR,0,John Wilson
+69,Mary,Johnson,c6317c23@hotmail.com,9241681733,2001-11-28,10 Cedar Ln,New York,AZ,71322,USA,2018-06-28 16:33:45,2023-03-20 18:28:17,Gold,en-UK,1,Mary Johnson
+70,Jane,Smith,c11615b7@gmail.com,3378810710,1979-07-15,7553 Oak Ave,Phoenix,NY,21308,USA,2020-03-14 16:09:00,2023-04-18 08:35:07,Silver,fr-FR,False,Jane Smith
+71,Emily,Davis,2eff755c@yahoo.com,+1-697-994-4508,1987-11-09,717 Cedar Ln,Los Angeles,NY,44567,USA,2018-01-06 14:31:13,2023-03-06 18:11:35,Gold,es-ES,False,Emily Davis
+72,Mary,Doe,74a6b812@example.org,+1-353-918-6079,1987-06-22,8951 Oak Ave,n/a,California,33956,USA,2020-01-19 05:55:45,2023-03-28 02:08:16,Silver,en-US,False,Mary Doe
+73,Jane,Davis,8ed7eea5@hotmail.com,+1-126-816-1213,1991-09-12,2622 Main St,Chicago,CA,56969,USA,2019-10-04 17:29:36,2023-02-05 08:10:07,Gold,es-ES,No,Jane Davis
+74,Sarah,Moore,c4bf93ee@example.org,+1-264-475-7594,1983-08-09,8186 Main St,Houston,California,65319,USA,2018-11-16 02:04:17,2023-12-06 05:58:39,Platinum,en-US,,Sarah Moore
+75,Sarah,,da519df3@gmail.com,+1-330-989-3108,1982-02-06,8583 Main St,Houston,TX,65798,USA,2021-01-05 15:48:44,2023-07-30 14:00:47,,es-ES,1,Sarah 
+76,KIM,taylor,98a051f5@hotmail.com,+1-818-375-9770,1985-08-19,5325 Oak Ave,n/a,NY,68094,USA,2022-06-04 18:51:27,2023-11-05 23:50:05,Gold,es-ES,1,KIM taylor
+77,Mary,Doe,invalid_email_at_hotmail.com,+1-546-795-2887,1972-10-11,575 Main St,Los Angeles,,38316,USA,2019-01-14 12:05:02,2023-01-05 17:19:34,Gold,en-UK,False,Mary Doe
+78,Sarah,Johnson,e7439569@test.com,+1-625-527-2049,1991-06-01,989 Cedar Ln,Phoenix,TX,81904,USA,2019-03-30 17:15:27,2023-08-24 21:39:00,Platinum,EN,False,Sarah Johnson
+79,Jane,Johnson,adc01048@yahoo.com,4263093904,1983-06-29,2298 Main St,Houston,Texas,00000,USA,2021-05-13 04:05:48,2023-03-20 22:08:42,Gold,fr-FR,0,Jane Johnson
+80,KIM,Smith,8ea680ae@hotmail.com,+1-890-825-1682,04/02/1981,6354 Main St,Los Angeles,Texas,68697,USA,2018-03-21 07:35:02,2023-10-01 10:26:31,Bronze,fr-FR,Yes,KIM Smith
+81,,Moore,470d4844@gmail.com,+1-859-315-4434,12/04/1991,7556 Cedar Ln,n/a,IL,59494,USA,2020-06-05 22:17:35,2023-05-28 04:16:00,Platinum,fr-FR,Yes, Moore
+82,Jane,Miller,382899b1@example.org,+1-812-302-8489,1984-02-10,3669 Oak Ave,New York,AZ,71227,USA,2018-08-16 08:34:33,2023-07-27 12:18:18,Bronze,en-US,True,Jane Miller
+83,KIM,Moore,invalid_email_at_example.org,+1-707-256-5459,1994-09-30,212 Maple Dr,Phoenix,TX,32750,USA,2019-09-03 16:17:20,2023-03-16 17:23:02,Platinum,fr-FR,True,KIM Moore
+84,Mary,,invalid_email_at_test.com,+1-561-764-1508,1986-03-20,8135 Main St,Chicago,AZ,00000,USA,2020-07-21 04:08:38,2023-10-16 03:30:28,Gold,fr-FR,1,Mary 
+85,Emily,taylor,63aec74b@hotmail.com,+1-302-306-3531,1981-12-30,8736 Main St,Houston,California,87097,USA,2020-04-18 02:00:36,2023-10-30 04:45:55,Bronze,en-UK,1,Emily taylor
+86,Mike,Davis,d3484cc4@hotmail.com,+1-675-805-9108,1984-12-09,9606 Main St,Los Angeles,TX,38423,USA,2020-01-06 18:14:49,2023-03-23 00:16:06,Gold,es-ES,No,Mike Davis
+87,,Johnson,invalid_email_at_hotmail.com,+1-180-542-5887,05/20/1962,9928 Cedar Ln,New York,California,98019,USA,2020-10-24 17:58:08,2023-01-29 14:28:41,Platinum,fr-FR,No, Johnson
+88,chris,Davis,f178f578@gmail.com,+1-966-104-8024,1993-03-24,4060 Cedar Ln,Chicago,IL,16938,US,2020-04-15 22:43:18,2023-01-09 02:31:10,Gold,EN,Yes,chris Davis
+89,Emily,Davis,12bfbcbf@example.org,+1-197-828-4710,1976-01-15,6398 Cedar Ln,UNKNOWN,NY,72857,USA,2021-02-16 16:13:45,2023-10-20 07:37:21,Bronze,fr-FR,True,Emily Davis
+90,David,Davis,1c3edcb9@test.com,+1-390-439-2534,2005-01-11,9352 Oak Ave,Los Angeles,Texas,58519,USA,2019-01-23 23:48:00,2023-06-28 04:01:15,Bronze,en-US,Yes,David Davis
+91,Jane,Johnson,e5c31c49@yahoo.com,1255935593,1969-08-11,2759 Main St,Los Angeles,IL,81121,USA,2019-11-25 01:29:10,2023-02-23 12:09:02,Gold,en-US,Yes,Jane Johnson
+92,David,,77248fcb@test.com,7977247193,1996-07-18,8639 Main St,Chicago,Texas,40423,USA,2021-08-09 18:58:08,2023-04-20 08:46:08,Silver,en-US,True,David 
+93,Emily,ANDERSON,3641d7e7@yahoo.com,+1-706-207-4784,1964-02-19,2080 Cedar Ln,New York,NY,48156,USA,2020-06-19 22:49:20,2023-12-19 23:40:16,Platinum,fr-FR,,Emily ANDERSON
+94,KIM,Brown,bf6d0c36@yahoo.com,+1-899-808-4032,1975-05-24,4634 Cedar Ln,UNKNOWN,California,52011,USA,2018-11-22 09:34:16,2023-01-03 05:27:38,Platinum,en-UK,No,KIM Brown
+95,chris,taylor,40903a92@test.com,+1-520-320-4048,03/20/2000,9927 Main St,n/a,NY,85577,USA,2022-07-05 08:34:10,2023-09-06 19:08:48,Gold,EN,0,chris taylor
+96,,ANDERSON,47d9841a@test.com,+1-676-520-4511,1985-10-17,9642 Main St,New York,Texas,24427,US,2019-06-12 21:52:28,2023-07-01 17:15:26,Silver,fr-FR,0, ANDERSON
+97,,taylor,invalid_email_at_yahoo.com,+1-187-858-4752,01/09/1984,4885 Main St,Phoenix,Texas,78794,USA,2018-06-20 07:55:32,2023-12-24 14:14:51,Bronze,en-UK,0, taylor
+98,,Doe,152a8a03@test.com,7814747566,09/10/1973,1322 Main St,Houston,AZ,52225,USA,2022-09-07 01:20:42,2023-04-30 08:33:10,,en-UK,True, Doe
+99,chris,Moore,dce929d3@test.com,+1-876-266-6087,1989-05-09,303 Main St,Chicago,,83659,USA,2018-02-26 06:05:19,2023-05-31 10:33:37,,fr-FR,False,chris Moore
+100,John,Moore,662a32c1@test.com,5605368133,1981-08-16,5129 Main St,n/a,IL,90206,USA,2021-09-11 04:48:25,2023-02-15 02:28:57,Gold,fr-FR,False,John Moore
+101,chris,Wilson,1d70f791@test.com,6365326281,2004-06-25,5125 Main St,UNKNOWN,TX,92786,US,2018-06-12 16:06:19,2023-11-04 13:50:15,Silver,en-UK,False,chris Wilson
+102,Mike,Moore,invalid_email_at_example.org,4798095988,1982-09-22,4720 Cedar Ln,Chicago,Texas,20423,USA,2018-11-23 06:30:39,2023-07-10 04:41:39,Silver,en-UK,1,Mike Moore
+103,chris,Johnson,5a4185f8@hotmail.com,+1-368-193-9824,1980-07-31,5034 Main St,Chicago,IL,94194,USA,2019-05-12 01:08:40,2023-03-05 15:12:43,Platinum,en-UK,No,chris Johnson
+104,Emily,Miller,invalid_email_at_yahoo.com,+1-920-379-6531,1970-07-03,1911 Oak Ave,New York,AZ,23023,USA,2022-11-22 18:27:39,2023-11-11 03:37:54,Bronze,fr-FR,No,Emily Miller
+105,John,Smith,24f21bed@example.org,+1-358-361-3871,1974-07-04,5674 Cedar Ln,Houston,NY,62948,USA,2019-05-01 22:31:36,2023-02-17 11:35:53,Silver,en-UK,,John Smith
+106,,Wilson,30b09127@gmail.com,+1-390-681-1107,1981-06-25,5807 Oak Ave,Phoenix,AZ,80166,USA,2022-11-08 11:58:47,2023-11-24 03:47:22,,en-US,, Wilson
+107,Emily,Smith,26e3866e@test.com,+1-950-620-6811,1981-09-05,7126 Oak Ave,Los Angeles,CA,62724,USA,2018-05-12 03:36:23,2023-05-09 16:51:51,Bronze,fr-FR,1,Emily Smith
+108,Emily,taylor,76636e7d@hotmail.com,+1-179-837-6429,04/14/1974,4536 Cedar Ln,Los Angeles,CA,20063,USA,2021-03-20 01:00:48,2023-04-08 15:00:58,Bronze,en-US,Yes,Emily taylor
+109,  sam  ,Smith,2f1e931b@test.com,5394224914,1966-07-24,7019 Oak Ave,Chicago,TX,96940,USA,2021-10-01 18:41:32,2023-05-24 10:43:22,Gold,es-ES,,  sam   Smith
+110,Alex,Smith,e6fbae36@test.com,7616409927,2003-04-18,1694 Oak Ave,Houston,AZ,87892,USA,2019-03-18 20:13:44,2023-06-05 22:51:24,Silver,fr-FR,0,Alex Smith
+111,John,Wilson,15c3b272@example.org,+1-280-233-5432,1994-05-10,9384 Maple Dr,UNKNOWN,California,19261,USA,2022-03-13 09:03:11,2023-04-23 17:24:18,Gold,es-ES,False,John Wilson
+112,Emily,Doe,3adf270d@yahoo.com,9047760163,1998-06-07,1433 Oak Ave,UNKNOWN,TX,20697,USA,2020-03-03 04:57:12,2023-07-19 16:19:23,Silver,en-UK,0,Emily Doe
+113,Alex,Davis,d9bd942b@hotmail.com,+1-363-403-9450,1972-04-24,5541 Main St,n/a,California,93569,US,2018-04-29 15:06:19,2023-06-15 22:16:34,Platinum,en-UK,False,Alex Davis
+114,Alex,Moore,0089ffca@test.com,+1-958-759-8680,1969-02-13,2295 Cedar Ln,New York,TX,61779,USA,2020-11-16 07:09:38,2023-08-18 02:26:49,Gold,EN,0,Alex Moore
+115,John,Moore,6d5e4244@test.com,+1-747-858-6742,1999-04-16,2240 Oak Ave,Houston,CA,56567,USA,2022-11-01 03:37:25,2023-12-03 05:54:34,Gold,en-UK,Yes,John Moore
+116,  sam  ,Johnson,a9492fc3@test.com,+1-509-739-5911,1992-06-14,7204 Maple Dr,Houston,TX,13222,USA,2022-04-19 17:17:58,2023-01-25 10:46:08,,es-ES,0,  sam   Johnson
+117,David,Wilson,4f3ef160@test.com,+1-857-656-5477,11/06/1974,4055 Oak Ave,New York,CA,69651,USA,2019-11-17 17:01:01,2023-11-16 13:14:29,Gold,en-UK,0,David Wilson
+118,KIM,Johnson,61b8cb58@test.com,2004521249,1980-06-25,7880 Cedar Ln,UNKNOWN,Texas,52803,US,2019-06-10 00:43:08,2023-03-20 22:05:53,Silver,fr-FR,True,KIM Johnson
+119,Mike,Miller,ba6c6159@test.com,+1-716-707-6648,1996-02-03,9745 Maple Dr,UNKNOWN,NY,86470,USA,2019-02-07 14:11:30,2023-01-11 03:25:36,,en-UK,0,Mike Miller
+120,KIM,Miller,2d8e0283@hotmail.com,5467387768,07/04/2004,4774 Maple Dr,UNKNOWN,California,67977,USA,2022-01-09 20:46:32,2023-05-22 10:10:23,Gold,EN,True,KIM Miller
+121,chris,Johnson,57b2b874@example.org,+1-132-323-1290,10/23/1982,8060 Main St,Chicago,AZ,60520,USA,2019-01-11 19:17:00,2023-09-26 16:19:13,Gold,en-UK,No,chris Johnson
+122,,Wilson,635d0ead@gmail.com,8486433284,2001-11-24,1494 Oak Ave,Houston,Texas,76564,US,2021-12-03 03:22:42,2023-09-08 20:55:23,Platinum,es-ES,1, Wilson
+123,Mike,Johnson,131fa090@test.com,+1-164-625-1559,1995-09-12,7661 Main St,Los Angeles,Texas,41226,USA,2019-10-27 12:16:10,2023-03-08 22:09:57,Gold,es-ES,0,Mike Johnson
+124,chris,Moore,8860bfef@yahoo.com,+1-662-463-2269,2000-07-13,9882 Cedar Ln,New York,TX,44640,USA,2019-10-19 03:53:24,2023-12-24 06:52:13,Bronze,en-UK,No,chris Moore
+125,Emily,ANDERSON,368b40d5@gmail.com,+1-354-283-8895,2003-03-03,9806 Oak Ave,UNKNOWN,CA,40091,USA,2022-09-23 21:31:25,2023-06-04 03:21:55,,es-ES,,Emily ANDERSON
+126,,Brown,d40e1f34@gmail.com,8820424535,2003-04-04,8065 Cedar Ln,n/a,IL,81203,USA,2019-09-30 14:07:25,2023-05-04 12:57:09,Bronze,es-ES,, Brown
+127,Jane,Smith,32dbb6a8@example.org,+1-196-287-1551,05/11/1976,5357 Maple Dr,UNKNOWN,California,26321,USA,2021-02-06 02:43:04,2023-05-18 17:10:51,,EN,True,Jane Smith
+128,John,Brown,d9f06fa7@yahoo.com,+1-307-327-8053,2000-05-27,8602 Maple Dr,UNKNOWN,Texas,74391,USA,2020-02-10 22:09:21,2023-05-27 23:02:48,Platinum,fr-FR,0,John Brown
+129,Mike,Wilson,218f7cea@yahoo.com,+1-328-310-2184,01/20/1966,1637 Maple Dr,Phoenix,TX,38959,USA,2021-08-23 22:39:46,2023-05-18 06:10:39,Gold,EN,0,Mike Wilson
+130,Mike,,invalid_email_at_test.com,3327412702,1980-04-15,2936 Main St,Chicago,,70314,USA,2022-03-16 03:37:35,2023-06-05 13:15:53,Gold,en-US,Yes,Mike 
+131,Emily,Brown,d704ea35@test.com,+1-908-863-7959,1960-10-13,7371 Oak Ave,New York,NY,52432,USA,2020-03-05 00:13:35,2023-08-30 07:24:43,Gold,EN,No,Emily Brown
+132,David,Miller,0e518a6f@gmail.com,+1-405-925-7006,2004-09-09,5393 Maple Dr,Phoenix,NY,59261,USA,2020-10-13 21:23:13,2023-10-04 11:36:09,,en-UK,False,David Miller
+133,Alex,taylor,ec3ac197@gmail.com,+1-575-209-4447,2004-03-05,7859 Main St,Phoenix,IL,23307,USA,2018-08-11 09:14:07,2023-12-03 13:18:31,Gold,fr-FR,False,Alex taylor
+134,,Smith,8755ba64@yahoo.com,+1-879-726-9628,09/20/1977,1175 Main St,n/a,CA,45738,USA,2018-04-27 20:12:05,2023-06-24 08:05:52,Bronze,en-UK,Yes, Smith
+135,Emily,Davis,6397a245@yahoo.com,+1-570-955-9490,1974-12-12,1874 Maple Dr,Houston,TX,29445,USA,2019-12-18 01:45:47,2023-01-17 09:54:20,Gold,en-US,True,Emily Davis
+136,Sarah,,6219faac@example.org,+1-170-888-9502,1968-08-19,7403 Oak Ave,n/a,California,60771,USA,2022-02-28 10:25:39,2023-09-01 02:48:23,Platinum,fr-FR,False,Sarah 
+137,  sam  ,Wilson,849566e7@example.org,1060010774,08/08/1986,7623 Cedar Ln,Houston,CA,59873,USA,2022-10-28 03:06:54,2023-09-01 02:54:32,Bronze,es-ES,False,  sam   Wilson
+138,Alex,Smith,087abb53@gmail.com,4771181429,1966-08-07,5658 Maple Dr,Houston,NY,14524,USA,2018-07-22 01:24:43,2023-07-08 19:01:09,Gold,EN,,Alex Smith
+139,John,Brown,b42950fe@yahoo.com,4847675354,1973-02-17,8165 Oak Ave,New York,CA,56813,US,2021-03-05 03:27:52,2023-02-23 16:37:02,Gold,en-UK,,John Brown
+140,Alex,Miller,invalid_email_at_example.org,9573140915,04/30/1992,9189 Oak Ave,UNKNOWN,NY,20794,USA,2019-07-31 21:48:28,2023-09-19 06:24:36,Silver,en-US,1,Alex Miller
+141,David,Doe,06f9a645@example.org,8920686660,03/21/1966,7584 Oak Ave,New York,CA,10812,USA,2019-10-08 04:02:25,2023-04-09 19:28:53,,es-ES,No,David Doe
+142,Alex,ANDERSON,c0cde27e@example.org,+1-417-379-1183,1990-12-06,526 Maple Dr,Chicago,IL,65656,USA,2018-01-24 07:26:57,2023-10-24 22:57:19,Bronze,EN,True,Alex ANDERSON
+143,John,Davis,28348616@yahoo.com,9997941493,1961-12-30,1407 Cedar Ln,Houston,AZ,97885,USA,2019-10-27 12:53:32,2023-03-11 10:03:24,Silver,es-ES,0,John Davis
+144,David,,831f21fd@hotmail.com,+1-918-181-1376,1969-12-17,6131 Main St,Phoenix,IL,49401,US,2018-09-08 20:02:36,2023-08-09 10:31:49,Platinum,EN,No,David 
+145,KIM,ANDERSON,9550c57d@example.org,6763167501,1971-11-06,9477 Maple Dr,UNKNOWN,IL,84063,USA,2019-03-07 14:21:16,2023-08-28 14:22:48,,fr-FR,True,KIM ANDERSON
+146,Mike,Smith,17e78600@gmail.com,+1-937-421-9757,1974-01-29,5627 Main St,Los Angeles,AZ,36158,USA,2019-03-18 18:28:18,2023-10-11 04:04:35,Bronze,es-ES,False,Mike Smith
+147,Mike,Miller,004c59ff@hotmail.com,2612314522,1982-12-04,9017 Maple Dr,Chicago,AZ,00000,USA,2022-06-10 02:49:54,2023-10-29 18:44:01,Gold,es-ES,1,Mike Miller
+148,  sam  ,Miller,10a9e503@test.com,6518368988,1982-11-22,5891 Cedar Ln,New York,Texas,28078,USA,2019-01-09 00:02:10,2023-10-22 23:55:22,Bronze,es-ES,No,  sam   Miller
+149,chris,Brown,be0c26ec@test.com,6419968531,1979-05-28,5294 Maple Dr,n/a,Texas,00000,USA,2018-11-05 21:12:26,2023-07-22 02:42:34,Gold,fr-FR,False,chris Brown
+150,KIM,Moore,b00cde87@example.org,+1-738-337-3280,1976-04-05,2509 Maple Dr,Chicago,TX,78897,US,2020-08-09 04:04:06,2023-08-23 17:13:51,,en-US,True,KIM Moore
+151,KIM,Brown,570acccc@example.org,+1-695-986-2467,04/19/1995,1829 Cedar Ln,Chicago,California,22141,USA,2021-08-22 04:18:02,2023-09-25 11:57:21,Gold,EN,No,KIM Brown
+152,,Moore,6158247a@yahoo.com,+1-747-223-1068,1960-01-23,1779 Oak Ave,UNKNOWN,California,49287,USA,2022-10-18 16:16:51,2023-07-07 03:42:23,Platinum,es-ES,0, Moore
+153,Alex,Moore,494d7b5f@gmail.com,+1-862-725-6995,1965-10-06,9684 Maple Dr,Chicago,TX,30963,USA,2022-04-27 06:45:13,2023-04-08 17:22:33,Gold,fr-FR,No,Alex Moore
+154,Mike,Davis,invalid_email_at_test.com,+1-107-836-8417,1962-08-06,1288 Oak Ave,Chicago,IL,10657,USA,2020-11-23 02:54:34,2023-01-20 11:30:32,Platinum,en-US,False,Mike Davis
+155,John,Brown,8b46409d@example.org,+1-851-972-1568,06/28/1963,2247 Maple Dr,Los Angeles,IL,15445,USA,2019-02-20 18:15:54,2023-12-14 04:53:21,,EN,No,John Brown
+156,Mary,Doe,ae248fbe@hotmail.com,+1-562-413-4606,2002-09-14,5635 Oak Ave,n/a,NY,88861,USA,2018-07-30 02:27:41,2023-09-12 17:51:07,,fr-FR,0,Mary Doe
+157,Mary,,invalid_email_at_test.com,+1-395-541-9062,1974-10-28,1631 Oak Ave,n/a,NY,97116,USA,2022-02-08 15:06:18,2023-07-11 05:03:35,Bronze,EN,1,Mary 
+158,David,Johnson,90064a0a@example.org,+1-421-679-7599,1980-04-11,3976 Oak Ave,n/a,California,68408,USA,2020-07-26 22:02:41,2023-03-10 22:03:52,Platinum,es-ES,1,David Johnson
+159,Mike,Johnson,9f34ea6d@example.org,+1-728-272-7631,1963-08-16,2385 Main St,Houston,TX,23378,USA,2022-12-29 14:03:41,2023-08-07 16:43:55,Platinum,en-US,False,Mike Johnson
+160,Mike,Brown,b81114df@yahoo.com,2069408873,1970-11-29,3944 Main St,Phoenix,,44373,USA,2022-01-22 15:13:03,2023-08-08 01:03:21,Silver,fr-FR,True,Mike Brown
+161,  sam  ,Brown,3020c338@hotmail.com,8559377151,1993-06-28,7118 Oak Ave,n/a,Texas,27164,USA,2018-09-22 03:13:31,2023-10-19 19:04:40,Silver,en-US,False,  sam   Brown
+162,Mary,ANDERSON,invalid_email_at_example.org,+1-995-487-3796,1964-07-28,1816 Main St,Chicago,,37608,USA,2018-12-14 09:49:18,2023-10-03 15:11:05,Silver,es-ES,1,Mary ANDERSON
+163,Mike,,invalid_email_at_yahoo.com,2447108510,1974-09-07,5118 Oak Ave,Chicago,TX,33854,USA,2022-06-23 01:20:33,2023-06-22 16:18:39,Gold,en-US,Yes,Mike 
+164,  sam  ,,invalid_email_at_test.com,+1-895-628-2557,1996-01-19,4014 Oak Ave,n/a,NY,24766,USA,2021-02-07 20:53:16,2023-04-13 21:41:12,Silver,en-US,Yes,  sam   
+165,Alex,Davis,ef1b14a0@hotmail.com,+1-493-128-5752,1966-09-22,6143 Oak Ave,UNKNOWN,California,39277,USA,2018-07-17 00:26:00,2023-02-08 17:29:05,Platinum,en-UK,No,Alex Davis
+166,Sarah,Brown,678f7b36@yahoo.com,+1-908-409-2425,2002-08-06,2951 Main St,n/a,California,49288,USA,2020-07-09 09:21:39,2023-10-30 03:31:59,Gold,en-US,0,Sarah Brown
+167,,,a215d508@example.org,+1-406-112-1643,1993-08-07,8210 Maple Dr,Chicago,NY,17455,USA,2020-03-31 23:13:11,2023-08-08 10:59:31,,EN,, 
+168,Jane,ANDERSON,1ea88112@yahoo.com,+1-563-868-7478,1989-09-07,1692 Cedar Ln,Houston,,54475,USA,2020-11-20 12:47:53,2023-11-02 18:23:34,Bronze,fr-FR,,Jane ANDERSON
+169,KIM,Moore,d82ecdef@example.org,+1-999-504-5868,1989-04-30,4730 Oak Ave,New York,CA,46467,USA,2022-05-08 17:44:04,2023-11-13 22:03:39,Silver,en-UK,,KIM Moore
+170,chris,Miller,07ab5378@test.com,4968315854,11/21/1962,9751 Oak Ave,New York,CA,94059,USA,2020-11-13 13:17:35,2023-07-19 17:37:05,,fr-FR,No,chris Miller
+171,David,Miller,invalid_email_at_example.org,+1-324-671-3197,06/25/1962,9158 Cedar Ln,n/a,NY,27812,US,2018-03-28 20:14:36,2023-08-13 20:34:08,Platinum,fr-FR,Yes,David Miller
+172,Sarah,Moore,invalid_email_at_test.com,+1-891-551-2565,2003-11-17,8558 Cedar Ln,Los Angeles,CA,72650,USA,2020-06-14 04:27:37,2023-02-18 07:48:02,Bronze,es-ES,1,Sarah Moore
+173,,Wilson,b2e7119a@hotmail.com,+1-668-143-4757,1986-08-24,9183 Maple Dr,n/a,AZ,88693,USA,2019-02-27 15:08:35,2023-03-05 03:24:43,,es-ES,No, Wilson
+174,,ANDERSON,809f31c4@gmail.com,+1-817-338-9211,01/10/1961,4223 Maple Dr,UNKNOWN,TX,87569,US,2020-02-01 18:52:00,2023-10-01 15:09:23,Bronze,en-UK,, ANDERSON
+175,,,d4251573@hotmail.com,+1-102-677-8451,01/27/1980,3031 Oak Ave,n/a,TX,55882,USA,2019-12-29 04:11:14,2023-05-18 19:20:55,Silver,es-ES,, 
+176,,ANDERSON,c47dc29a@gmail.com,+1-266-850-8276,1969-09-13,9129 Main St,New York,NY,47611,USA,2020-09-08 09:28:50,2023-01-21 10:56:53,Platinum,es-ES,False, ANDERSON
+177,Mary,Moore,b4942893@test.com,+1-396-553-9282,1993-02-19,625 Oak Ave,Chicago,IL,47788,US,2021-07-03 08:04:59,2023-12-08 11:40:10,Bronze,es-ES,,Mary Moore
+178,  sam  ,Doe,c26ece7d@example.org,+1-697-655-9271,1981-01-19,8972 Oak Ave,n/a,Texas,39127,USA,2019-08-01 15:24:42,2023-01-30 18:54:57,,fr-FR,0,  sam   Doe
+179,KIM,taylor,52678ad7@hotmail.com,+1-572-996-6607,1968-03-14,8490 Maple Dr,Chicago,,68347,USA,2019-01-07 14:15:36,2023-02-11 16:15:52,Silver,en-UK,,KIM taylor
+180,Mike,Smith,10f53359@hotmail.com,+1-602-958-3973,1986-10-31,4658 Main St,Chicago,NY,77145,USA,2022-09-10 03:33:18,2023-08-05 23:54:53,Silver,fr-FR,False,Mike Smith
+181,,Moore,64760c45@hotmail.com,2000806891,06/24/1986,6717 Oak Ave,Los Angeles,CA,79166,USA,2020-02-06 00:16:27,2023-12-27 20:32:01,,EN,, Moore
+182,chris,,ac23ef48@example.org,+1-283-765-7698,1973-10-20,5392 Maple Dr,Chicago,,93399,USA,2020-02-23 04:37:25,2023-06-26 01:30:04,,fr-FR,0,chris 
+183,Mike,Brown,54905d07@hotmail.com,+1-339-311-2077,1982-08-21,9234 Oak Ave,New York,IL,00000,USA,2022-08-02 04:27:37,2023-03-06 04:41:50,Bronze,EN,1,Mike Brown
+184,John,Brown,793a49ca@example.org,+1-620-624-7886,1975-12-21,3607 Oak Ave,Houston,CA,63870,US,2022-07-10 19:08:00,2023-10-30 04:56:04,Gold,en-US,No,John Brown
+185,John,Davis,7e5afa2f@yahoo.com,+1-791-912-3869,12/12/1994,7069 Cedar Ln,Houston,California,31512,USA,2019-02-14 03:59:11,2023-11-23 12:46:19,Silver,en-US,0,John Davis
+186,chris,Moore,f031db17@example.org,6346383638,1963-02-21,4537 Maple Dr,Phoenix,Texas,40210,US,2019-03-10 05:47:02,2023-04-02 09:26:43,Bronze,EN,False,chris Moore
+187,  sam  ,Davis,ec28e279@hotmail.com,8254052496,1998-10-09,1763 Cedar Ln,UNKNOWN,AZ,71226,USA,2022-09-19 17:23:14,2023-03-12 13:37:00,,EN,No,  sam   Davis
+188,chris,Moore,2adca66a@yahoo.com,+1-102-297-8831,1983-02-24,6213 Cedar Ln,n/a,CA,80982,USA,2021-12-19 04:42:39,2023-03-03 23:19:02,Bronze,fr-FR,No,chris Moore
+189,Mary,ANDERSON,invalid_email_at_hotmail.com,4084414792,2001-10-27,812 Cedar Ln,UNKNOWN,AZ,00000,USA,2021-04-23 02:13:45,2023-01-14 20:18:31,,EN,False,Mary ANDERSON
+190,chris,Smith,f80c20cc@example.org,9210631023,2001-03-29,1284 Main St,New York,,65445,USA,2019-12-04 07:15:47,2023-06-17 22:49:56,Platinum,en-UK,Yes,chris Smith
+191,Alex,ANDERSON,de378ed0@example.org,+1-794-560-8748,1964-05-22,4544 Maple Dr,Chicago,AZ,11241,USA,2020-03-21 14:42:44,2023-12-09 16:57:45,,en-US,,Alex ANDERSON
+192,Mike,taylor,b0240379@test.com,9204538787,1965-04-30,9778 Main St,Houston,,96953,USA,2019-01-03 10:11:33,2023-07-15 19:49:33,,en-US,0,Mike taylor
+193,Sarah,Miller,af5bd033@test.com,+1-433-153-7989,01/06/1971,5525 Maple Dr,UNKNOWN,,77836,USA,2019-02-15 23:16:13,2023-07-13 00:25:08,,EN,False,Sarah Miller
+194,Emily,Johnson,0706c130@yahoo.com,+1-154-911-7108,2002-05-15,2558 Main St,New York,,26778,USA,2022-04-14 17:11:05,2023-12-23 00:36:33,Gold,es-ES,1,Emily Johnson
+195,  sam  ,Moore,eaa129a3@gmail.com,+1-600-401-6255,03/13/1972,4325 Maple Dr,Houston,,37903,USA,2022-12-16 12:12:25,2023-05-04 13:32:07,,es-ES,True,  sam   Moore
+196,chris,taylor,7dac59bc@hotmail.com,+1-726-838-9832,1975-01-06,4322 Oak Ave,Chicago,,37837,US,2021-12-07 11:35:40,2023-09-07 14:22:05,Silver,EN,False,chris taylor
+197,David,Miller,f7c02351@test.com,+1-242-627-6311,08/14/1989,8739 Oak Ave,UNKNOWN,CA,56910,USA,2021-06-10 13:26:34,2023-06-15 14:26:41,Silver,en-UK,,David Miller
+198,John,,9bc8ad41@yahoo.com,+1-361-492-7890,1989-06-01,9349 Oak Ave,Houston,,87288,USA,2020-11-07 01:36:53,2023-06-09 08:23:27,Bronze,es-ES,,John 
+199,Alex,Wilson,invalid_email_at_hotmail.com,+1-920-200-8891,1997-02-07,940 Oak Ave,n/a,CA,28976,USA,2019-07-12 08:25:51,2023-06-30 15:35:21,Gold,EN,No,Alex Wilson
+200,KIM,Smith,27379b0b@yahoo.com,+1-831-914-6941,2003-12-26,7369 Oak Ave,n/a,,18172,USA,2020-01-04 10:25:11,2023-01-17 22:16:43,Bronze,en-UK,No,KIM Smith
+201,,Davis,1d64bd01@gmail.com,+1-662-128-8999,1976-08-02,8923 Maple Dr,Phoenix,AZ,46686,USA,2021-07-16 17:05:43,2023-04-22 20:20:37,Silver,en-UK,False, Davis
+202,Emily,Davis,1fc609c1@gmail.com,8660796130,1963-01-22,5698 Oak Ave,Phoenix,California,38744,USA,2018-03-07 22:56:58,2023-05-13 01:16:39,Silver,fr-FR,True,Emily Davis
+203,  sam  ,ANDERSON,c30b6f81@yahoo.com,+1-876-134-7088,1984-08-26,1263 Cedar Ln,Houston,,36199,USA,2021-09-24 16:32:58,2023-01-02 13:57:25,Platinum,en-UK,False,  sam   ANDERSON
+204,Sarah,Brown,687bac08@example.org,+1-329-545-1884,1976-10-08,1473 Oak Ave,New York,IL,75447,USA,2022-06-21 09:52:11,2023-07-07 23:17:55,,es-ES,True,Sarah Brown
+205,Emily,Miller,82a56e31@example.org,+1-232-504-2205,1984-08-25,3763 Cedar Ln,n/a,,79252,US,2018-12-17 22:28:59,2023-12-18 21:03:40,Silver,es-ES,True,Emily Miller
+206,chris,Wilson,59627e76@example.org,+1-656-244-5878,09/10/1984,1738 Maple Dr,New York,,52752,US,2018-01-21 21:31:58,2023-08-02 07:15:47,Bronze,EN,,chris Wilson
+207,Mary,taylor,817d4326@yahoo.com,6531329825,2000-10-19,2165 Maple Dr,New York,AZ,44272,USA,2019-12-21 09:22:24,2023-01-14 17:40:37,Bronze,EN,,Mary taylor
+208,John,Smith,cda2f7bf@gmail.com,+1-313-966-8027,1963-06-04,8621 Maple Dr,Houston,Texas,44302,USA,2021-01-06 23:33:45,2023-04-12 01:13:49,,en-UK,,John Smith
+209,John,Miller,a0e4267a@hotmail.com,2091841769,1985-02-13,1962 Maple Dr,New York,TX,64313,USA,2019-03-07 07:10:57,2023-06-24 23:08:46,,en-US,1,John Miller
+210,KIM,Wilson,invalid_email_at_gmail.com,+1-668-200-8727,1988-06-13,1819 Oak Ave,n/a,AZ,61983,USA,2019-03-07 00:32:49,2023-05-06 06:48:47,Platinum,fr-FR,,KIM Wilson
+211,Mary,Johnson,71433747@test.com,+1-145-519-2949,2000-03-09,3353 Cedar Ln,Chicago,IL,13454,USA,2019-01-23 16:17:15,2023-04-21 17:49:48,Gold,en-US,0,Mary Johnson
+212,,Moore,cb28d875@gmail.com,+1-176-159-6632,07/18/1974,2176 Main St,Phoenix,TX,71942,US,2018-11-13 02:48:18,2023-04-01 19:13:39,Bronze,en-UK,No, Moore
+213,Mike,Davis,invalid_email_at_yahoo.com,+1-484-644-3169,1999-12-07,2491 Oak Ave,Chicago,NY,74000,USA,2019-04-09 20:15:21,2023-07-14 19:15:03,,en-UK,No,Mike Davis
+214,Jane,taylor,7f487177@example.org,+1-858-243-5508,1969-02-28,1532 Oak Ave,New York,NY,13875,USA,2019-10-22 23:13:26,2023-06-05 12:40:56,Bronze,en-US,True,Jane taylor
+215,Alex,Davis,672b76f1@hotmail.com,+1-390-603-9264,1985-03-17,7430 Cedar Ln,Chicago,Texas,29777,USA,2022-09-12 12:56:49,2023-06-09 00:25:03,,fr-FR,No,Alex Davis
+216,John,taylor,25e3f4d9@gmail.com,+1-369-677-4199,1994-12-01,6072 Cedar Ln,n/a,IL,66117,USA,2020-11-09 19:23:41,2023-08-12 00:04:48,Silver,en-US,Yes,John taylor
+217,David,ANDERSON,a97d2bad@example.org,+1-215-953-6747,11/05/1971,3303 Main St,n/a,AZ,78245,USA,2020-12-26 22:38:55,2023-03-21 04:55:08,Bronze,EN,True,David ANDERSON
+218,John,Brown,b3c8edb2@test.com,8373218190,2001-08-23,306 Main St,New York,CA,97283,USA,2018-08-30 12:55:01,2023-09-12 01:23:31,Silver,es-ES,No,John Brown
+219,Emily,taylor,40830247@example.org,6430513875,2002-12-21,9077 Cedar Ln,Houston,IL,91565,USA,2022-07-11 22:28:08,2023-01-31 10:18:57,Bronze,EN,Yes,Emily taylor
+220,John,Davis,5623a555@hotmail.com,+1-143-692-6736,11/01/1966,8419 Maple Dr,Chicago,California,98083,USA,2019-12-01 00:35:58,2023-06-02 15:09:25,Gold,es-ES,1,John Davis
+221,  sam  ,ANDERSON,b77ff771@hotmail.com,6731444471,1965-11-28,3537 Main St,Houston,TX,65859,USA,2019-08-08 16:16:02,2023-12-03 02:53:54,Platinum,en-UK,No,  sam   ANDERSON
+222,John,taylor,invalid_email_at_hotmail.com,+1-689-762-8959,1963-08-10,2241 Cedar Ln,Houston,TX,78769,USA,2018-03-19 23:15:49,2023-06-30 17:23:34,Silver,fr-FR,Yes,John taylor
+223,Jane,Johnson,1889e366@example.org,+1-703-600-1465,1978-02-13,7145 Oak Ave,Los Angeles,,94218,USA,2019-07-20 10:03:09,2023-02-25 06:46:55,,en-US,False,Jane Johnson
+224,Jane,Brown,c71e1873@example.org,3556883927,1975-04-14,3529 Cedar Ln,New York,NY,34042,USA,2019-08-21 02:37:52,2023-11-11 21:04:44,Gold,fr-FR,0,Jane Brown
+225,,taylor,ad9e4ebc@hotmail.com,+1-172-296-9207,1960-05-08,6897 Cedar Ln,Phoenix,Texas,52071,USA,2021-11-28 21:34:21,2023-11-11 15:27:54,Bronze,en-US,False, taylor
+226,Sarah,ANDERSON,07ea1b6a@gmail.com,8753910503,1973-10-30,1407 Main St,n/a,TX,49886,USA,2020-08-27 22:33:16,2023-06-26 02:06:07,Silver,EN,Yes,Sarah ANDERSON
+227,Mike,,e6321919@hotmail.com,+1-521-859-2922,10/12/1978,7063 Main St,n/a,IL,93007,USA,2019-10-29 23:57:19,2023-12-12 16:18:02,Bronze,EN,True,Mike 
+228,David,Miller,invalid_email_at_gmail.com,+1-695-325-3266,2003-06-10,1136 Cedar Ln,New York,TX,20829,USA,2018-06-20 08:04:43,2023-04-30 21:42:28,Bronze,en-US,,David Miller
+229,John,Doe,f4c4caa3@gmail.com,+1-634-607-5360,1962-01-24,6812 Main St,UNKNOWN,Texas,74017,USA,2021-06-27 07:32:36,2023-10-05 14:40:03,Bronze,fr-FR,,John Doe
+230,John,Wilson,4f598afe@test.com,+1-881-265-6004,1972-09-23,2356 Oak Ave,UNKNOWN,Texas,30095,USA,2018-12-21 23:30:01,2023-10-01 22:49:56,Platinum,en-US,,John Wilson
+231,Alex,Doe,d913d2f7@test.com,1526383815,1991-01-15,5305 Main St,UNKNOWN,Texas,67458,USA,2021-11-15 15:10:37,2023-02-14 16:40:07,Platinum,en-UK,True,Alex Doe
+232,Jane,,78165e91@test.com,2725438304,12/24/1999,291 Oak Ave,Phoenix,IL,45420,USA,2022-04-01 17:40:28,2023-05-18 22:17:22,,EN,No,Jane 
+233,David,Doe,6f3787b7@gmail.com,7921251403,11/09/1988,8429 Oak Ave,n/a,CA,85223,US,2022-01-16 20:18:34,2023-08-30 22:00:06,Silver,en-UK,,David Doe
+234,,,8e66c734@yahoo.com,+1-495-971-2292,1979-12-14,2238 Oak Ave,New York,,93705,USA,2022-06-19 15:48:51,2023-01-31 17:50:22,Gold,EN,False, 
+235,KIM,Smith,efe07d04@example.org,+1-615-951-1535,1975-02-07,4575 Oak Ave,n/a,NY,59837,USA,2019-07-15 02:31:34,2023-06-19 09:11:41,Gold,EN,True,KIM Smith
+236,Sarah,,b199c0da@test.com,6843692646,1983-10-15,7828 Maple Dr,Houston,TX,63546,USA,2019-12-29 12:16:21,2023-04-21 03:15:17,Gold,es-ES,True,Sarah 
+237,Mike,,f4dc0287@yahoo.com,+1-995-481-8275,1996-09-27,5292 Maple Dr,Chicago,IL,34957,USA,2018-02-01 19:53:45,2023-09-03 12:05:31,Bronze,en-UK,,Mike 
+238,Mary,,aa246b88@example.org,+1-316-551-3708,1967-09-16,700 Maple Dr,Chicago,AZ,77294,US,2021-08-24 18:17:24,2023-06-09 23:06:55,Platinum,en-UK,False,Mary 
+239,Mike,Johnson,8aefc3cd@hotmail.com,4094348211,1992-03-27,8729 Cedar Ln,n/a,NY,91490,USA,2018-05-02 06:42:22,2023-08-01 03:56:00,Silver,es-ES,1,Mike Johnson
+240,  sam  ,Miller,52e2b64f@yahoo.com,+1-251-692-2110,1994-10-17,2963 Oak Ave,Los Angeles,CA,34712,USA,2019-03-31 17:54:22,2023-02-19 09:16:28,Bronze,fr-FR,True,  sam   Miller
+241,Emily,Moore,invalid_email_at_example.org,9732842805,1998-03-06,4973 Maple Dr,Phoenix,IL,72637,USA,2021-10-25 03:24:51,2023-03-07 21:23:34,Platinum,en-UK,,Emily Moore
+242,  sam  ,taylor,8791a37f@example.org,+1-709-401-1071,2001-02-09,4367 Cedar Ln,UNKNOWN,California,39263,USA,2021-04-09 04:28:15,2023-04-04 23:58:05,Platinum,en-US,0,  sam   taylor
+243,John,Wilson,f1fbd665@hotmail.com,3562567292,05/26/1997,2000 Cedar Ln,Phoenix,California,94390,US,2019-06-24 10:08:22,2023-04-28 18:53:48,Silver,es-ES,Yes,John Wilson
+244,Sarah,Brown,e36d6a6b@gmail.com,+1-149-978-3570,1991-07-27,7569 Maple Dr,Phoenix,,60547,US,2018-01-12 01:20:05,2023-12-04 16:52:22,Silver,en-UK,No,Sarah Brown
+245,Emily,Miller,40b8e096@test.com,+1-598-575-9389,2003-11-28,6272 Main St,Houston,,84268,USA,2022-12-30 18:45:43,2023-03-05 04:31:41,Silver,fr-FR,True,Emily Miller
+246,David,Davis,9cacf6c7@example.org,4475001499,1983-05-01,3566 Maple Dr,Phoenix,CA,27052,USA,2021-07-10 17:56:35,2023-03-29 16:15:27,Bronze,en-UK,0,David Davis
+247,Mary,Moore,ebe88d5b@example.org,+1-844-813-5194,10/20/1982,731 Oak Ave,Chicago,CA,76753,USA,2021-03-22 06:32:25,2023-02-16 10:53:02,,EN,0,Mary Moore
+248,Jane,Smith,f04f26f4@gmail.com,+1-608-504-5467,02/15/2002,4641 Maple Dr,Houston,,11054,USA,2019-07-24 02:58:44,2023-02-03 06:01:15,Silver,en-US,True,Jane Smith
+249,Sarah,Smith,d04a3b0a@test.com,+1-362-535-9390,1973-01-01,920 Oak Ave,New York,TX,16590,USA,2021-06-26 23:39:12,2023-04-29 06:34:56,,es-ES,1,Sarah Smith
+250,Sarah,,37344a7a@yahoo.com,+1-779-809-1893,1996-04-16,3485 Cedar Ln,Phoenix,TX,47010,USA,2022-01-17 22:19:51,2023-06-18 16:24:08,Bronze,EN,Yes,Sarah 
+251,  sam  ,Miller,2958ad93@yahoo.com,+1-595-864-2177,11/09/1976,2987 Oak Ave,Phoenix,IL,62925,USA,2022-03-29 10:18:40,2023-08-04 11:54:22,,fr-FR,No,  sam   Miller
+252,John,ANDERSON,24e48d59@gmail.com,+1-323-409-7635,1980-05-16,1824 Oak Ave,New York,AZ,35421,USA,2021-08-09 19:57:24,2023-12-04 05:10:03,Gold,EN,True,John ANDERSON
+253,chris,Doe,074b938b@hotmail.com,7308785135,1971-10-15,5850 Maple Dr,Phoenix,IL,37043,USA,2019-04-22 01:09:18,2023-03-09 03:15:45,,EN,No,chris Doe
+254,,Davis,invalid_email_at_hotmail.com,+1-270-115-2338,1980-10-26,167 Maple Dr,New York,AZ,63857,USA,2019-11-28 03:50:45,2023-10-14 10:23:00,Silver,fr-FR,False, Davis
+255,  sam  ,Smith,f9eb2993@yahoo.com,+1-648-811-3982,1982-11-13,4627 Oak Ave,Houston,CA,32887,USA,2022-08-02 01:30:45,2023-04-04 00:55:08,Bronze,EN,0,  sam   Smith
+256,Sarah,Wilson,7206c6cf@example.org,6428466989,01/06/1992,4646 Cedar Ln,Chicago,NY,79411,USA,2018-07-28 01:49:08,2023-06-30 22:50:02,Silver,es-ES,0,Sarah Wilson
+257,Alex,Smith,71e6a270@example.org,3813895702,1992-03-28,8669 Maple Dr,New York,IL,45313,USA,2019-11-01 07:18:55,2023-06-28 10:41:55,Gold,en-UK,True,Alex Smith
+258,Mary,Brown,2b6f80ee@hotmail.com,1463633991,1989-07-01,4335 Maple Dr,Los Angeles,IL,92780,USA,2019-08-11 22:01:50,2023-08-01 15:44:22,Silver,EN,True,Mary Brown
+259,,taylor,f25cdd49@test.com,1027032791,10/23/1964,2490 Main St,New York,AZ,79148,US,2018-09-08 12:48:59,2023-04-29 03:30:47,Silver,es-ES,False, taylor
+260,  sam  ,Smith,8eae0d9f@yahoo.com,+1-528-768-8129,01/09/1973,5268 Maple Dr,Phoenix,Texas,64019,USA,2022-08-06 20:01:51,2023-12-15 01:12:31,Silver,en-UK,1,  sam   Smith
+261,Mary,Brown,invalid_email_at_hotmail.com,4416030163,1984-04-14,5958 Cedar Ln,UNKNOWN,CA,26357,USA,2019-06-08 07:36:37,2023-11-14 07:40:42,Platinum,en-UK,True,Mary Brown
+262,Alex,Miller,a0c52274@example.org,+1-994-261-3534,1963-03-21,9199 Oak Ave,UNKNOWN,CA,74529,USA,2021-02-13 07:39:35,2023-04-05 20:10:53,Gold,EN,0,Alex Miller
+263,KIM,Miller,9edf49bd@example.org,+1-992-471-5326,07/02/2002,5820 Maple Dr,Houston,California,98707,USA,2019-11-06 07:51:09,2023-02-21 06:10:22,Silver,es-ES,No,KIM Miller
+264,Alex,Moore,e0f9bac4@example.org,+1-929-370-7584,1979-04-28,2063 Main St,n/a,Texas,00000,USA,2019-10-15 02:36:42,2023-01-29 14:05:30,Silver,EN,Yes,Alex Moore
+265,Alex,Smith,f6bb2f80@hotmail.com,+1-868-718-2452,1991-05-03,1060 Cedar Ln,Houston,AZ,85259,USA,2019-12-07 22:30:15,2023-01-02 12:38:56,Silver,fr-FR,,Alex Smith
+266,Mary,Wilson,d95ea9f9@gmail.com,+1-492-367-7853,1974-07-29,2955 Oak Ave,n/a,CA,00000,USA,2019-09-28 19:47:51,2023-10-17 09:20:52,Bronze,en-UK,No,Mary Wilson
+267,Mike,Smith,f7d6741e@gmail.com,9507178050,01/23/1988,522 Cedar Ln,UNKNOWN,Texas,90938,USA,2021-07-14 12:33:32,2023-03-01 15:07:10,Platinum,EN,1,Mike Smith
+268,Mary,Wilson,invalid_email_at_hotmail.com,+1-116-948-4277,1966-05-10,8861 Main St,UNKNOWN,,62099,USA,2019-10-05 00:59:17,2023-05-01 00:05:54,Bronze,en-UK,Yes,Mary Wilson
+269,chris,Johnson,57d92a45@example.org,3852281333,1978-10-11,3598 Oak Ave,New York,Texas,60939,USA,2022-05-02 03:35:45,2023-09-08 05:24:32,Platinum,es-ES,No,chris Johnson
+270,John,,6aafd68a@example.org,+1-401-918-5546,1991-07-27,6739 Oak Ave,Chicago,TX,33461,USA,2022-05-29 04:30:57,2023-08-11 18:26:26,Silver,en-US,No,John 
+271,Emily,Moore,604f955c@test.com,+1-559-777-2314,1994-12-17,3482 Oak Ave,Los Angeles,California,41060,US,2018-01-11 14:51:12,2023-09-10 18:36:37,Gold,EN,False,Emily Moore
+272,Mike,Johnson,708cd39a@test.com,+1-116-709-9444,1977-12-19,4041 Maple Dr,Houston,,36824,USA,2019-12-08 00:07:17,2023-11-03 06:39:57,,EN,,Mike Johnson
+273,Jane,Smith,c680ec6a@yahoo.com,+1-676-229-4573,1972-11-09,1525 Oak Ave,Phoenix,NY,51926,USA,2020-08-19 06:58:04,2023-03-03 11:41:10,,en-UK,1,Jane Smith
+274,Emily,Moore,0ed990fb@hotmail.com,+1-310-864-9896,1967-12-15,1463 Maple Dr,n/a,IL,42567,USA,2018-08-25 10:01:35,2023-05-19 00:17:35,Silver,es-ES,0,Emily Moore
+275,John,Johnson,e13ff62f@test.com,+1-950-708-9687,1979-04-18,3779 Maple Dr,Phoenix,California,43376,USA,2022-01-19 13:20:37,2023-07-07 20:58:52,Bronze,fr-FR,False,John Johnson
+276,  sam  ,Doe,e1583ee3@gmail.com,+1-842-814-6439,1997-05-13,7433 Main St,Chicago,NY,39647,USA,2022-05-31 12:06:07,2023-08-13 00:38:18,Gold,es-ES,Yes,  sam   Doe
+277,,Smith,c2129b5b@example.org,+1-651-256-9123,1978-07-27,1750 Maple Dr,n/a,IL,64280,USA,2019-12-05 12:03:38,2023-06-13 17:48:03,Platinum,EN,, Smith
+278,chris,Johnson,72b32649@hotmail.com,+1-351-686-1784,1973-03-17,4124 Cedar Ln,Houston,TX,20238,USA,2021-10-28 13:07:23,2023-06-11 07:22:10,Silver,fr-FR,0,chris Johnson
+279,chris,Doe,323d3703@test.com,+1-245-659-2476,1986-07-23,5953 Cedar Ln,New York,Texas,82702,USA,2019-12-04 20:46:34,2023-01-18 10:01:40,Gold,es-ES,False,chris Doe
+280,Jane,Doe,90d273f7@example.org,5321158463,1983-12-07,728 Maple Dr,Phoenix,CA,46263,USA,2018-10-12 06:31:30,2023-11-27 12:21:28,Gold,en-US,,Jane Doe
+281,Mike,Miller,4d02c73c@example.org,+1-877-731-8512,1989-08-12,4481 Maple Dr,Chicago,,41109,USA,2021-11-09 01:56:42,2023-11-07 01:00:12,Platinum,en-UK,1,Mike Miller
+282,KIM,Smith,4f0d04cd@hotmail.com,+1-816-337-3383,1990-07-22,2564 Maple Dr,Houston,AZ,14395,USA,2019-03-07 14:31:58,2023-12-11 13:27:33,Gold,es-ES,True,KIM Smith
+283,Alex,Doe,8d35fdf1@yahoo.com,9285339333,1986-03-11,6113 Oak Ave,UNKNOWN,,84203,USA,2022-12-05 02:10:04,2023-04-10 07:28:24,Bronze,es-ES,True,Alex Doe
+284,Mike,Miller,d4dfc788@gmail.com,+1-893-386-4710,02/25/1962,1024 Oak Ave,UNKNOWN,TX,14027,USA,2018-10-06 14:22:04,2023-03-03 03:37:02,Bronze,en-US,Yes,Mike Miller
+285,,Johnson,c81f9e8f@yahoo.com,+1-149-892-4606,1977-06-22,3388 Cedar Ln,Houston,NY,85474,USA,2018-09-10 13:28:16,2023-09-05 12:16:21,Bronze,EN,True, Johnson
+286,KIM,Brown,90457a0f@hotmail.com,+1-145-734-7813,05/18/2003,5549 Cedar Ln,Houston,AZ,00000,USA,2021-03-22 02:46:58,2023-04-20 15:05:37,Gold,en-UK,False,KIM Brown
+287,chris,Smith,1b07df08@test.com,+1-618-862-2433,1974-03-03,8569 Cedar Ln,Houston,CA,25331,USA,2021-01-19 19:07:31,2023-10-05 00:34:52,Bronze,es-ES,Yes,chris Smith
+288,Mary,Moore,227f6063@gmail.com,5886919897,1974-01-18,4922 Main St,n/a,TX,24205,USA,2020-04-10 16:50:18,2023-08-10 17:37:08,Platinum,fr-FR,0,Mary Moore
+289,,Wilson,522cf92d@hotmail.com,4160623337,1990-07-13,5350 Maple Dr,Houston,AZ,22790,USA,2022-12-29 07:45:24,2023-10-21 23:30:03,Gold,es-ES,1, Wilson
+290,John,Wilson,invalid_email_at_hotmail.com,+1-561-226-8389,2005-11-23,4826 Oak Ave,Phoenix,TX,43309,USA,2022-08-05 03:18:10,2023-12-13 20:45:14,,en-UK,Yes,John Wilson
+291,Jane,Johnson,3f680173@gmail.com,+1-340-895-3580,1970-09-01,5849 Oak Ave,Chicago,Texas,80245,USA,2022-03-22 14:31:17,2023-10-22 11:45:28,Gold,es-ES,0,Jane Johnson
+292,John,ANDERSON,0b6aed5a@gmail.com,+1-717-126-2792,1997-04-24,8521 Cedar Ln,n/a,TX,00000,US,2018-07-02 23:14:18,2023-12-19 07:24:55,Platinum,en-US,Yes,John ANDERSON
+293,,ANDERSON,046e5099@yahoo.com,3622741263,1997-02-07,5455 Maple Dr,Houston,CA,18519,USA,2019-11-12 23:00:45,2023-03-02 09:52:54,,es-ES,No, ANDERSON
+294,David,Johnson,cef10eb9@test.com,+1-114-711-5063,1970-10-22,1656 Maple Dr,Los Angeles,California,10562,USA,2018-01-14 19:39:42,2023-06-23 05:37:04,Gold,es-ES,No,David Johnson
+295,David,Doe,invalid_email_at_gmail.com,5661910390,1996-01-20,735 Oak Ave,Los Angeles,IL,22083,USA,2020-05-30 23:27:55,2023-05-01 05:19:15,Bronze,fr-FR,Yes,David Doe
+296,  sam  ,Smith,5c2d9331@yahoo.com,2221700292,08/29/1971,7716 Cedar Ln,Chicago,AZ,54343,USA,2021-12-29 14:22:39,2023-09-16 15:24:27,Silver,en-US,,  sam   Smith
+297,Mike,Wilson,a25d7900@yahoo.com,9448233969,1979-10-10,5742 Oak Ave,UNKNOWN,Texas,35396,USA,2020-02-22 14:01:57,2023-05-24 21:40:38,Silver,en-US,True,Mike Wilson
+298,chris,Wilson,0e4f385a@gmail.com,+1-437-994-3104,01/11/1973,6052 Maple Dr,New York,CA,26162,USA,2019-12-16 21:44:05,2023-05-25 20:04:47,Bronze,es-ES,No,chris Wilson
+299,chris,Doe,3c374406@yahoo.com,+1-148-856-4378,1986-02-10,9017 Cedar Ln,New York,TX,44063,USA,2020-05-02 12:29:18,2023-09-07 15:24:58,Silver,fr-FR,,chris Doe
+300,Alex,Wilson,6a0c1da4@gmail.com,+1-877-545-4297,2004-01-04,9644 Maple Dr,UNKNOWN,Texas,78694,USA,2019-12-15 12:15:09,2023-03-21 10:19:18,Silver,es-ES,,Alex Wilson
+301,Alex,Moore,66015e36@example.org,+1-994-793-3142,11/06/1990,8904 Main St,n/a,CA,46032,USA,2020-07-16 12:27:28,2023-05-28 04:47:42,Bronze,es-ES,1,Alex Moore
+302,Alex,Smith,588cc7ba@gmail.com,+1-734-756-3885,12/11/1975,6958 Maple Dr,n/a,California,77811,USA,2019-09-04 13:36:31,2023-01-12 12:38:13,Bronze,en-UK,0,Alex Smith
+303,Mary,taylor,b1254a61@yahoo.com,+1-519-811-8673,1969-06-13,7294 Main St,n/a,Texas,65220,USA,2019-01-16 00:20:06,2023-11-25 06:21:11,Gold,en-UK,False,Mary taylor
+304,Emily,Wilson,4058bebf@hotmail.com,8026204269,1962-08-05,7380 Cedar Ln,New York,Texas,71341,USA,2021-05-08 20:21:34,2023-11-09 13:21:14,Gold,fr-FR,No,Emily Wilson
+305,Sarah,Johnson,67a15aad@test.com,+1-392-252-6848,2005-03-02,9777 Maple Dr,Los Angeles,IL,76891,USA,2019-08-02 09:57:19,2023-01-31 21:48:12,Bronze,EN,Yes,Sarah Johnson
+306,Emily,Moore,5693e7fd@gmail.com,+1-468-921-5658,1969-03-15,7769 Oak Ave,New York,,00000,USA,2018-09-23 18:13:13,2023-03-27 02:53:41,Platinum,en-UK,True,Emily Moore
+307,John,Wilson,332b4dd5@hotmail.com,1031027503,1983-01-30,5155 Cedar Ln,Phoenix,AZ,49932,USA,2018-02-14 12:11:14,2023-11-16 16:31:21,Silver,EN,False,John Wilson
+308,Emily,,7b81dc4a@example.org,+1-959-610-6800,2000-11-16,9562 Oak Ave,Houston,IL,96021,USA,2018-02-15 10:08:02,2023-06-14 15:04:47,Gold,en-US,0,Emily 
+309,Mary,Moore,953e360e@example.org,+1-979-907-1838,1969-07-08,3829 Cedar Ln,n/a,NY,29591,USA,2021-09-20 19:52:28,2023-06-18 02:09:38,Silver,en-UK,,Mary Moore
+310,  sam  ,Miller,754e57fc@gmail.com,+1-237-211-4635,1991-10-22,8202 Oak Ave,Los Angeles,AZ,80612,USA,2021-04-29 17:53:13,2023-02-04 11:01:39,,en-UK,0,  sam   Miller
+311,John,taylor,e6fb5cd7@example.org,+1-533-286-7652,01/28/1979,1137 Oak Ave,Chicago,IL,49259,USA,2020-02-15 03:53:54,2023-08-17 03:25:33,Bronze,fr-FR,No,John taylor
+312,Emily,Davis,c3170660@gmail.com,+1-905-196-8708,1965-06-12,3442 Main St,Chicago,TX,74625,USA,2020-07-06 04:10:00,2023-05-24 00:05:22,Platinum,EN,0,Emily Davis
+313,Mary,Johnson,5f613bfe@yahoo.com,+1-458-217-6687,1996-11-25,1731 Maple Dr,Houston,AZ,95866,USA,2018-12-06 10:30:27,2023-11-26 12:08:25,,en-UK,0,Mary Johnson
+314,Sarah,Johnson,d6081ad5@example.org,+1-957-535-7982,1972-08-18,5579 Cedar Ln,Los Angeles,AZ,69470,USA,2019-10-25 06:03:08,2023-02-22 12:24:14,,en-UK,True,Sarah Johnson
+315,Emily,Smith,d72e5e0e@hotmail.com,+1-855-805-2569,1980-07-14,5896 Main St,New York,CA,14343,USA,2018-12-01 13:24:14,2023-10-16 12:33:04,,fr-FR,,Emily Smith
+316,Mary,Moore,2d23b8f5@example.org,+1-524-270-5282,1984-07-07,6221 Maple Dr,New York,TX,78074,USA,2018-08-27 07:13:46,2023-08-01 01:48:00,Bronze,fr-FR,True,Mary Moore
+317,Alex,Doe,a41d5132@yahoo.com,+1-344-266-1340,1964-06-26,4384 Oak Ave,Phoenix,NY,87521,USA,2020-09-16 02:02:49,2023-08-20 16:30:57,Gold,EN,True,Alex Doe
+318,chris,Johnson,209cee46@test.com,+1-619-123-5206,1991-06-01,521 Maple Dr,Phoenix,,20822,USA,2019-10-30 21:10:20,2023-02-01 10:19:08,Bronze,en-US,Yes,chris Johnson
+319,Alex,Moore,102bee17@test.com,+1-975-645-8079,2004-02-21,9034 Cedar Ln,New York,Texas,84942,USA,2019-12-09 09:36:42,2023-01-10 00:24:51,Gold,en-US,0,Alex Moore
+320,chris,Moore,623a2928@example.org,9933898146,2005-04-27,1545 Oak Ave,Chicago,California,33378,USA,2020-03-23 06:35:04,2023-05-05 11:36:37,,es-ES,0,chris Moore
+321,Jane,,b533c268@test.com,+1-717-796-7148,1985-11-26,9695 Maple Dr,n/a,IL,96640,USA,2018-12-14 04:48:47,2023-11-13 08:23:35,,en-UK,0,Jane 
+322,Jane,Brown,f58c7ff2@yahoo.com,+1-458-823-9788,01/25/1983,6379 Main St,Chicago,CA,57733,USA,2022-09-04 15:22:58,2023-05-17 04:16:28,Platinum,EN,1,Jane Brown
+323,Jane,Brown,14ae4130@test.com,+1-214-190-1952,02/14/1967,5893 Cedar Ln,Phoenix,IL,34165,USA,2018-07-25 04:28:58,2023-12-22 14:47:11,Gold,en-UK,True,Jane Brown
+324,Sarah,Davis,a76ffb20@hotmail.com,2670727924,1982-01-10,9461 Main St,Houston,NY,74982,USA,2022-01-01 17:51:50,2023-01-20 18:08:50,,EN,False,Sarah Davis
+325,Alex,Miller,834241dd@test.com,+1-608-568-2465,1967-11-12,4060 Oak Ave,New York,Texas,82732,USA,2021-10-07 20:29:56,2023-09-21 05:58:56,Silver,EN,No,Alex Miller
+326,chris,Davis,invalid_email_at_example.org,+1-930-477-1364,1991-05-23,6457 Main St,Phoenix,NY,38711,USA,2019-02-06 07:03:26,2023-07-25 08:20:11,Platinum,EN,,chris Davis
+327,Mary,Wilson,50f8e450@example.org,+1-898-695-1218,2005-05-25,4515 Oak Ave,Phoenix,AZ,31572,USA,2021-04-14 19:15:06,2023-06-15 07:54:10,Bronze,en-UK,False,Mary Wilson
+328,John,Doe,82de4e6a@example.org,+1-342-125-4761,1968-03-08,5102 Main St,n/a,California,38175,USA,2022-04-30 01:14:44,2023-05-07 23:44:04,Platinum,fr-FR,,John Doe
+329,Mary,Wilson,4378b741@test.com,+1-189-746-8658,1970-12-14,472 Oak Ave,New York,NY,16920,US,2018-10-04 08:34:28,2023-01-19 06:27:38,Silver,en-UK,Yes,Mary Wilson
+330,John,ANDERSON,a85612a5@test.com,+1-885-526-4267,1968-06-23,3500 Maple Dr,n/a,IL,25303,USA,2021-05-03 08:17:07,2023-04-29 00:52:59,Gold,EN,Yes,John ANDERSON
+331,David,Wilson,0f9a8d56@yahoo.com,+1-116-122-6548,1972-01-30,4782 Oak Ave,New York,TX,95310,USA,2021-03-22 11:42:33,2023-10-22 09:22:19,Bronze,es-ES,,David Wilson
+332,Mary,Smith,invalid_email_at_example.org,+1-563-967-2593,1983-11-10,6220 Cedar Ln,n/a,TX,86048,USA,2021-10-04 00:16:19,2023-04-26 20:13:07,Bronze,en-US,0,Mary Smith
+333,Emily,Wilson,8284963a@yahoo.com,+1-949-507-9637,1978-05-14,718 Main St,Chicago,AZ,22538,USA,2018-05-01 21:14:13,2023-09-21 09:57:00,Gold,EN,False,Emily Wilson
+334,Emily,Davis,fa543d59@yahoo.com,6001024386,1985-11-10,6171 Oak Ave,Houston,,88802,USA,2022-03-05 00:40:56,2023-12-02 05:18:11,Platinum,es-ES,0,Emily Davis
+335,Mike,Johnson,5c469692@hotmail.com,5447248692,1994-09-07,4845 Cedar Ln,Houston,IL,12074,USA,2018-07-19 00:40:45,2023-06-22 14:23:04,,fr-FR,1,Mike Johnson
+336,Alex,Johnson,216058df@gmail.com,+1-786-276-3760,05/07/1987,9760 Main St,New York,IL,58313,USA,2019-08-05 15:28:31,2023-12-25 22:35:18,Platinum,EN,Yes,Alex Johnson
+337,John,Brown,7db5673e@yahoo.com,+1-691-419-3369,1983-03-15,5905 Maple Dr,Los Angeles,NY,72031,USA,2020-05-08 05:09:30,2023-10-09 22:51:47,Silver,es-ES,Yes,John Brown
+338,John,Doe,d0730ff5@example.org,+1-970-983-1560,1964-11-16,4515 Maple Dr,UNKNOWN,California,87619,USA,2020-10-07 16:54:20,2023-07-21 23:00:02,,EN,False,John Doe
+339,,Doe,invalid_email_at_gmail.com,+1-857-518-1107,1973-02-26,9327 Cedar Ln,Phoenix,IL,54814,US,2018-07-28 09:13:58,2023-05-05 02:38:10,Platinum,en-UK,Yes, Doe
+340,  sam  ,Smith,82af0a00@example.org,5544547409,2003-10-19,2301 Maple Dr,Phoenix,CA,49445,USA,2018-11-27 06:01:15,2023-07-03 06:23:33,Gold,es-ES,1,  sam   Smith
+341,Alex,Davis,6ef61e0c@hotmail.com,+1-637-658-5406,1994-11-11,2738 Cedar Ln,New York,,65226,US,2018-01-18 20:50:12,2023-11-23 05:53:30,Silver,en-UK,1,Alex Davis
+342,Sarah,Brown,1cc1123a@hotmail.com,2899238652,1960-03-02,3824 Maple Dr,n/a,NY,31840,USA,2018-06-18 05:14:16,2023-04-09 16:28:28,Silver,en-UK,1,Sarah Brown
+343,Mike,,d1496592@test.com,+1-851-914-3357,2000-12-11,7616 Main St,Los Angeles,CA,12594,USA,2020-08-15 06:10:02,2023-12-10 12:23:06,Silver,es-ES,No,Mike 
+344,Sarah,ANDERSON,018b243b@hotmail.com,+1-324-579-1575,1982-06-11,2990 Cedar Ln,Chicago,AZ,85069,USA,2019-04-24 23:57:50,2023-12-12 14:34:52,,en-US,1,Sarah ANDERSON
+345,Sarah,Doe,815767b8@example.org,3998546201,2000-03-17,427 Cedar Ln,n/a,TX,63706,USA,2021-03-21 02:22:32,2023-04-01 19:22:52,Bronze,es-ES,1,Sarah Doe
+346,Sarah,Johnson,ba2e29a3@hotmail.com,+1-469-473-5224,1991-12-08,6313 Oak Ave,n/a,AZ,21444,USA,2018-12-29 22:01:25,2023-04-22 22:54:51,,en-US,No,Sarah Johnson
+347,Alex,Wilson,9bab9078@yahoo.com,+1-649-182-3732,1976-04-22,4959 Maple Dr,New York,TX,29281,USA,2021-06-11 02:00:41,2023-04-04 03:34:16,Platinum,EN,0,Alex Wilson
+348,Sarah,Wilson,b61f9c89@example.org,+1-463-124-5423,09/28/1980,3909 Oak Ave,New York,AZ,87782,USA,2022-04-01 06:53:06,2023-06-13 14:46:45,Bronze,EN,True,Sarah Wilson
+349,Emily,Brown,8ca48415@yahoo.com,2073254631,1962-09-22,941 Oak Ave,Phoenix,IL,00000,USA,2019-06-28 20:19:11,2023-05-22 06:59:39,Platinum,es-ES,Yes,Emily Brown
+350,  sam  ,Davis,invalid_email_at_gmail.com,+1-859-798-5910,1992-04-12,8862 Maple Dr,New York,CA,76011,USA,2020-04-08 11:58:31,2023-10-03 01:58:11,Bronze,EN,1,  sam   Davis
+351,  sam  ,Davis,1ee51af7@test.com,8870955241,1996-07-22,5475 Main St,New York,TX,51551,USA,2020-05-26 20:19:23,2023-11-05 16:01:25,,fr-FR,Yes,  sam   Davis
+352,Jane,Miller,b600cdab@example.org,7705627721,1965-06-09,7608 Main St,New York,NY,77646,USA,2020-05-28 11:30:29,2023-10-25 05:01:30,Silver,en-UK,False,Jane Miller
+353,David,taylor,f61f75f0@yahoo.com,9133822586,02/28/1993,9924 Oak Ave,Phoenix,CA,17761,USA,2020-05-06 07:36:17,2023-02-16 09:22:26,Gold,en-UK,Yes,David taylor
+354,John,Doe,7ae09b6c@gmail.com,+1-975-220-1501,1983-05-08,3065 Maple Dr,Chicago,NY,31744,USA,2020-02-06 02:07:12,2023-12-29 01:11:35,Silver,en-US,,John Doe
+355,,Davis,invalid_email_at_example.org,+1-646-795-4898,1962-11-07,6401 Main St,Chicago,CA,59335,USA,2021-05-21 03:34:52,2023-01-28 07:55:31,,EN,0, Davis
+356,John,Johnson,bdc28f16@hotmail.com,+1-149-860-3354,1972-08-24,1998 Cedar Ln,UNKNOWN,CA,38180,USA,2019-07-13 23:05:17,2023-07-27 14:05:59,Bronze,en-US,No,John Johnson
+357,David,Brown,9f1d4190@test.com,+1-230-386-7485,1976-10-26,3056 Oak Ave,UNKNOWN,AZ,88336,USA,2020-08-09 16:42:59,2023-05-07 09:15:21,Silver,en-UK,Yes,David Brown
+358,,ANDERSON,f43471ba@gmail.com,+1-864-194-4912,12/25/1994,8998 Cedar Ln,New York,TX,42578,USA,2021-12-17 16:44:31,2023-01-07 06:25:29,,en-UK,Yes, ANDERSON
+359,Alex,Miller,invalid_email_at_hotmail.com,+1-338-992-5947,1972-02-17,3555 Cedar Ln,UNKNOWN,TX,65985,USA,2021-05-26 01:51:28,2023-11-19 05:23:59,Platinum,EN,Yes,Alex Miller
+360,Mary,Moore,799599ad@example.org,+1-994-491-2154,1999-03-08,1168 Maple Dr,Phoenix,California,84644,USA,2019-08-27 11:04:10,2023-02-20 07:55:30,Gold,fr-FR,True,Mary Moore
+361,Alex,Smith,7f3ad336@hotmail.com,+1-687-696-5154,1994-09-28,6274 Main St,Chicago,CA,79177,USA,2020-03-10 06:59:26,2023-04-06 20:52:41,Silver,fr-FR,True,Alex Smith
+362,John,ANDERSON,c76f3fd0@gmail.com,+1-721-464-6999,1977-05-19,7441 Cedar Ln,n/a,IL,34670,USA,2021-06-29 07:34:35,2023-03-01 16:25:58,Bronze,EN,False,John ANDERSON
+363,John,Moore,7f75f6a9@hotmail.com,+1-879-737-3968,1974-10-06,5470 Cedar Ln,Chicago,IL,25139,US,2020-05-13 14:07:35,2023-08-08 02:32:44,Platinum,EN,No,John Moore
+364,,,43360111@gmail.com,+1-586-617-9524,2004-05-17,1057 Maple Dr,Chicago,NY,18797,USA,2021-03-10 05:19:25,2023-04-25 22:13:47,,en-US,Yes, 
+365,,Wilson,c7fed46e@hotmail.com,+1-720-117-5446,1960-12-05,8896 Cedar Ln,Phoenix,NY,89726,USA,2022-10-17 10:47:01,2023-10-20 15:32:24,Gold,EN,Yes, Wilson
+366,David,Smith,385b57eb@yahoo.com,+1-613-139-9354,05/20/1998,7976 Main St,UNKNOWN,AZ,86563,US,2022-11-22 08:12:50,2023-01-05 16:55:47,Bronze,fr-FR,Yes,David Smith
+367,Sarah,Doe,6ae0e4a2@yahoo.com,3003328552,09/06/1981,6841 Maple Dr,n/a,CA,00000,USA,2019-11-29 13:01:15,2023-06-22 03:57:43,,EN,Yes,Sarah Doe
+368,Alex,Johnson,c8c8f755@hotmail.com,1918768412,1988-05-29,9959 Oak Ave,Phoenix,NY,66244,USA,2020-03-08 02:37:13,2023-04-27 07:01:38,,en-US,True,Alex Johnson
+369,,Smith,347ed33d@example.org,4278007463,1968-08-03,6096 Oak Ave,New York,NY,27658,USA,2021-08-29 13:40:45,2023-08-02 08:46:39,Silver,en-US,0, Smith
+370,chris,taylor,ba10168f@test.com,4413236412,1964-12-02,3498 Cedar Ln,Houston,,64124,USA,2018-11-25 20:46:04,2023-07-14 21:50:30,Silver,en-US,0,chris taylor
+371,David,Moore,80df085c@example.org,7181712147,1976-01-05,8936 Main St,Chicago,CA,73115,USA,2021-11-27 05:44:44,2023-12-01 04:53:06,Bronze,en-US,False,David Moore
+372,Emily,Doe,acf2cbc0@example.org,+1-206-942-5444,2001-04-03,1977 Oak Ave,Houston,Texas,40371,USA,2020-12-29 14:46:25,2023-09-27 03:30:22,,es-ES,,Emily Doe
+373,John,taylor,78a83c5d@hotmail.com,+1-943-571-5928,1990-12-10,1806 Maple Dr,Phoenix,AZ,94230,USA,2019-05-18 10:23:32,2023-09-20 14:08:30,Silver,EN,1,John taylor
+374,David,Wilson,c3185a49@hotmail.com,+1-356-742-5044,1995-10-23,7023 Maple Dr,Phoenix,NY,27398,USA,2020-11-24 10:17:20,2023-07-28 11:29:58,Gold,en-UK,No,David Wilson
+375,Alex,taylor,0147614e@test.com,+1-739-979-9647,1971-12-05,2379 Main St,Phoenix,AZ,17453,USA,2021-09-04 19:11:33,2023-12-23 20:02:21,Gold,EN,0,Alex taylor
+376,,Miller,da832288@gmail.com,3650388844,1992-07-14,9064 Cedar Ln,Houston,TX,44954,USA,2020-05-23 18:53:53,2023-03-02 12:18:18,,es-ES,, Miller
+377,John,Miller,0f264c0b@gmail.com,+1-187-483-4926,04/28/1967,4533 Oak Ave,Phoenix,AZ,00000,USA,2020-03-09 05:44:21,2023-09-04 15:28:25,Silver,en-US,Yes,John Miller
+378,Mary,,6d2403ef@yahoo.com,1409077154,1961-04-28,226 Oak Ave,New York,Texas,54180,USA,2020-10-25 13:05:29,2023-11-25 05:07:53,Bronze,es-ES,0,Mary 
+379,David,Brown,607f47ef@hotmail.com,+1-724-893-8256,2001-07-31,9185 Maple Dr,Phoenix,IL,39379,USA,2022-02-17 05:14:47,2023-05-23 00:38:34,Bronze,fr-FR,False,David Brown
+380,Mike,ANDERSON,4a12850b@gmail.com,+1-576-646-9050,2004-04-09,2773 Cedar Ln,Los Angeles,Texas,70393,USA,2022-05-31 00:46:35,2023-05-06 02:15:01,Bronze,fr-FR,1,Mike ANDERSON
+381,John,ANDERSON,2726dafd@example.org,+1-838-665-4510,1998-01-25,60 Cedar Ln,UNKNOWN,IL,48450,USA,2022-04-19 23:43:38,2023-10-23 09:36:42,Gold,EN,0,John ANDERSON
+382,Alex,Doe,invalid_email_at_test.com,3211514917,1973-09-09,8956 Main St,Houston,AZ,67692,USA,2020-01-23 14:58:27,2023-11-03 06:58:26,Silver,EN,False,Alex Doe
+383,Jane,Wilson,eeece798@test.com,5849108786,02/18/1962,4093 Main St,Los Angeles,IL,99758,USA,2022-04-27 23:47:19,2023-03-31 23:54:39,Silver,en-UK,True,Jane Wilson
+384,chris,Davis,fd36d287@gmail.com,+1-964-179-4827,1982-01-06,2272 Oak Ave,Phoenix,TX,99714,USA,2018-07-20 05:07:40,2023-02-06 06:04:53,Gold,en-UK,1,chris Davis
+385,KIM,,5dbe02e1@hotmail.com,+1-496-549-2363,1998-12-17,2705 Oak Ave,New York,CA,20720,USA,2021-01-01 21:01:17,2023-04-25 22:14:05,Bronze,fr-FR,False,KIM 
+386,Sarah,Miller,22d76b96@yahoo.com,+1-449-753-3076,1970-02-24,5394 Cedar Ln,Chicago,IL,16476,USA,2018-10-24 22:04:35,2023-08-29 20:26:27,Bronze,en-US,,Sarah Miller
+387,KIM,Doe,714722b1@example.org,+1-290-334-9486,1969-01-22,5453 Maple Dr,n/a,IL,55855,USA,2019-01-29 10:44:31,2023-06-03 06:38:29,,es-ES,0,KIM Doe
+388,Alex,Davis,cab90f20@test.com,8885258276,1988-05-18,2895 Cedar Ln,UNKNOWN,AZ,10844,USA,2018-06-08 01:36:45,2023-08-13 07:12:48,Platinum,en-UK,True,Alex Davis
+389,Emily,ANDERSON,invalid_email_at_test.com,9564087022,1960-02-27,8208 Oak Ave,n/a,TX,21304,USA,2022-08-20 09:45:33,2023-07-31 21:50:33,Silver,en-UK,,Emily ANDERSON
+390,Emily,Brown,invalid_email_at_example.org,+1-993-361-3047,11/02/1975,455 Maple Dr,Phoenix,California,78492,USA,2022-08-31 21:21:46,2023-09-30 12:17:31,Silver,en-US,False,Emily Brown
+391,Jane,taylor,c409f61d@test.com,+1-931-969-7163,05/29/1965,8746 Maple Dr,UNKNOWN,California,88505,USA,2021-03-25 17:10:30,2023-12-30 09:30:40,Silver,en-US,False,Jane taylor
+392,Sarah,Miller,7c386f6a@gmail.com,+1-606-196-7658,03/16/2003,4365 Oak Ave,UNKNOWN,California,32937,USA,2018-03-20 07:52:47,2023-01-24 07:44:34,Platinum,EN,,Sarah Miller
+393,Mike,Doe,5f682d32@gmail.com,+1-598-960-5521,1977-05-31,9184 Maple Dr,New York,California,78967,USA,2019-07-06 10:58:54,2023-09-18 07:53:11,,es-ES,0,Mike Doe
+394,Jane,Smith,8081cab4@hotmail.com,+1-827-810-7234,1983-09-21,9317 Maple Dr,UNKNOWN,CA,64018,USA,2019-04-01 00:39:11,2023-10-11 19:57:59,Platinum,en-US,1,Jane Smith
+395,  sam  ,Davis,521ed458@example.org,7893752622,06/02/1964,6316 Oak Ave,Houston,Texas,63657,USA,2018-01-22 22:15:54,2023-09-06 19:27:54,Bronze,en-UK,True,  sam   Davis
+396,KIM,taylor,cf3dac64@hotmail.com,+1-612-714-4800,1990-02-18,2253 Cedar Ln,Los Angeles,AZ,31591,USA,2022-12-21 09:31:03,2023-05-23 22:58:59,Bronze,en-UK,Yes,KIM taylor
+397,Jane,Miller,637c5522@yahoo.com,+1-879-622-3173,08/20/2001,9195 Oak Ave,Los Angeles,AZ,89705,USA,2019-04-22 09:18:55,2023-07-01 21:36:53,Silver,fr-FR,No,Jane Miller
+398,KIM,ANDERSON,39ac1025@gmail.com,+1-419-909-4417,1979-03-24,3587 Cedar Ln,Los Angeles,,65301,USA,2018-01-11 23:07:52,2023-05-30 15:22:22,Gold,en-US,1,KIM ANDERSON
+399,John,Wilson,5a0bb897@hotmail.com,4375650704,1999-06-22,7058 Oak Ave,Houston,TX,76030,USA,2019-10-11 20:48:50,2023-09-28 19:05:27,Silver,EN,True,John Wilson
+400,Emily,Davis,20cf8d2a@test.com,+1-102-756-6368,1988-11-06,3849 Main St,n/a,California,94594,USA,2022-02-01 14:25:23,2023-08-04 01:01:58,Gold,es-ES,,Emily Davis
+401,John,ANDERSON,82deb6a4@yahoo.com,+1-306-873-8400,06/19/2001,3139 Cedar Ln,New York,CA,29976,USA,2021-11-29 00:39:00,2023-01-17 22:15:38,Platinum,EN,False,John ANDERSON
+402,chris,Miller,d2aab108@yahoo.com,+1-825-900-9420,2003-05-19,8720 Cedar Ln,UNKNOWN,TX,89505,USA,2021-01-16 19:30:49,2023-03-15 20:11:18,Bronze,en-UK,,chris Miller
+403,  sam  ,Davis,413a6113@gmail.com,+1-511-543-3450,1971-01-05,1092 Main St,Houston,California,89757,US,2018-07-04 12:21:36,2023-09-18 16:26:36,Gold,EN,True,  sam   Davis
+404,Sarah,,0fb8f573@test.com,+1-701-783-9472,11/23/2003,9477 Oak Ave,Los Angeles,CA,39634,USA,2022-11-19 17:37:58,2023-08-06 15:20:35,Platinum,en-UK,,Sarah 
+405,Mike,taylor,539ad5d6@test.com,2144914693,1963-02-12,9223 Maple Dr,Phoenix,TX,92296,USA,2021-09-29 12:07:35,2023-05-02 02:25:28,Bronze,en-UK,,Mike taylor
+406,KIM,Miller,75ff6a62@hotmail.com,9342524951,08/13/1983,5425 Maple Dr,Chicago,AZ,36603,USA,2018-06-12 17:11:42,2023-09-12 11:33:31,Gold,en-UK,No,KIM Miller
+407,Mike,,01112ec6@yahoo.com,5730889283,1980-12-05,9241 Main St,UNKNOWN,AZ,28357,USA,2022-10-01 06:55:26,2023-11-16 10:14:49,Silver,en-UK,0,Mike 
+408,KIM,Moore,af5cb2e3@example.org,+1-833-981-6252,07/14/1986,9078 Maple Dr,Houston,Texas,36601,USA,2021-07-12 01:40:04,2023-08-28 17:07:49,Silver,en-UK,No,KIM Moore
+409,Alex,Doe,82e6eb71@gmail.com,+1-829-740-5971,06/07/1990,3179 Maple Dr,Houston,NY,34407,USA,2018-05-26 23:53:17,2023-03-30 08:12:29,Silver,fr-FR,Yes,Alex Doe
+410,Jane,taylor,0c2f06df@yahoo.com,7985098278,1969-12-09,9035 Main St,New York,Texas,47458,USA,2021-02-06 08:28:03,2023-03-09 20:54:35,Platinum,EN,Yes,Jane taylor
+411,chris,Davis,2b7c28a8@gmail.com,+1-443-203-4556,1979-03-09,6405 Maple Dr,New York,IL,16599,USA,2022-10-07 05:04:59,2023-12-17 21:48:26,Silver,fr-FR,No,chris Davis
+412,Emily,Wilson,f9deec93@gmail.com,+1-331-896-8683,2003-11-21,8787 Maple Dr,Houston,Texas,00000,USA,2018-08-13 12:26:14,2023-07-22 15:52:18,,fr-FR,1,Emily Wilson
+413,,ANDERSON,0f748034@test.com,+1-381-560-6186,1970-03-25,7717 Main St,Los Angeles,California,55284,US,2020-11-08 00:08:43,2023-09-10 23:38:28,Bronze,en-US,1, ANDERSON
+414,KIM,Smith,8e8f31f0@yahoo.com,9459873684,1978-01-13,9979 Maple Dr,Chicago,,53419,USA,2018-08-11 09:34:40,2023-11-09 00:07:00,Platinum,en-US,,KIM Smith
+415,Mike,ANDERSON,81f8fd19@test.com,5576359083,09/12/2002,2953 Cedar Ln,UNKNOWN,TX,49842,USA,2020-04-19 18:15:05,2023-09-21 22:01:17,Silver,en-US,,Mike ANDERSON
+416,chris,Davis,fe7e1c70@gmail.com,+1-676-488-8455,1974-06-23,2882 Main St,New York,,34079,USA,2018-01-24 03:02:53,2023-10-17 14:37:40,Bronze,es-ES,False,chris Davis
+417,Mary,ANDERSON,037b5196@example.org,+1-418-174-8896,1978-12-11,7231 Main St,UNKNOWN,NY,67606,USA,2021-01-28 15:00:34,2023-06-12 17:01:11,Gold,en-US,Yes,Mary ANDERSON
+418,Mary,Doe,94d0a596@hotmail.com,+1-729-864-8825,1974-06-17,388 Cedar Ln,Los Angeles,IL,26989,USA,2019-06-11 19:24:58,2023-04-21 23:44:15,Silver,EN,False,Mary Doe
+419,John,Miller,a2e4ec72@yahoo.com,+1-102-834-8339,1996-01-15,3966 Maple Dr,UNKNOWN,TX,11268,USA,2019-03-01 06:31:13,2023-04-20 01:25:12,Bronze,fr-FR,Yes,John Miller
+420,Emily,,431e3676@hotmail.com,+1-186-734-2984,2004-10-27,5957 Maple Dr,Phoenix,CA,80387,USA,2021-03-03 21:45:15,2023-11-16 15:15:24,,EN,No,Emily 
+421,,Smith,84730275@test.com,+1-829-441-8495,1983-10-18,9002 Maple Dr,New York,California,36854,USA,2022-04-21 04:52:35,2023-02-14 20:30:16,Gold,en-US,1, Smith
+422,Alex,Johnson,30938325@example.org,+1-717-211-8351,03/20/2003,6969 Oak Ave,Los Angeles,IL,98568,USA,2020-07-11 17:31:17,2023-09-10 11:54:36,,es-ES,,Alex Johnson
+423,Mike,Davis,1cad417e@hotmail.com,+1-801-991-4382,05/07/1960,9100 Maple Dr,Los Angeles,AZ,66933,USA,2018-08-31 18:11:35,2023-12-04 18:41:57,Bronze,es-ES,1,Mike Davis
+424,,Brown,262d511b@example.org,+1-717-362-8548,2004-04-04,1870 Cedar Ln,Chicago,NY,94029,USA,2019-09-05 11:46:39,2023-11-02 08:17:57,,fr-FR,No, Brown
+425,Jane,Johnson,e1bff965@hotmail.com,+1-450-785-7760,12/03/1979,7678 Cedar Ln,Chicago,IL,00000,USA,2018-02-17 13:24:30,2023-06-10 10:13:12,Bronze,EN,False,Jane Johnson
+426,Jane,ANDERSON,87dcf0ec@test.com,+1-414-375-9946,1982-08-20,2063 Cedar Ln,Phoenix,California,43205,USA,2021-01-12 07:46:44,2023-10-06 21:00:35,Bronze,en-UK,False,Jane ANDERSON
+427,Mike,Davis,2bfdffd5@test.com,+1-952-428-3044,07/27/1976,9432 Main St,Los Angeles,Texas,51659,USA,2022-01-25 09:43:47,2023-07-08 07:08:37,,EN,True,Mike Davis
+428,Sarah,,9274451e@gmail.com,2574204770,04/11/1969,6378 Oak Ave,n/a,IL,92423,USA,2022-11-04 12:45:54,2023-06-05 01:44:35,Bronze,en-US,,Sarah 
+429,Alex,Moore,28ec1994@gmail.com,+1-995-562-4003,07/07/1963,3959 Main St,Los Angeles,Texas,48506,USA,2019-04-07 22:23:57,2023-09-22 01:43:38,Silver,en-UK,,Alex Moore
+430,chris,,7d902b0f@example.org,+1-279-365-9230,1960-10-30,3556 Cedar Ln,Chicago,California,75336,USA,2022-02-13 07:20:07,2023-02-17 11:19:59,Bronze,es-ES,,chris 
+431,KIM,Brown,a5e26fb9@gmail.com,1526779684,1978-05-25,1855 Oak Ave,n/a,AZ,73659,USA,2018-04-22 09:00:23,2023-11-07 21:03:44,Platinum,fr-FR,Yes,KIM Brown
+432,Sarah,Smith,6955addd@test.com,+1-996-581-8939,1991-08-26,8311 Maple Dr,New York,TX,25489,USA,2019-03-09 18:50:19,2023-07-30 06:36:54,Bronze,fr-FR,False,Sarah Smith
+433,KIM,,4744051f@yahoo.com,+1-766-156-2282,11/19/1970,4987 Cedar Ln,New York,CA,35072,USA,2021-11-11 04:55:19,2023-02-22 15:02:05,Platinum,es-ES,No,KIM 
+434,KIM,Wilson,0991d95d@yahoo.com,+1-787-660-5124,1966-09-28,1610 Main St,UNKNOWN,AZ,42856,US,2022-02-28 17:08:38,2023-05-07 20:00:57,Bronze,en-US,False,KIM Wilson
+435,Sarah,Moore,a421864f@hotmail.com,7960207482,08/30/1997,6136 Maple Dr,Houston,Texas,29168,USA,2020-09-09 22:04:58,2023-10-27 17:44:42,Bronze,es-ES,1,Sarah Moore
+436,John,Johnson,0149309d@gmail.com,+1-739-339-2119,1976-08-10,4178 Oak Ave,Chicago,Texas,46706,USA,2019-11-15 17:03:41,2023-05-22 00:42:03,,en-US,Yes,John Johnson
+437,Mary,Miller,2c056320@gmail.com,+1-395-934-9402,10/31/1972,7783 Oak Ave,Houston,CA,46932,USA,2018-10-05 10:19:43,2023-09-08 15:50:13,Silver,en-UK,,Mary Miller
+438,KIM,Doe,3cf3556c@yahoo.com,8669386471,2002-06-09,6349 Cedar Ln,n/a,TX,74694,USA,2022-05-21 00:12:12,2023-06-28 19:07:20,Silver,es-ES,0,KIM Doe
+439,Sarah,Wilson,invalid_email_at_gmail.com,+1-995-698-3489,1960-11-01,3128 Cedar Ln,Chicago,IL,27907,USA,2020-10-17 02:17:27,2023-02-13 16:48:22,Gold,en-US,True,Sarah Wilson
+440,Sarah,Moore,4c9c773d@yahoo.com,7161762273,10/20/1997,1691 Main St,Phoenix,CA,53122,USA,2018-08-21 14:14:19,2023-02-17 08:11:24,,en-UK,Yes,Sarah Moore
+441,  sam  ,Miller,fd175bb0@gmail.com,2784744545,1974-05-19,5016 Cedar Ln,Los Angeles,NY,54256,US,2019-12-03 19:50:33,2023-06-12 01:08:38,,es-ES,1,  sam   Miller
+442,,Miller,invalid_email_at_gmail.com,+1-482-746-1632,1979-03-02,619 Main St,Phoenix,NY,93999,USA,2018-11-18 06:43:50,2023-09-30 12:56:17,Silver,fr-FR,, Miller
+443,David,Davis,c62b15fa@hotmail.com,+1-670-316-9390,1960-01-17,4996 Oak Ave,n/a,California,80754,USA,2018-01-04 05:21:35,2023-11-16 01:06:35,,es-ES,1,David Davis
+444,John,Moore,1cc5bce2@example.org,+1-808-413-7586,05/27/1989,5187 Cedar Ln,Chicago,AZ,49507,USA,2021-02-17 16:20:52,2023-03-21 20:13:30,Silver,EN,1,John Moore
+445,Emily,Smith,afe578f7@test.com,+1-336-788-5285,1962-05-29,4403 Maple Dr,n/a,Texas,71537,USA,2021-03-01 04:05:23,2023-01-29 10:11:58,,es-ES,,Emily Smith
+446,David,ANDERSON,90d17e9b@yahoo.com,+1-893-905-5262,1976-04-10,4944 Main St,Los Angeles,TX,26432,USA,2020-12-25 17:52:30,2023-04-04 04:57:28,Bronze,EN,1,David ANDERSON
+447,,Brown,invalid_email_at_test.com,+1-527-398-8276,1973-12-15,7038 Oak Ave,New York,California,81243,USA,2021-08-25 09:37:21,2023-05-22 03:18:49,Silver,en-UK,No, Brown
+448,,Brown,cf41c973@test.com,+1-764-808-1202,1980-06-10,8459 Oak Ave,New York,AZ,54760,USA,2022-02-07 12:34:07,2023-06-12 12:33:28,Silver,es-ES,True, Brown
+449,,Johnson,def90021@example.org,5599375666,1980-09-09,2519 Maple Dr,n/a,AZ,26677,USA,2019-11-26 22:43:49,2023-10-15 20:27:08,Platinum,en-UK,0, Johnson
+450,David,Johnson,3ea12308@gmail.com,+1-260-866-1266,1968-05-07,2874 Oak Ave,Houston,California,34496,US,2022-01-27 14:17:34,2023-06-17 09:54:26,,en-UK,1,David Johnson
+451,Mike,Brown,40e04d31@gmail.com,+1-865-430-7241,10/08/1968,1516 Main St,Chicago,,11875,USA,2020-11-28 02:35:35,2023-11-15 15:48:48,,en-US,1,Mike Brown
+452,Mary,,a240ab0d@test.com,+1-202-884-7873,1998-03-18,6739 Cedar Ln,Chicago,AZ,18954,USA,2020-10-02 23:29:26,2023-10-22 20:44:19,Silver,en-UK,False,Mary 
+453,Sarah,Smith,1d701031@test.com,9731189394,1986-02-06,5874 Oak Ave,New York,,54587,USA,2022-11-29 16:36:37,2023-04-09 22:11:25,Bronze,en-UK,True,Sarah Smith
+454,Mary,,d1604cc0@gmail.com,+1-118-291-1097,1988-10-26,3976 Oak Ave,UNKNOWN,NY,42923,USA,2020-04-15 20:10:06,2023-10-10 00:09:49,Bronze,es-ES,Yes,Mary 
+455,Alex,,invalid_email_at_gmail.com,+1-450-838-8607,1967-12-01,7853 Maple Dr,Phoenix,NY,49699,USA,2020-08-11 05:18:02,2023-11-15 23:58:26,Bronze,es-ES,True,Alex 
+456,Mike,Doe,6cd9a1b3@gmail.com,+1-669-161-3038,1994-08-09,761 Oak Ave,UNKNOWN,AZ,98497,USA,2018-02-15 03:43:23,2023-04-03 01:47:09,,fr-FR,True,Mike Doe
+457,Emily,taylor,invalid_email_at_test.com,+1-660-234-6488,1967-11-12,7435 Oak Ave,Los Angeles,NY,93032,USA,2022-03-21 01:37:01,2023-12-20 17:03:23,Platinum,en-US,,Emily taylor
+458,Mary,ANDERSON,c2ec2119@example.org,+1-461-569-4472,1976-04-06,6696 Maple Dr,Phoenix,TX,34170,USA,2019-08-27 21:42:28,2023-10-04 11:35:44,Silver,en-UK,,Mary ANDERSON
+459,Jane,Doe,97e95a4e@example.org,+1-727-882-3139,07/18/1986,3305 Cedar Ln,Phoenix,,21132,USA,2020-06-23 16:20:53,2023-08-26 08:33:06,Gold,en-US,,Jane Doe
+460,,Davis,ce6741b7@example.org,+1-538-853-6859,2000-06-20,5826 Maple Dr,n/a,,91254,USA,2022-02-27 22:45:29,2023-11-16 11:41:03,Platinum,EN,0, Davis
+461,KIM,taylor,efde52c7@test.com,+1-695-837-1862,1992-07-20,4757 Main St,New York,AZ,46294,US,2018-10-01 20:12:23,2023-08-25 20:49:49,Gold,en-UK,True,KIM taylor
+462,Alex,taylor,6458501b@hotmail.com,1061587342,1983-03-24,7623 Maple Dr,UNKNOWN,NY,68004,USA,2020-08-06 09:52:45,2023-06-07 09:15:09,Platinum,en-US,0,Alex taylor
+463,John,Moore,586d6047@test.com,8195370238,1979-05-12,2912 Cedar Ln,UNKNOWN,CA,52841,US,2018-06-06 03:14:51,2023-06-26 09:14:27,Bronze,fr-FR,1,John Moore
+464,Emily,Smith,5629e7b1@example.org,+1-990-807-4629,1970-02-26,9350 Maple Dr,New York,Texas,48649,USA,2021-03-21 04:07:11,2023-04-23 16:14:20,,fr-FR,,Emily Smith
+465,Alex,Smith,91c73270@gmail.com,+1-664-238-6571,1976-07-09,8449 Cedar Ln,UNKNOWN,California,69923,USA,2018-01-21 03:56:06,2023-09-29 19:04:12,Gold,en-UK,1,Alex Smith
+466,,taylor,def348b5@yahoo.com,+1-775-889-2937,1998-06-22,8658 Maple Dr,New York,California,73792,USA,2020-09-09 21:18:08,2023-10-14 21:17:02,Platinum,EN,, taylor
+467,KIM,,a93764cd@test.com,+1-985-455-9590,2001-04-10,8151 Main St,n/a,,16186,USA,2018-07-31 02:15:28,2023-12-03 17:48:29,,fr-FR,No,KIM 
+468,Mike,Moore,9163e4c1@test.com,7621920025,1996-02-13,2515 Cedar Ln,Houston,AZ,50446,USA,2021-01-02 19:18:14,2023-01-23 22:06:47,Gold,fr-FR,0,Mike Moore
+469,KIM,ANDERSON,51d16725@hotmail.com,+1-380-826-1815,1973-10-02,4009 Cedar Ln,Phoenix,AZ,62441,USA,2020-10-26 09:33:29,2023-03-13 02:26:32,Silver,EN,0,KIM ANDERSON
+470,David,taylor,ad9772f6@gmail.com,+1-356-830-8151,1984-03-11,1018 Main St,n/a,TX,40545,USA,2019-05-07 04:44:40,2023-02-07 22:29:06,Platinum,en-US,Yes,David taylor
+471,KIM,Wilson,135186ec@example.org,+1-452-155-9574,02/25/1986,2637 Oak Ave,Chicago,IL,31774,USA,2021-10-08 07:13:58,2023-01-10 06:32:05,Silver,fr-FR,False,KIM Wilson
+472,David,Johnson,8b3f46b8@yahoo.com,9669217369,01/29/1986,2234 Cedar Ln,Los Angeles,Texas,25503,USA,2022-05-06 16:54:12,2023-08-10 19:15:53,Bronze,es-ES,True,David Johnson
+473,Mike,Johnson,ee5153b0@hotmail.com,+1-919-862-1628,1968-06-23,4867 Cedar Ln,Houston,IL,11513,USA,2020-11-06 12:09:44,2023-08-17 21:19:54,Silver,fr-FR,Yes,Mike Johnson
+474,chris,Doe,5a887856@hotmail.com,9345842053,1976-01-25,5445 Maple Dr,Chicago,,73709,USA,2018-06-10 08:45:09,2023-06-21 00:24:14,Silver,en-US,0,chris Doe
+475,,Davis,8a703290@example.org,6664061276,04/13/1961,1477 Maple Dr,Phoenix,California,79861,USA,2022-09-15 02:30:48,2023-12-17 14:46:12,Platinum,en-US,Yes, Davis
+476,David,Johnson,invalid_email_at_hotmail.com,+1-788-877-3290,1978-02-15,6236 Oak Ave,UNKNOWN,TX,45590,USA,2019-08-09 23:07:27,2023-08-14 08:35:11,Bronze,en-UK,No,David Johnson
+477,John,Miller,d298b2c8@example.org,+1-786-399-8016,1991-02-25,807 Main St,New York,TX,73100,USA,2021-09-06 15:03:03,2023-08-03 15:38:29,Silver,es-ES,False,John Miller
+478,KIM,Doe,a06c88c4@example.org,+1-549-939-9985,2002-09-24,3054 Main St,Phoenix,TX,00000,USA,2019-08-07 21:28:09,2023-11-11 07:36:25,,en-US,0,KIM Doe
+479,KIM,Johnson,d8e7134a@test.com,+1-101-643-8653,1991-08-30,9058 Cedar Ln,n/a,,37858,USA,2018-03-10 09:02:06,2023-12-02 23:32:53,Gold,EN,0,KIM Johnson
+480,John,Davis,494e03a1@example.org,+1-879-677-9468,1975-09-06,9535 Cedar Ln,Los Angeles,IL,97996,US,2018-03-09 10:20:38,2023-04-23 06:03:43,Silver,es-ES,True,John Davis
+481,Jane,,e370a22b@hotmail.com,+1-780-859-3342,1990-01-19,9069 Maple Dr,n/a,California,63301,USA,2021-10-04 09:43:02,2023-03-02 19:30:30,Bronze,es-ES,,Jane 
+482,Sarah,,6e1e7754@hotmail.com,2834454524,2001-09-05,7870 Main St,Houston,TX,55631,USA,2018-01-03 17:51:08,2023-02-14 15:16:40,Silver,EN,False,Sarah 
+483,chris,Smith,bab0364e@gmail.com,+1-580-798-8949,1983-08-25,1918 Main St,Houston,California,30565,USA,2020-01-24 14:58:39,2023-05-30 07:51:05,Gold,fr-FR,No,chris Smith
+484,Emily,Smith,69e38216@test.com,5285750766,1976-11-10,5068 Oak Ave,Los Angeles,NY,88084,USA,2019-12-23 18:12:24,2023-07-15 08:38:30,Bronze,EN,1,Emily Smith
+485,David,ANDERSON,8cb4714f@gmail.com,6456743815,03/12/1981,5464 Main St,Chicago,AZ,34456,USA,2018-05-26 02:44:55,2023-01-17 07:11:17,Platinum,EN,Yes,David ANDERSON
+486,John,taylor,3e6eb500@hotmail.com,6832414164,1963-09-06,3779 Oak Ave,Chicago,AZ,70831,USA,2020-02-26 13:47:05,2023-05-07 09:50:08,Bronze,fr-FR,True,John taylor
+487,Mike,Wilson,invalid_email_at_hotmail.com,7081518842,1990-07-12,3886 Main St,Houston,California,84689,USA,2019-01-17 02:30:50,2023-03-13 15:05:53,Platinum,fr-FR,0,Mike Wilson
+488,David,Smith,fe7583b1@hotmail.com,+1-206-451-5329,1977-10-15,1339 Cedar Ln,Houston,CA,67450,USA,2021-02-05 09:54:28,2023-04-26 15:53:20,Bronze,fr-FR,1,David Smith
+489,Sarah,Moore,fa02e55a@test.com,+1-821-903-8372,1999-10-03,8021 Maple Dr,UNKNOWN,CA,67616,USA,2022-07-17 16:48:12,2023-05-29 20:57:12,Gold,fr-FR,No,Sarah Moore
+490,Mike,Johnson,a11eef7c@gmail.com,+1-618-875-6559,12/20/1980,4801 Main St,New York,,63268,USA,2022-03-24 18:04:56,2023-02-11 07:05:45,Gold,fr-FR,False,Mike Johnson
+491,Alex,Moore,1a2eae02@hotmail.com,+1-942-692-6606,1986-06-27,872 Cedar Ln,UNKNOWN,,00000,US,2021-07-03 01:35:14,2023-02-12 10:29:29,Bronze,EN,Yes,Alex Moore
+492,,Davis,bc7da438@example.org,+1-824-700-2987,1963-06-21,8846 Oak Ave,UNKNOWN,AZ,21160,USA,2022-07-03 13:03:55,2023-08-20 13:18:48,Silver,en-UK,True, Davis
+493,KIM,Smith,8277f207@gmail.com,6553897586,2004-07-29,2868 Cedar Ln,Chicago,NY,86232,USA,2022-05-01 00:36:33,2023-01-13 03:22:46,Gold,en-UK,0,KIM Smith
+494,Alex,Wilson,c5b8ee08@yahoo.com,+1-107-410-2579,1984-01-28,2349 Maple Dr,Los Angeles,Texas,13419,USA,2020-02-22 02:19:34,2023-04-01 12:26:23,Platinum,en-US,0,Alex Wilson
+495,David,Davis,841518bd@example.org,+1-836-886-2912,1991-10-18,5163 Oak Ave,Chicago,IL,10389,US,2019-07-03 08:02:46,2023-06-29 12:52:12,Platinum,en-UK,1,David Davis
+496,Sarah,Miller,2c50c30d@gmail.com,+1-873-856-2098,1996-08-26,9965 Cedar Ln,New York,IL,59013,USA,2020-03-30 17:13:39,2023-04-02 03:44:49,,en-UK,1,Sarah Miller
+497,chris,Miller,97400e11@yahoo.com,+1-100-989-7900,07/02/1961,1605 Main St,n/a,,00000,USA,2019-09-11 17:48:08,2023-05-31 08:05:57,Platinum,EN,Yes,chris Miller
+498,,Moore,f6930629@hotmail.com,+1-251-846-1782,1993-10-30,610 Cedar Ln,Houston,NY,37210,US,2019-11-20 12:34:39,2023-02-18 19:19:54,,fr-FR,False, Moore
+499,David,taylor,19306c1c@gmail.com,+1-631-295-8631,1978-03-18,2027 Oak Ave,Houston,,88671,USA,2018-02-19 19:27:57,2023-04-17 17:21:55,Bronze,fr-FR,No,David taylor
+500,John,Doe,ffa103f5@gmail.com,+1-229-392-6288,1962-08-12,6669 Main St,New York,Texas,20285,USA,2021-11-07 16:50:47,2023-01-25 04:27:12,Bronze,EN,,John Doe
+501,Mary,taylor,bb7da357@hotmail.com,4656937907,07/07/1999,5432 Oak Ave,UNKNOWN,IL,23544,US,2019-03-20 09:02:04,2023-04-01 16:08:32,Bronze,en-UK,False,Mary taylor
+502,David,,d2317a18@example.org,+1-759-682-3199,05/12/1995,9536 Maple Dr,Los Angeles,California,13236,USA,2020-01-10 20:58:20,2023-11-09 13:51:39,Silver,EN,False,David 
+503,,ANDERSON,9ade8e18@gmail.com,+1-809-441-4468,1971-03-07,8532 Maple Dr,Houston,,27618,USA,2019-11-25 04:49:20,2023-02-25 13:10:12,Silver,en-US,False, ANDERSON
+504,KIM,taylor,invalid_email_at_yahoo.com,5515236477,1995-06-05,7107 Oak Ave,Phoenix,TX,91061,USA,2018-09-24 06:19:28,2023-07-06 05:31:39,,fr-FR,,KIM taylor
+505,KIM,ANDERSON,73f98f6c@example.org,+1-354-883-5872,1984-08-18,1930 Main St,UNKNOWN,California,00000,US,2019-05-20 11:29:09,2023-11-15 16:24:01,Platinum,es-ES,Yes,KIM ANDERSON
+506,David,ANDERSON,9fcb4811@gmail.com,+1-624-516-2629,1978-08-29,7514 Main St,Houston,Texas,36251,USA,2018-09-17 20:25:54,2023-12-06 20:01:07,Platinum,en-US,,David ANDERSON
+507,Mike,Wilson,883d117d@gmail.com,3356610337,10/25/1985,4156 Maple Dr,Phoenix,Texas,34522,US,2020-04-15 20:26:32,2023-05-19 05:56:19,Bronze,en-US,Yes,Mike Wilson
+508,Mary,Smith,910b2d3c@example.org,+1-842-987-9780,1964-10-21,3433 Cedar Ln,New York,,73122,US,2019-10-04 02:47:23,2023-10-11 15:26:34,Gold,EN,,Mary Smith
+509,John,Wilson,1df4b1c0@hotmail.com,4886415001,1976-03-09,5213 Main St,New York,AZ,18094,USA,2020-09-08 13:00:14,2023-05-24 11:03:17,Silver,en-UK,No,John Wilson
+510,David,ANDERSON,3230d049@gmail.com,9216147608,1989-04-15,684 Maple Dr,UNKNOWN,,64332,USA,2021-10-12 17:51:49,2023-07-12 18:24:25,Silver,fr-FR,False,David ANDERSON
+511,Mike,Davis,c8409141@hotmail.com,+1-385-915-4465,2004-01-11,5840 Main St,Houston,AZ,19968,USA,2022-06-16 06:47:23,2023-07-17 19:09:55,Bronze,es-ES,Yes,Mike Davis
+512,KIM,Miller,7abbbd88@example.org,+1-678-520-5065,1961-08-25,5073 Main St,Chicago,Texas,89981,USA,2022-12-28 17:45:03,2023-09-30 23:10:56,Silver,en-US,,KIM Miller
+513,KIM,ANDERSON,61b2e9ea@example.org,6317278905,2005-07-01,7978 Main St,Phoenix,NY,38129,USA,2022-01-02 06:31:22,2023-05-25 05:42:30,Bronze,es-ES,No,KIM ANDERSON
+514,Sarah,Wilson,invalid_email_at_hotmail.com,+1-491-740-5960,1992-10-29,9498 Cedar Ln,Los Angeles,Texas,49066,USA,2020-03-17 11:26:29,2023-03-15 13:23:41,,en-UK,,Sarah Wilson
+515,David,Davis,b853aebf@hotmail.com,5078800367,1977-08-06,9688 Cedar Ln,Houston,IL,91062,USA,2018-11-27 18:02:38,2023-08-01 06:44:01,Platinum,en-UK,0,David Davis
+516,Mary,Wilson,8ac69089@gmail.com,+1-364-174-5262,1987-01-24,7078 Main St,Los Angeles,California,32340,US,2019-02-21 10:38:29,2023-08-23 21:48:56,Gold,es-ES,No,Mary Wilson
+517,Jane,taylor,dcb6976f@example.org,1447022253,01/14/2001,8337 Main St,Houston,California,63463,USA,2021-11-24 20:30:21,2023-08-29 19:23:40,Platinum,fr-FR,False,Jane taylor
+518,Mary,Johnson,3f96753c@test.com,+1-642-774-5482,10/17/1968,4420 Main St,Chicago,CA,29632,USA,2022-04-01 10:44:43,2023-11-28 12:33:38,Platinum,en-UK,True,Mary Johnson
+519,KIM,Moore,458510ad@yahoo.com,5533455295,10/20/1965,2221 Maple Dr,Chicago,CA,58959,US,2022-04-18 16:42:29,2023-12-20 02:01:43,,es-ES,False,KIM Moore
+520,KIM,Doe,c8b7f8e2@example.org,+1-180-233-6662,1974-12-08,9496 Cedar Ln,UNKNOWN,Texas,66835,USA,2019-10-19 17:16:17,2023-03-28 00:59:40,Silver,en-US,True,KIM Doe
+521,Alex,,cb405aa9@example.org,+1-360-250-9168,1996-03-07,1466 Main St,UNKNOWN,IL,19376,USA,2021-11-02 08:54:39,2023-07-31 19:50:47,Gold,es-ES,No,Alex 
+522,KIM,Wilson,bbef9e43@example.org,+1-475-840-3853,1966-07-12,7901 Cedar Ln,Chicago,CA,68953,USA,2022-11-11 00:47:17,2023-11-02 01:35:14,Silver,es-ES,0,KIM Wilson
+523,John,Doe,invalid_email_at_test.com,+1-923-969-9746,1979-11-19,8273 Main St,n/a,California,17828,US,2019-12-03 14:39:33,2023-11-15 09:57:55,Platinum,EN,0,John Doe
+524,Emily,Brown,1db5dd67@hotmail.com,+1-749-475-3256,1996-03-15,6207 Main St,Chicago,,65277,USA,2022-05-31 22:20:55,2023-03-02 11:12:49,Bronze,en-UK,Yes,Emily Brown
+525,David,Wilson,e4a58a34@yahoo.com,+1-146-727-8520,1973-05-07,2452 Cedar Ln,New York,NY,25986,USA,2019-03-12 11:38:47,2023-11-21 17:59:15,Platinum,fr-FR,0,David Wilson
+526,Mary,Johnson,16d24f3e@yahoo.com,+1-686-928-2497,1980-04-23,1463 Maple Dr,New York,NY,62390,US,2020-06-13 20:10:32,2023-02-27 10:18:34,Silver,fr-FR,1,Mary Johnson
+527,Emily,Doe,d1d8fc4a@yahoo.com,+1-921-145-3581,1977-04-24,667 Maple Dr,n/a,IL,67208,USA,2022-11-07 19:52:37,2023-11-20 22:56:42,Platinum,EN,No,Emily Doe
+528,Mike,,f9f601a5@gmail.com,9126149940,1980-06-02,8854 Oak Ave,Phoenix,Texas,65193,US,2018-05-20 02:40:31,2023-06-16 13:22:34,Bronze,fr-FR,Yes,Mike 
+529,Jane,ANDERSON,3d50468e@example.org,+1-843-665-3148,2004-03-09,9112 Main St,Los Angeles,CA,67768,USA,2018-03-11 08:15:05,2023-12-06 16:36:47,,es-ES,0,Jane ANDERSON
+530,John,Wilson,8e4ec028@yahoo.com,+1-465-630-2177,1993-02-19,4406 Main St,Houston,,00000,USA,2020-08-01 18:14:23,2023-03-29 21:57:33,Silver,EN,No,John Wilson
+531,,Smith,fbe9a5b6@example.org,9585479835,1992-04-21,9130 Maple Dr,Houston,NY,18241,USA,2021-05-03 18:11:06,2023-10-10 17:36:17,Platinum,en-US,False, Smith
+532,  sam  ,Moore,bc57a557@yahoo.com,+1-117-773-5287,1980-08-24,7945 Cedar Ln,n/a,NY,26373,US,2021-05-26 18:41:15,2023-01-11 11:46:35,Silver,en-UK,0,  sam   Moore
+533,Mary,Johnson,invalid_email_at_hotmail.com,+1-643-976-3660,2002-04-14,3562 Cedar Ln,New York,TX,28410,USA,2022-06-10 14:11:42,2023-12-28 01:27:23,,en-UK,,Mary Johnson
+534,Emily,Doe,3c4c688f@test.com,+1-781-329-5295,1975-07-12,3907 Cedar Ln,UNKNOWN,Texas,74549,USA,2019-06-18 01:16:12,2023-07-07 08:53:48,Platinum,en-UK,True,Emily Doe
+535,,Johnson,invalid_email_at_gmail.com,+1-823-814-7213,1998-10-16,7770 Main St,Houston,TX,22907,USA,2021-06-04 04:17:08,2023-05-22 09:34:07,Platinum,es-ES,No, Johnson
+536,Jane,Davis,9bd7ff91@example.org,+1-490-350-5386,1978-02-13,5711 Cedar Ln,New York,California,79203,USA,2021-06-08 13:19:58,2023-07-02 04:17:38,Silver,en-US,Yes,Jane Davis
+537,Alex,,bad06b7b@test.com,+1-692-304-8140,11/25/1973,901 Maple Dr,Phoenix,NY,70411,USA,2022-06-29 15:37:12,2023-05-30 12:42:22,Silver,EN,False,Alex 
+538,,Moore,d5355b07@hotmail.com,+1-563-897-3476,1999-01-18,8876 Maple Dr,Los Angeles,IL,94777,USA,2018-05-12 12:50:38,2023-05-17 17:16:42,Bronze,EN,1, Moore
+539,John,ANDERSON,66f5d22d@test.com,+1-805-959-5553,1981-08-06,9692 Oak Ave,Phoenix,AZ,13956,USA,2022-03-07 11:31:09,2023-06-03 07:20:26,,en-UK,False,John ANDERSON
+540,John,Wilson,8ae6a9e1@yahoo.com,3207781687,2002-12-04,7253 Main St,n/a,AZ,17499,USA,2020-09-24 21:17:08,2023-08-05 16:30:22,Bronze,en-US,0,John Wilson
+541,Alex,Wilson,invalid_email_at_example.org,3506510503,1985-08-09,9032 Oak Ave,Chicago,,68930,USA,2020-12-27 06:57:23,2023-04-06 22:21:55,Platinum,en-US,True,Alex Wilson
+542,  sam  ,Wilson,7d489e82@yahoo.com,+1-981-396-4099,2002-01-14,724 Maple Dr,Chicago,NY,00000,USA,2021-08-06 23:53:34,2023-09-07 19:04:04,Silver,en-US,False,  sam   Wilson
+543,David,Moore,invalid_email_at_yahoo.com,7732255246,1970-05-26,7289 Maple Dr,Chicago,NY,75635,USA,2019-10-21 12:41:57,2023-05-04 19:10:08,Platinum,fr-FR,1,David Moore
+544,,Smith,cc21e4f0@test.com,+1-119-112-5849,1994-08-29,9073 Cedar Ln,Phoenix,California,63601,USA,2018-03-25 07:45:07,2023-01-12 05:31:18,Platinum,fr-FR,, Smith
+545,Alex,Brown,a434fbc4@hotmail.com,5162053422,1998-01-08,8203 Cedar Ln,Houston,NY,35497,USA,2018-02-02 11:31:24,2023-04-13 19:55:27,Gold,en-UK,Yes,Alex Brown
+546,John,Miller,0f816a8f@test.com,+1-800-523-8153,1965-03-25,6785 Oak Ave,Los Angeles,IL,58549,USA,2018-04-26 18:31:47,2023-11-26 06:07:41,Gold,en-US,No,John Miller
+547,John,taylor,0c98c10e@yahoo.com,+1-158-642-8694,1994-06-10,1164 Maple Dr,Chicago,TX,24172,USA,2018-03-18 01:42:11,2023-09-13 04:38:49,Platinum,en-US,True,John taylor
+548,Emily,Doe,e60d0123@yahoo.com,2239687611,1998-04-08,864 Cedar Ln,n/a,NY,66224,USA,2018-01-14 05:04:12,2023-02-27 22:20:31,Silver,EN,1,Emily Doe
+549,KIM,Smith,519beecf@test.com,8095881219,2004-04-01,2525 Oak Ave,n/a,NY,99414,USA,2021-09-06 14:12:05,2023-02-04 02:55:34,Platinum,EN,0,KIM Smith
+550,  sam  ,ANDERSON,6372faea@test.com,+1-646-858-1952,1978-09-03,6858 Main St,Chicago,California,67847,USA,2020-02-04 01:15:15,2023-05-04 19:43:36,Gold,en-UK,0,  sam   ANDERSON
+551,,Doe,d523a26e@gmail.com,8986489781,1981-09-08,5598 Main St,Chicago,Texas,79879,USA,2020-11-01 03:30:40,2023-01-16 14:13:23,Silver,en-US,0, Doe
+552,,Wilson,cb772ac1@yahoo.com,+1-970-302-1658,1978-08-07,1951 Main St,Los Angeles,CA,41664,USA,2019-08-20 18:54:04,2023-09-29 08:13:17,Platinum,en-UK,True, Wilson
+553,Jane,Johnson,c325fdeb@yahoo.com,3435055946,1990-11-21,4579 Cedar Ln,Chicago,Texas,17521,USA,2022-04-04 18:21:04,2023-04-13 11:46:37,,EN,False,Jane Johnson
+554,Alex,ANDERSON,4cbd3597@test.com,+1-943-463-2858,1975-07-04,3921 Maple Dr,Los Angeles,California,91003,USA,2019-07-01 23:01:46,2023-05-05 18:59:33,,EN,True,Alex ANDERSON
+555,Jane,Doe,6f017665@gmail.com,+1-362-895-9642,1969-01-26,2151 Maple Dr,n/a,Texas,54258,USA,2018-12-23 05:03:18,2023-01-14 17:43:38,Platinum,fr-FR,0,Jane Doe
+556,Alex,,invalid_email_at_test.com,+1-474-198-8982,07/04/1962,1068 Cedar Ln,Chicago,California,30243,US,2020-09-23 05:45:43,2023-04-27 16:22:25,Silver,en-UK,,Alex 
+557,Mike,Wilson,invalid_email_at_example.org,+1-460-950-3073,1980-06-08,3620 Cedar Ln,Phoenix,IL,68779,USA,2022-11-16 06:08:46,2023-09-11 04:19:55,Platinum,en-UK,1,Mike Wilson
+558,John,Doe,cf22d626@test.com,+1-380-199-6635,1974-05-21,7117 Main St,UNKNOWN,,55659,USA,2022-07-21 00:58:34,2023-03-27 18:52:59,Platinum,en-US,No,John Doe
+559,KIM,Johnson,8d46b65c@test.com,+1-949-907-9977,04/24/1992,8400 Maple Dr,Phoenix,NY,47071,USA,2021-09-26 10:35:56,2023-01-27 05:49:17,Gold,en-US,No,KIM Johnson
+560,Emily,,invalid_email_at_yahoo.com,+1-627-882-5664,1961-08-30,6424 Oak Ave,n/a,California,97387,USA,2022-02-28 14:18:14,2023-01-21 19:59:31,,fr-FR,True,Emily 
+561,KIM,Wilson,fd543429@test.com,+1-629-369-1882,1984-07-12,978 Main St,Los Angeles,California,48318,USA,2018-11-16 21:30:12,2023-04-21 08:02:25,Gold,es-ES,0,KIM Wilson
+562,KIM,Brown,b2c41eb8@hotmail.com,+1-302-389-8563,1966-07-05,4256 Oak Ave,Phoenix,CA,98639,USA,2021-12-02 15:02:08,2023-04-24 13:51:21,Gold,es-ES,Yes,KIM Brown
+563,KIM,Smith,eb43b0e1@hotmail.com,+1-412-505-2824,1965-09-02,144 Cedar Ln,Los Angeles,California,12392,USA,2021-01-24 06:58:35,2023-06-30 12:51:00,Platinum,es-ES,,KIM Smith
+564,Jane,Davis,06aa6c35@yahoo.com,+1-325-348-1964,1965-03-05,3692 Cedar Ln,Phoenix,AZ,32265,USA,2019-06-10 17:14:00,2023-06-18 00:41:42,Gold,en-UK,True,Jane Davis
+565,Alex,taylor,fc8d7d5b@gmail.com,+1-922-124-8861,1971-07-17,4689 Maple Dr,Phoenix,,37330,USA,2020-01-16 01:47:40,2023-11-25 21:24:12,,en-UK,0,Alex taylor
+566,chris,Moore,63ca9870@example.org,+1-618-858-6206,07/05/1993,1422 Main St,Los Angeles,NY,62635,USA,2022-01-06 01:34:07,2023-12-22 20:13:52,Gold,EN,False,chris Moore
+567,Mike,taylor,a264beaf@yahoo.com,7602837237,06/10/1989,3486 Oak Ave,Houston,NY,36379,USA,2019-06-03 04:41:25,2023-05-19 13:15:42,,en-UK,No,Mike taylor
+568,Mary,ANDERSON,412a6610@example.org,+1-112-711-6462,1981-08-23,6898 Oak Ave,Phoenix,CA,00000,USA,2019-10-05 08:44:46,2023-01-07 15:24:41,Gold,en-UK,No,Mary ANDERSON
+569,KIM,taylor,754383a5@yahoo.com,+1-417-943-6526,10/23/1969,2696 Maple Dr,Chicago,IL,52531,USA,2022-09-07 13:33:04,2023-06-17 17:58:49,,en-UK,,KIM taylor
+570,David,Wilson,65cbbff4@hotmail.com,+1-561-695-5845,2001-02-12,3628 Oak Ave,UNKNOWN,NY,10050,USA,2020-04-04 08:36:45,2023-04-19 21:04:22,Gold,fr-FR,No,David Wilson
+571,Jane,Brown,d2e48fd0@example.org,+1-801-508-4669,09/12/1969,4469 Main St,n/a,AZ,00000,USA,2020-08-24 19:26:23,2023-09-25 01:24:41,Gold,en-UK,Yes,Jane Brown
+572,  sam  ,Davis,e8987c39@gmail.com,+1-807-129-1556,1974-05-04,7642 Cedar Ln,Houston,NY,76293,USA,2018-02-10 00:25:21,2023-09-20 09:31:24,Silver,en-US,0,  sam   Davis
+573,Emily,Smith,a1abb95d@test.com,+1-867-189-2069,1961-08-24,4414 Maple Dr,Los Angeles,AZ,71422,USA,2021-02-10 15:50:52,2023-06-24 12:50:13,,en-US,0,Emily Smith
+574,Mary,Smith,33cf4847@gmail.com,+1-572-100-5223,1964-11-03,8655 Cedar Ln,Houston,,19286,USA,2020-10-22 02:48:13,2023-06-14 20:12:53,,EN,,Mary Smith
+575,chris,Johnson,23d2b868@gmail.com,1053912201,03/02/1961,6916 Main St,New York,,40456,USA,2020-01-19 06:59:41,2023-03-30 01:43:07,,fr-FR,0,chris Johnson
+576,David,Moore,invalid_email_at_example.org,+1-927-246-1076,04/28/1992,8737 Main St,New York,TX,42183,USA,2022-02-23 08:35:32,2023-03-02 19:06:47,Bronze,en-US,,David Moore
+577,chris,Doe,eafa6801@hotmail.com,8816292004,2000-05-10,1102 Oak Ave,Phoenix,TX,52482,USA,2019-10-03 22:21:17,2023-08-28 01:42:47,Gold,fr-FR,0,chris Doe
+578,Mary,Brown,06ecc74c@gmail.com,3663439209,1997-05-19,2343 Main St,Phoenix,AZ,47052,USA,2020-04-22 12:12:04,2023-12-14 05:49:09,,fr-FR,Yes,Mary Brown
+579,KIM,Doe,b216fdf0@hotmail.com,+1-739-345-9850,12/17/1981,9963 Oak Ave,Chicago,IL,14930,USA,2021-10-19 11:47:02,2023-02-08 05:03:14,Bronze,EN,1,KIM Doe
+580,David,Davis,c1f9d8e6@gmail.com,5952547688,08/18/1998,2717 Main St,UNKNOWN,NY,10554,USA,2020-12-09 18:20:00,2023-02-02 17:22:44,Silver,fr-FR,True,David Davis
+581,chris,taylor,83935dbb@hotmail.com,+1-970-167-8599,1985-03-16,3676 Cedar Ln,n/a,California,31927,USA,2019-06-10 23:20:07,2023-02-08 19:48:33,,en-UK,True,chris taylor
+582,Emily,Smith,2cd7489b@hotmail.com,+1-360-755-3185,1983-09-12,47 Maple Dr,Houston,NY,28698,US,2022-11-05 23:16:24,2023-05-06 06:44:46,,fr-FR,0,Emily Smith
+583,Alex,Davis,ad3e7778@gmail.com,+1-931-576-8766,05/23/1973,299 Oak Ave,New York,TX,88495,USA,2022-03-13 13:50:43,2023-06-21 12:24:29,Bronze,EN,False,Alex Davis
+584,John,taylor,04367923@yahoo.com,+1-152-968-6803,1966-10-02,8148 Cedar Ln,Phoenix,Texas,52158,USA,2019-05-05 20:17:13,2023-11-07 16:14:28,Gold,EN,No,John taylor
+585,Alex,Smith,7e1703c8@example.org,+1-309-919-7007,1981-10-25,9804 Maple Dr,n/a,California,69918,USA,2021-03-16 19:30:51,2023-05-14 06:43:41,Silver,EN,Yes,Alex Smith
+586,Mary,taylor,da344027@gmail.com,9125477172,2004-12-25,2449 Main St,Houston,AZ,98948,USA,2018-03-05 09:54:38,2023-01-19 16:12:40,,en-US,False,Mary taylor
+587,Jane,Moore,9b99891f@yahoo.com,+1-789-778-6333,1995-12-25,7616 Main St,Phoenix,California,38744,USA,2018-03-07 17:38:07,2023-08-09 17:28:09,Gold,en-UK,False,Jane Moore
+588,John,Brown,69acdd9e@yahoo.com,+1-517-383-2801,05/08/1969,9106 Cedar Ln,Phoenix,Texas,74065,USA,2022-10-02 11:06:27,2023-08-23 09:45:04,Silver,en-US,0,John Brown
+589,Mike,,e0f531f9@example.org,6181025097,1996-01-27,2941 Oak Ave,New York,NY,31608,USA,2021-11-16 06:54:21,2023-02-04 23:05:45,Platinum,es-ES,Yes,Mike 
+590,Emily,ANDERSON,96ba8e37@gmail.com,9246158754,1962-11-07,5831 Maple Dr,New York,NY,28131,USA,2018-02-03 17:36:51,2023-09-05 22:21:24,Platinum,en-UK,True,Emily ANDERSON
+591,Mike,Davis,051d5cf6@gmail.com,7427623446,03/30/1971,7524 Maple Dr,Phoenix,IL,43602,USA,2021-08-19 06:56:53,2023-08-21 09:48:59,Silver,fr-FR,No,Mike Davis
+592,David,Davis,7e336aa1@example.org,2834768596,1971-03-08,1250 Cedar Ln,Los Angeles,CA,35232,USA,2022-11-09 15:23:44,2023-09-17 12:05:09,Bronze,EN,True,David Davis
+593,,,882fe000@gmail.com,+1-257-163-6667,1961-12-29,2977 Oak Ave,Phoenix,California,87277,USA,2021-05-26 08:20:50,2023-02-06 23:42:21,Silver,es-ES,False, 
+594,John,Miller,b5e12295@yahoo.com,8699570398,2000-03-17,2707 Cedar Ln,n/a,TX,77393,USA,2018-07-05 14:55:06,2023-11-17 04:35:38,Silver,en-UK,No,John Miller
+595,Mike,Wilson,a64e72fe@example.org,9458399003,1998-06-12,6450 Oak Ave,Phoenix,Texas,31698,USA,2019-07-28 14:17:05,2023-10-21 18:38:30,Bronze,en-US,1,Mike Wilson
+596,Mike,Moore,c75c5d39@test.com,+1-986-906-9117,1996-08-22,6191 Oak Ave,Chicago,Texas,73540,USA,2021-10-23 22:12:31,2023-10-24 05:05:12,Bronze,EN,False,Mike Moore
+597,chris,Moore,87efbb0a@example.org,+1-744-380-2234,1991-01-04,4272 Oak Ave,UNKNOWN,Texas,11509,US,2021-03-14 13:01:19,2023-11-29 10:27:01,Gold,en-US,True,chris Moore
+598,Alex,,78cc4b98@yahoo.com,+1-362-110-4910,1976-12-19,5099 Main St,Chicago,TX,98252,USA,2021-11-01 23:04:43,2023-01-10 16:13:08,Gold,en-UK,True,Alex 
+599,chris,Doe,c41212bd@yahoo.com,+1-336-722-4904,10/11/1982,8623 Maple Dr,Chicago,CA,11147,USA,2021-03-08 06:40:44,2023-09-11 06:14:35,Bronze,en-UK,0,chris Doe
+600,John,taylor,95741ea9@test.com,+1-520-273-6314,1987-12-29,1704 Cedar Ln,Los Angeles,NY,15128,USA,2018-03-23 11:31:19,2023-04-04 19:01:10,Platinum,es-ES,True,John taylor
+601,John,Wilson,invalid_email_at_gmail.com,+1-363-160-3217,1961-06-02,3472 Maple Dr,Los Angeles,IL,43593,USA,2022-03-24 11:47:19,2023-01-07 08:53:48,Platinum,fr-FR,Yes,John Wilson
+602,Mary,Brown,eea70e0f@yahoo.com,+1-729-970-3390,1976-07-09,2962 Maple Dr,Phoenix,IL,81101,US,2019-02-08 21:05:15,2023-12-09 20:44:16,Silver,en-US,False,Mary Brown
+603,chris,Brown,91ed14f8@example.org,+1-354-309-8665,1994-10-05,22 Cedar Ln,Chicago,TX,51918,US,2018-08-25 04:46:56,2023-08-07 08:48:42,,es-ES,,chris Brown
+604,Sarah,,22df11f3@test.com,+1-246-114-5418,1975-08-27,7755 Maple Dr,Los Angeles,IL,21296,USA,2019-09-06 11:42:33,2023-12-23 21:40:13,Silver,EN,,Sarah 
+605,  sam  ,Moore,7c926149@hotmail.com,1823155289,06/26/1995,4373 Cedar Ln,New York,Texas,12283,USA,2020-04-29 17:26:21,2023-04-28 02:23:10,Silver,fr-FR,No,  sam   Moore
+606,Alex,Brown,0f45347d@yahoo.com,+1-483-893-7643,05/18/1997,1388 Cedar Ln,Phoenix,,44963,USA,2018-02-08 06:13:30,2023-02-19 20:01:05,,es-ES,True,Alex Brown
+607,John,Miller,invalid_email_at_example.org,+1-406-874-3775,1969-06-04,3026 Oak Ave,n/a,CA,62679,USA,2018-10-24 12:24:06,2023-06-15 14:44:03,Bronze,en-US,0,John Miller
+608,Mary,Davis,1dd56c7d@example.org,+1-326-908-7687,1979-08-02,8550 Cedar Ln,UNKNOWN,NY,65128,USA,2018-01-25 04:10:18,2023-02-03 10:33:10,Platinum,en-UK,0,Mary Davis
+609,,Johnson,1ba71dd1@gmail.com,+1-904-106-1548,02/15/1964,8002 Cedar Ln,Houston,,26455,USA,2021-08-11 02:26:38,2023-10-23 20:49:56,Silver,EN,True, Johnson
+610,chris,ANDERSON,95150ce6@yahoo.com,4726390874,09/16/1965,4787 Cedar Ln,Phoenix,CA,94297,USA,2021-02-05 23:21:52,2023-12-19 03:27:39,,en-US,Yes,chris ANDERSON
+611,Alex,,740c5527@hotmail.com,7134812196,2003-11-08,6269 Maple Dr,Houston,AZ,47857,USA,2021-03-03 07:50:56,2023-04-15 04:54:41,Gold,fr-FR,0,Alex 
+612,,Doe,ccfc14fe@hotmail.com,7529733460,2000-08-27,2871 Oak Ave,Chicago,California,25724,USA,2018-06-13 03:02:44,2023-10-11 21:39:14,Silver,fr-FR,, Doe
+613,chris,taylor,d2866ab7@example.org,+1-418-588-1331,1977-01-16,9503 Maple Dr,UNKNOWN,TX,39424,USA,2021-01-26 18:12:55,2023-03-30 15:57:58,Platinum,en-UK,No,chris taylor
+614,Mike,ANDERSON,0a6b8cac@yahoo.com,+1-926-412-2678,1999-11-08,9463 Cedar Ln,Houston,Texas,79749,USA,2019-09-05 13:20:05,2023-07-17 03:21:14,Bronze,en-UK,False,Mike ANDERSON
+615,,taylor,8c4b78d4@gmail.com,+1-131-312-4588,1975-07-05,991 Cedar Ln,Chicago,IL,89176,USA,2018-07-02 04:44:33,2023-11-05 12:34:25,Silver,EN,1, taylor
+616,Mary,Smith,5b18eb5b@hotmail.com,5160335030,1973-11-12,3893 Oak Ave,New York,AZ,36232,USA,2018-10-03 20:53:57,2023-01-21 00:38:03,Silver,EN,Yes,Mary Smith
+617,Alex,ANDERSON,02b22b38@example.org,+1-197-424-6036,1971-03-21,3325 Oak Ave,Houston,IL,70167,USA,2020-08-10 05:22:44,2023-04-16 19:38:13,,en-UK,0,Alex ANDERSON
+618,KIM,Johnson,11faf81a@test.com,+1-232-509-8412,1993-10-05,2187 Cedar Ln,UNKNOWN,,42104,USA,2019-12-15 18:26:07,2023-09-26 04:48:36,Gold,en-UK,False,KIM Johnson
+619,David,Moore,42eec64f@hotmail.com,3322030744,1962-10-29,4523 Main St,Phoenix,NY,10629,USA,2021-05-14 14:46:13,2023-12-20 00:13:45,Gold,fr-FR,1,David Moore
+620,David,Miller,invalid_email_at_hotmail.com,+1-107-930-9973,2002-06-07,4316 Main St,Chicago,NY,14203,USA,2021-05-30 04:12:55,2023-09-10 09:30:08,Bronze,en-UK,True,David Miller
+621,Alex,Davis,42e06d7d@hotmail.com,+1-453-439-8409,1975-11-09,8683 Main St,Phoenix,NY,11941,USA,2021-06-08 21:19:36,2023-12-27 06:38:35,Platinum,es-ES,True,Alex Davis
+622,,Davis,c24de766@example.org,+1-360-375-5001,1981-04-18,1968 Cedar Ln,UNKNOWN,Texas,74356,USA,2022-06-19 13:16:32,2023-03-15 22:54:50,Bronze,en-US,No, Davis
+623,chris,Miller,775d0faf@test.com,+1-912-460-1185,1981-04-26,8152 Maple Dr,Los Angeles,IL,18545,USA,2022-06-08 17:55:22,2023-03-20 07:29:34,Silver,en-UK,1,chris Miller
+624,Mary,Wilson,72ae3c6b@gmail.com,+1-403-288-4926,06/07/1977,9607 Maple Dr,Chicago,AZ,94638,USA,2022-02-05 11:19:12,2023-01-09 16:53:13,Silver,EN,True,Mary Wilson
+625,  sam  ,Smith,52a14b29@test.com,+1-825-635-1751,1965-12-14,65 Main St,Houston,NY,00000,USA,2020-09-06 13:39:32,2023-07-01 11:16:26,Gold,es-ES,True,  sam   Smith
+626,David,taylor,ef9707c6@test.com,+1-700-801-4881,01/30/1975,5886 Oak Ave,Chicago,AZ,22454,US,2021-04-07 15:57:38,2023-10-27 16:03:15,Platinum,EN,,David taylor
+627,Mary,Johnson,invalid_email_at_yahoo.com,+1-662-691-8211,1973-05-30,3575 Maple Dr,Phoenix,IL,30849,USA,2019-08-25 05:32:22,2023-07-23 18:24:58,,es-ES,0,Mary Johnson
+628,David,Brown,c51ac47a@hotmail.com,+1-968-752-8198,1990-07-27,121 Cedar Ln,New York,Texas,58972,USA,2020-02-10 07:56:11,2023-04-13 13:12:49,Platinum,en-UK,No,David Brown
+629,Mike,ANDERSON,c9469ba9@yahoo.com,+1-157-403-9169,1972-12-06,9405 Cedar Ln,Chicago,,80463,USA,2022-09-26 12:58:34,2023-11-28 00:52:19,Silver,en-US,False,Mike ANDERSON
+630,chris,Smith,63c7fa5d@example.org,+1-990-117-5699,10/26/1966,2212 Maple Dr,Houston,Texas,24406,USA,2021-11-11 22:49:41,2023-03-18 13:45:20,,EN,True,chris Smith
+631,Mike,,5798a982@hotmail.com,+1-669-881-2970,05/16/1975,1077 Maple Dr,Los Angeles,AZ,99487,USA,2018-08-28 02:25:59,2023-06-26 07:42:25,Platinum,es-ES,,Mike 
+632,David,ANDERSON,18bf6f6a@gmail.com,+1-561-273-4583,04/11/1982,3073 Cedar Ln,n/a,Texas,50745,US,2018-09-09 00:31:33,2023-05-25 13:49:16,Platinum,fr-FR,Yes,David ANDERSON
+633,KIM,Johnson,b3239103@example.org,+1-592-269-6474,1997-04-06,1825 Maple Dr,New York,Texas,20962,USA,2022-11-06 03:28:01,2023-10-06 19:49:43,,en-UK,Yes,KIM Johnson
+634,KIM,Doe,2d8886b4@example.org,+1-551-141-4768,1992-10-03,7944 Cedar Ln,Los Angeles,,00000,USA,2019-04-26 06:34:30,2023-12-26 17:52:01,Silver,en-US,False,KIM Doe
+635,Mike,Doe,8a57677e@yahoo.com,+1-253-810-6979,1976-07-14,5606 Cedar Ln,Chicago,IL,40391,USA,2019-05-05 21:36:50,2023-10-07 08:41:15,Platinum,en-UK,1,Mike Doe
+636,KIM,Smith,invalid_email_at_example.org,+1-232-888-2619,1983-12-14,4913 Oak Ave,Phoenix,IL,63938,USA,2018-11-11 16:21:07,2023-10-10 21:13:34,,fr-FR,No,KIM Smith
+637,David,Moore,fc539734@yahoo.com,+1-948-804-5848,1986-11-16,343 Maple Dr,UNKNOWN,TX,48622,USA,2021-09-27 06:38:17,2023-11-18 01:38:13,Silver,en-US,,David Moore
+638,Alex,Johnson,087e1dff@test.com,+1-635-664-6571,1961-09-24,8301 Maple Dr,Phoenix,Texas,77087,USA,2022-04-21 15:24:26,2023-09-15 10:32:09,,fr-FR,0,Alex Johnson
+639,Mike,Johnson,beecaa63@yahoo.com,+1-108-953-7571,1979-11-05,8328 Oak Ave,Houston,IL,46993,USA,2021-09-17 14:39:31,2023-06-06 20:37:44,,en-UK,,Mike Johnson
+640,  sam  ,Miller,07ad13ed@test.com,+1-831-150-5662,11/29/1998,2594 Main St,Phoenix,IL,00000,USA,2021-07-09 12:34:01,2023-01-04 16:19:02,Platinum,es-ES,Yes,  sam   Miller
+641,  sam  ,Moore,8da31b33@example.org,+1-618-817-9185,1983-05-03,2184 Maple Dr,New York,CA,20143,USA,2020-06-19 16:59:56,2023-08-28 06:07:52,Silver,en-UK,Yes,  sam   Moore
+642,Jane,taylor,4ee60ccc@gmail.com,+1-244-914-4580,2002-12-31,3304 Oak Ave,Phoenix,NY,42722,USA,2019-05-27 05:52:51,2023-12-02 18:37:08,Platinum,en-UK,False,Jane taylor
+643,,taylor,bf4ba5f8@hotmail.com,+1-331-970-8901,2003-02-18,4074 Oak Ave,Houston,TX,93814,USA,2021-11-20 05:26:55,2023-01-04 21:44:22,Bronze,en-UK,1, taylor
+644,chris,Brown,61086e8d@yahoo.com,9392197127,1995-03-04,3917 Main St,n/a,California,71526,USA,2020-07-20 21:02:32,2023-09-17 02:27:06,Bronze,EN,1,chris Brown
+645,KIM,Davis,invalid_email_at_hotmail.com,3640022056,1965-12-28,7440 Cedar Ln,Chicago,TX,52711,US,2022-09-06 08:03:47,2023-08-28 15:30:23,Silver,fr-FR,False,KIM Davis
+646,KIM,Doe,invalid_email_at_example.org,4992536127,1994-04-30,9250 Maple Dr,UNKNOWN,TX,32889,US,2021-10-30 07:23:39,2023-12-10 20:49:34,,fr-FR,,KIM Doe
+647,,,fb7afb77@example.org,+1-134-871-7685,1978-07-09,4144 Maple Dr,Chicago,California,00000,USA,2021-09-27 15:12:34,2023-04-12 23:19:41,Platinum,fr-FR,Yes, 
+648,John,taylor,1b083bb6@hotmail.com,+1-244-765-2099,1994-09-17,4640 Main St,Phoenix,CA,74454,USA,2020-05-07 18:18:21,2023-01-29 03:10:30,Platinum,EN,,John taylor
+649,Sarah,Moore,f9f25a21@gmail.com,+1-644-686-9290,1990-02-01,1285 Oak Ave,Los Angeles,Texas,66775,USA,2020-03-28 04:58:15,2023-06-25 07:54:03,Silver,es-ES,,Sarah Moore
+650,Mike,Johnson,invalid_email_at_yahoo.com,+1-219-290-9691,1993-10-11,16 Oak Ave,Chicago,,57964,USA,2018-02-02 23:13:59,2023-02-22 19:32:47,Silver,en-UK,No,Mike Johnson
+651,Emily,,8f26c0f4@hotmail.com,+1-807-305-2946,1991-02-05,9906 Cedar Ln,n/a,IL,37285,USA,2018-09-21 08:55:22,2023-03-28 09:05:31,Bronze,es-ES,Yes,Emily 
+652,KIM,taylor,fb9ccc92@hotmail.com,8392220573,1967-11-13,2984 Maple Dr,Phoenix,NY,20673,USA,2019-07-04 05:24:16,2023-11-21 00:45:38,Gold,EN,1,KIM taylor
+653,chris,Johnson,invalid_email_at_gmail.com,+1-204-682-1248,1997-08-16,5774 Maple Dr,UNKNOWN,AZ,43291,USA,2021-08-09 19:27:37,2023-02-02 08:25:26,Silver,fr-FR,0,chris Johnson
+654,Jane,taylor,b136d676@test.com,+1-830-855-8269,1984-07-30,4064 Main St,Houston,Texas,00000,USA,2022-03-16 09:16:01,2023-03-30 03:14:56,Gold,en-UK,,Jane taylor
+655,  sam  ,Doe,0418c1a3@hotmail.com,+1-262-758-2973,1981-04-02,2384 Oak Ave,n/a,California,00000,USA,2021-01-02 04:40:07,2023-03-06 09:10:32,Silver,en-US,Yes,  sam   Doe
+656,KIM,ANDERSON,20bda9ae@test.com,5637399729,1967-05-01,2403 Main St,Phoenix,,10630,USA,2018-03-16 09:18:15,2023-09-26 05:48:41,,en-US,,KIM ANDERSON
+657,Jane,taylor,152a6b71@gmail.com,+1-830-451-8663,1984-02-24,9678 Oak Ave,n/a,Texas,44803,USA,2020-02-01 05:58:09,2023-09-14 01:15:24,,es-ES,No,Jane taylor
+658,David,Moore,c2e6fa01@hotmail.com,+1-645-313-1902,2003-07-24,3041 Main St,Chicago,California,83100,USA,2019-07-01 08:51:49,2023-12-20 10:01:57,Bronze,fr-FR,True,David Moore
+659,David,taylor,02c624dd@test.com,+1-401-255-9188,02/16/1966,8020 Maple Dr,UNKNOWN,IL,82468,USA,2022-01-24 08:59:52,2023-09-01 13:26:55,Bronze,en-US,Yes,David taylor
+660,Sarah,Davis,171e7923@test.com,6575836657,1994-06-17,3156 Cedar Ln,Houston,CA,77616,USA,2021-01-30 01:47:35,2023-08-14 17:56:20,Gold,es-ES,False,Sarah Davis
+661,Alex,,9b42cbfb@yahoo.com,5807013247,1996-08-27,9570 Main St,Phoenix,Texas,71642,USA,2022-06-15 03:55:55,2023-05-20 00:44:06,Silver,EN,True,Alex 
+662,Emily,,1a97a3a9@test.com,1518190164,05/20/1965,8554 Maple Dr,New York,California,65430,USA,2021-02-14 20:25:02,2023-11-19 17:28:36,Platinum,es-ES,,Emily 
+663,John,Doe,85cedfc8@example.org,1222725654,11/16/1965,8395 Oak Ave,Houston,IL,55928,USA,2021-06-20 05:36:23,2023-10-20 06:50:17,Bronze,es-ES,False,John Doe
+664,Sarah,Moore,6b51feef@gmail.com,+1-227-619-8029,1991-01-09,3620 Maple Dr,New York,IL,48519,USA,2021-12-08 21:11:18,2023-04-16 02:11:00,Platinum,es-ES,False,Sarah Moore
+665,Mary,Miller,08bd3470@yahoo.com,+1-682-343-5993,1982-06-06,2038 Main St,n/a,CA,71581,USA,2022-02-28 23:02:37,2023-03-06 14:37:46,Platinum,en-UK,False,Mary Miller
+666,John,Moore,725644cc@gmail.com,+1-336-947-6561,1974-09-09,5740 Main St,Los Angeles,TX,44415,USA,2019-07-15 16:08:12,2023-01-11 10:41:13,Silver,es-ES,Yes,John Moore
+667,Mike,,96c9661c@test.com,+1-812-222-4287,1977-12-05,747 Maple Dr,Houston,Texas,74755,USA,2019-04-04 01:21:28,2023-07-15 15:23:38,Gold,es-ES,1,Mike 
+668,chris,Davis,72896b21@hotmail.com,2692983215,1985-03-21,6299 Maple Dr,n/a,Texas,12441,USA,2018-03-17 10:59:45,2023-05-03 06:16:06,Silver,en-UK,,chris Davis
+669,Mary,ANDERSON,16867281@hotmail.com,5509153935,1990-10-03,8741 Main St,New York,TX,66861,USA,2018-04-05 02:56:02,2023-11-26 02:42:01,Bronze,en-UK,True,Mary ANDERSON
+670,Mary,Doe,5c723126@test.com,+1-585-558-1696,1972-07-02,2513 Oak Ave,Chicago,NY,53810,USA,2018-09-07 20:54:47,2023-04-09 11:05:50,Platinum,EN,No,Mary Doe
+671,Sarah,Miller,708c3610@hotmail.com,+1-746-465-2343,2003-04-02,9490 Main St,Chicago,NY,57669,USA,2022-07-22 07:38:37,2023-01-17 09:39:18,Silver,fr-FR,1,Sarah Miller
+672,,Davis,f93cb4d4@yahoo.com,1016260235,1989-01-21,8717 Maple Dr,Los Angeles,TX,38932,USA,2022-01-19 16:37:28,2023-08-04 10:19:08,Silver,en-US,, Davis
+673,Alex,Davis,ed3313ae@example.org,3333629133,1960-10-17,8750 Main St,Houston,,85285,US,2018-02-28 12:22:49,2023-08-14 02:46:18,Silver,en-US,Yes,Alex Davis
+674,,Smith,invalid_email_at_hotmail.com,+1-729-112-4764,1980-07-04,5345 Oak Ave,Houston,AZ,23232,USA,2021-01-24 07:11:15,2023-12-20 18:37:34,Bronze,es-ES,False, Smith
+675,Sarah,Doe,88d1fd95@hotmail.com,+1-924-565-9926,1991-09-07,2391 Oak Ave,Houston,IL,45592,USA,2018-07-12 06:48:31,2023-04-27 02:48:34,Gold,EN,No,Sarah Doe
+676,Mike,Moore,f011a9b6@yahoo.com,6786886651,1965-09-30,5925 Cedar Ln,n/a,AZ,48228,USA,2021-02-19 08:31:35,2023-08-26 04:40:50,Silver,es-ES,,Mike Moore
+677,  sam  ,Johnson,4ddef288@gmail.com,+1-875-852-8013,02/20/1995,5019 Maple Dr,UNKNOWN,IL,80661,USA,2020-02-05 02:18:49,2023-01-06 06:30:33,Bronze,en-US,True,  sam   Johnson
+678,KIM,ANDERSON,843ea337@yahoo.com,+1-231-850-8186,1972-04-18,4864 Main St,UNKNOWN,TX,18070,US,2021-12-30 11:34:26,2023-12-14 01:11:55,Platinum,en-UK,,KIM ANDERSON
+679,KIM,Johnson,f6a8208a@test.com,4505143674,1993-02-16,7709 Maple Dr,Los Angeles,NY,94624,USA,2018-09-01 23:17:24,2023-04-09 03:12:28,,fr-FR,1,KIM Johnson
+680,Alex,Moore,9cc93bc6@yahoo.com,+1-869-879-5190,1961-02-19,4441 Cedar Ln,Houston,,39553,USA,2018-12-17 08:43:37,2023-07-13 14:23:10,Bronze,EN,0,Alex Moore
+681,Mike,Moore,54757c0c@yahoo.com,+1-958-441-6654,1975-03-27,6251 Cedar Ln,n/a,NY,32380,USA,2018-07-20 11:27:22,2023-07-31 17:19:30,,en-UK,1,Mike Moore
+682,Alex,Doe,invalid_email_at_hotmail.com,4209825120,2000-06-30,5591 Oak Ave,Chicago,AZ,71713,USA,2022-08-28 09:33:36,2023-08-01 12:31:01,Silver,fr-FR,,Alex Doe
+683,Jane,Moore,4d8b31fb@test.com,3195770855,1974-06-01,5567 Oak Ave,New York,NY,92964,US,2018-12-08 21:43:42,2023-04-24 20:11:55,Silver,EN,No,Jane Moore
+684,,,0bfd2988@example.org,3158587095,11/06/1968,7914 Main St,n/a,TX,35395,USA,2021-05-22 08:19:46,2023-12-23 08:16:46,Bronze,EN,, 
+685,KIM,Smith,f500171d@hotmail.com,+1-158-187-5003,08/17/1980,8353 Main St,UNKNOWN,,86768,USA,2021-05-25 03:15:23,2023-06-11 05:22:45,,en-US,,KIM Smith
+686,Mary,Miller,33863189@example.org,+1-990-387-5682,1985-09-15,6740 Oak Ave,UNKNOWN,AZ,20157,USA,2022-12-05 09:17:13,2023-07-13 14:50:52,Silver,en-UK,Yes,Mary Miller
+687,,Moore,invalid_email_at_gmail.com,+1-475-129-5244,1972-10-04,6473 Oak Ave,Chicago,,00000,USA,2022-01-12 10:42:54,2023-12-20 01:58:52,Platinum,EN,True, Moore
+688,Emily,Johnson,65aca14b@yahoo.com,3660779283,1970-07-03,8773 Oak Ave,Chicago,Texas,20642,USA,2021-09-24 08:56:01,2023-12-01 15:19:46,Gold,EN,No,Emily Johnson
+689,chris,Moore,invalid_email_at_gmail.com,+1-928-956-5430,1978-07-20,21 Maple Dr,New York,IL,47854,US,2019-04-22 13:36:30,2023-02-07 09:26:26,Gold,fr-FR,,chris Moore
+690,Mike,Smith,0ee69c27@gmail.com,+1-920-433-9143,07/16/1995,9355 Oak Ave,Chicago,NY,32794,USA,2020-10-19 04:25:55,2023-09-06 07:15:19,Silver,en-US,False,Mike Smith
+691,John,,4e79c698@yahoo.com,+1-711-423-5010,1981-10-14,1997 Maple Dr,Los Angeles,,56851,USA,2019-01-07 01:25:31,2023-06-09 12:37:10,,es-ES,True,John 
+692,Alex,,1f5cab80@hotmail.com,+1-111-602-7163,1981-11-21,4817 Oak Ave,New York,CA,47202,US,2022-08-26 20:40:54,2023-11-28 05:07:05,Silver,en-US,1,Alex 
+693,,taylor,3f8041d4@gmail.com,3296542847,1967-11-25,3024 Main St,Chicago,Texas,99456,USA,2018-03-10 12:06:46,2023-08-22 17:20:19,,es-ES,No, taylor
+694,chris,,d61fd4e3@yahoo.com,+1-305-798-4225,1961-04-08,682 Main St,Phoenix,NY,33165,USA,2018-06-26 18:15:18,2023-10-10 14:20:30,Platinum,en-UK,1,chris 
+695,,taylor,8296c82d@example.org,+1-558-206-1428,2002-06-06,3192 Main St,n/a,IL,50497,US,2020-12-11 09:23:12,2023-10-11 04:28:51,,en-UK,, taylor
+696,John,Davis,c48aaff7@gmail.com,+1-496-727-9729,07/28/1993,9988 Oak Ave,Chicago,,36914,USA,2018-05-08 03:52:21,2023-04-28 21:46:42,Silver,EN,1,John Davis
+697,chris,ANDERSON,a56e3603@gmail.com,7070933740,11/23/1992,2544 Cedar Ln,Los Angeles,AZ,27001,USA,2018-06-04 14:10:32,2023-02-11 21:57:00,Platinum,en-UK,1,chris ANDERSON
+698,Emily,Brown,invalid_email_at_yahoo.com,+1-543-720-6194,1990-10-27,5856 Oak Ave,Houston,IL,36514,USA,2018-05-16 06:02:42,2023-11-15 22:09:11,Bronze,EN,Yes,Emily Brown
+699,John,,34283017@hotmail.com,4755213229,1997-10-27,147 Maple Dr,Chicago,CA,84744,USA,2022-01-11 19:16:09,2023-06-26 15:18:46,Gold,en-US,1,John 
+700,Sarah,Miller,bea0112c@yahoo.com,3235508996,1973-07-01,863 Oak Ave,UNKNOWN,,99046,USA,2020-07-06 02:42:56,2023-08-28 19:44:15,Silver,en-UK,False,Sarah Miller
+701,David,Wilson,3e1ba2ee@gmail.com,+1-982-360-9175,1986-05-25,8533 Cedar Ln,UNKNOWN,California,66754,USA,2019-05-12 20:05:07,2023-06-24 21:38:20,Silver,en-US,False,David Wilson
+702,Sarah,Davis,invalid_email_at_yahoo.com,7376801902,2000-11-02,9726 Main St,UNKNOWN,California,97757,USA,2022-04-13 15:10:24,2023-04-30 00:43:46,Silver,en-US,True,Sarah Davis
+703,KIM,,ea1027d5@hotmail.com,+1-846-931-7000,06/11/1981,2090 Maple Dr,Houston,TX,60422,USA,2019-09-09 09:23:05,2023-05-31 19:07:27,Platinum,en-UK,,KIM 
+704,,ANDERSON,2d939644@hotmail.com,+1-761-715-9476,1987-10-08,4474 Main St,UNKNOWN,NY,50609,USA,2019-08-24 23:17:01,2023-11-21 13:47:52,Bronze,en-US,0, ANDERSON
+705,David,taylor,22f17d3f@example.org,7150208581,04/26/2002,8166 Cedar Ln,Phoenix,AZ,88273,USA,2022-07-28 08:49:55,2023-06-08 09:15:39,,en-UK,1,David taylor
+706,Sarah,Johnson,c9d55e77@hotmail.com,+1-800-624-2099,1967-07-01,4745 Maple Dr,Chicago,TX,10316,USA,2018-12-26 19:27:20,2023-01-15 11:41:01,Bronze,en-UK,1,Sarah Johnson
+707,David,Wilson,66ea8d27@yahoo.com,+1-680-339-5895,1992-12-25,5961 Oak Ave,UNKNOWN,,46312,USA,2020-11-15 03:17:43,2023-11-28 08:52:28,Platinum,en-UK,No,David Wilson
+708,  sam  ,ANDERSON,invalid_email_at_hotmail.com,3902380268,1991-09-21,5337 Oak Ave,New York,California,41721,USA,2020-01-22 15:08:41,2023-07-27 01:48:36,Silver,es-ES,Yes,  sam   ANDERSON
+709,,ANDERSON,0ac893ae@hotmail.com,+1-900-439-1323,2002-11-20,7399 Oak Ave,Houston,California,18909,USA,2021-09-24 17:01:36,2023-04-01 11:09:44,Gold,en-US,0, ANDERSON
+710,David,,b59391d9@hotmail.com,+1-881-717-9987,1975-10-14,9281 Maple Dr,Phoenix,California,79792,USA,2022-04-13 18:29:03,2023-06-23 00:24:38,Silver,fr-FR,True,David 
+711,Mary,Davis,f38cf3f1@example.org,3519161577,1975-08-25,5386 Oak Ave,New York,,90631,USA,2022-02-20 14:59:55,2023-07-31 15:36:46,,en-UK,0,Mary Davis
+712,Alex,Wilson,562f0895@hotmail.com,+1-162-203-8868,1985-08-03,7907 Oak Ave,New York,California,60043,USA,2020-01-25 10:43:34,2023-08-06 10:04:54,Gold,en-US,1,Alex Wilson
+713,Alex,Doe,737cf206@hotmail.com,+1-851-205-8984,1985-07-27,2478 Main St,New York,IL,85206,USA,2022-08-01 07:33:23,2023-09-06 17:14:13,Silver,EN,No,Alex Doe
+714,Mary,Brown,ebd13502@example.org,+1-457-898-7927,08/16/1998,3234 Main St,New York,Texas,40556,USA,2020-07-29 08:59:06,2023-04-11 17:50:25,Gold,en-UK,,Mary Brown
+715,chris,Doe,b5f99e34@yahoo.com,+1-232-662-4142,1965-04-07,4390 Oak Ave,Chicago,,37270,US,2019-02-26 14:14:51,2023-10-05 20:20:56,Bronze,en-UK,Yes,chris Doe
+716,Jane,Wilson,5ff316b4@gmail.com,+1-932-473-5401,1967-05-19,8529 Oak Ave,UNKNOWN,AZ,69389,USA,2018-07-24 01:45:57,2023-08-04 01:27:49,Platinum,fr-FR,,Jane Wilson
+717,chris,Doe,c2603e33@test.com,+1-588-427-8860,1963-04-15,3131 Maple Dr,n/a,Texas,57689,USA,2021-02-24 10:41:43,2023-04-20 17:47:03,Silver,es-ES,True,chris Doe
+718,John,,ea1bb804@gmail.com,+1-259-559-3947,09/16/1960,3739 Oak Ave,Chicago,TX,96759,US,2022-05-12 05:52:22,2023-03-14 16:48:48,,es-ES,0,John 
+719,John,Smith,639e4026@hotmail.com,+1-108-744-3623,07/09/1995,4768 Cedar Ln,Chicago,AZ,24440,USA,2019-08-29 23:07:43,2023-09-03 22:12:52,Bronze,en-UK,True,John Smith
+720,David,taylor,8ed7ee50@hotmail.com,+1-183-701-8405,10/21/1964,5596 Maple Dr,Phoenix,Texas,83754,USA,2021-03-08 13:08:18,2023-10-20 07:56:27,Silver,en-US,1,David taylor
+721,Sarah,Smith,1a53c7eb@gmail.com,+1-268-364-1798,2005-04-11,4469 Cedar Ln,Phoenix,CA,13517,USA,2022-11-18 11:10:31,2023-11-21 05:49:52,Bronze,EN,True,Sarah Smith
+722,Sarah,Moore,28d8f9c1@test.com,+1-155-662-7806,1993-06-11,2983 Oak Ave,UNKNOWN,California,30384,USA,2021-05-03 20:02:57,2023-04-23 16:00:09,,EN,,Sarah Moore
+723,Alex,Doe,5d907a56@gmail.com,+1-853-757-9771,1961-07-02,400 Cedar Ln,n/a,CA,54275,USA,2019-12-12 14:14:48,2023-02-02 17:29:14,Silver,en-US,No,Alex Doe
+724,Mike,Moore,1f2815c6@test.com,+1-935-158-8633,07/23/1987,9621 Main St,Phoenix,NY,87869,USA,2018-09-14 11:08:35,2023-06-12 21:44:47,,en-UK,True,Mike Moore
+725,chris,Johnson,ad3bd732@gmail.com,+1-385-615-4734,1993-12-17,5269 Cedar Ln,UNKNOWN,NY,15207,USA,2019-06-22 10:07:44,2023-11-06 14:08:45,Gold,EN,False,chris Johnson
+726,  sam  ,Miller,c7aa42df@gmail.com,4112308107,1995-03-16,468 Maple Dr,UNKNOWN,Texas,33411,USA,2020-10-02 20:08:39,2023-02-27 08:03:19,,es-ES,No,  sam   Miller
+727,,Johnson,9c10b416@hotmail.com,9909921061,04/11/1984,3051 Oak Ave,Los Angeles,CA,00000,USA,2019-11-30 11:35:18,2023-11-07 20:13:36,Gold,en-US,0, Johnson
+728,KIM,Wilson,bddc1f0b@gmail.com,6320102919,2004-06-29,4569 Main St,n/a,,10859,USA,2018-07-15 17:56:26,2023-12-08 18:13:44,Silver,fr-FR,Yes,KIM Wilson
+729,Emily,ANDERSON,7af91beb@hotmail.com,+1-508-700-3854,11/16/1994,3229 Oak Ave,Phoenix,AZ,31263,USA,2022-01-30 17:28:31,2023-12-26 22:05:37,Gold,en-UK,Yes,Emily ANDERSON
+730,Sarah,taylor,f37f3578@yahoo.com,+1-325-753-9560,1980-04-06,9477 Oak Ave,n/a,CA,34203,USA,2022-12-07 08:40:25,2023-10-17 12:58:51,Silver,en-US,1,Sarah taylor
+731,,Doe,invalid_email_at_test.com,9063852831,2001-08-04,1013 Cedar Ln,Chicago,NY,45489,USA,2019-12-15 17:01:32,2023-04-07 15:46:24,Silver,EN,1, Doe
+732,Emily,Davis,e44fcbfd@test.com,1790458428,04/11/1960,1962 Maple Dr,Chicago,CA,74989,USA,2019-10-17 05:48:36,2023-10-31 01:08:41,Platinum,en-UK,False,Emily Davis
+733,,Miller,24c2e09b@test.com,+1-621-579-7180,1976-12-21,1043 Oak Ave,n/a,,39929,USA,2021-08-09 09:53:58,2023-12-02 22:42:53,Silver,es-ES,0, Miller
+734,David,Brown,invalid_email_at_yahoo.com,+1-454-608-2611,1979-07-06,9090 Main St,Los Angeles,CA,43426,USA,2022-01-14 19:15:06,2023-05-26 23:36:15,Gold,en-UK,,David Brown
+735,Emily,Brown,628843a0@yahoo.com,+1-971-651-6377,1990-03-23,2028 Maple Dr,Los Angeles,AZ,84101,USA,2021-01-27 09:07:49,2023-02-13 06:44:29,Platinum,en-UK,Yes,Emily Brown
+736,KIM,Brown,9fc49fa9@test.com,+1-383-486-4851,1998-02-28,7994 Oak Ave,n/a,TX,31954,USA,2021-09-13 21:57:48,2023-07-01 22:28:56,Platinum,es-ES,Yes,KIM Brown
+737,,Doe,4735d269@test.com,+1-360-912-3661,07/24/1989,9674 Main St,Phoenix,,63032,USA,2018-08-24 08:05:28,2023-04-11 00:49:39,Silver,es-ES,Yes, Doe
+738,Mary,Brown,8455381c@hotmail.com,+1-592-389-6184,1972-08-30,6449 Oak Ave,Houston,NY,00000,USA,2020-10-25 21:38:02,2023-11-23 22:55:52,,en-UK,,Mary Brown
+739,KIM,,68903529@example.org,+1-129-642-8936,1978-10-04,9940 Oak Ave,Los Angeles,AZ,14109,USA,2022-05-27 23:55:27,2023-08-08 15:15:34,,es-ES,Yes,KIM 
+740,Emily,Smith,invalid_email_at_gmail.com,+1-911-750-3708,1982-03-10,3558 Cedar Ln,New York,CA,36885,USA,2022-07-24 07:08:49,2023-09-13 00:43:22,Platinum,en-US,True,Emily Smith
+741,KIM,Miller,cf91ad0d@gmail.com,8473421695,04/03/1960,4302 Oak Ave,Chicago,CA,25748,USA,2019-08-30 17:22:47,2023-06-10 09:08:21,Silver,es-ES,0,KIM Miller
+742,,Smith,6e2356cf@test.com,+1-553-528-2565,1986-08-16,2373 Maple Dr,n/a,TX,79963,USA,2022-06-01 18:32:27,2023-08-18 23:55:26,,es-ES,No, Smith
+743,Jane,ANDERSON,c09555f0@example.org,+1-338-626-1089,1984-04-10,5837 Cedar Ln,New York,NY,35902,USA,2022-08-04 02:42:37,2023-04-21 12:59:48,Silver,en-UK,No,Jane ANDERSON
+744,,Miller,5d5f7f1b@hotmail.com,1770092404,06/08/1960,9515 Main St,n/a,NY,23301,USA,2022-05-25 05:42:51,2023-07-02 08:17:46,Silver,en-US,False, Miller
+745,,Smith,edef0b7c@gmail.com,+1-915-470-6893,1963-12-16,889 Oak Ave,UNKNOWN,IL,49077,USA,2022-11-03 19:11:39,2023-01-05 20:54:48,Platinum,fr-FR,True, Smith
+746,David,Miller,73c3989c@example.org,+1-254-570-7426,04/10/1976,5979 Main St,Chicago,NY,25903,USA,2018-09-30 03:05:30,2023-04-07 00:25:53,Platinum,fr-FR,Yes,David Miller
+747,chris,ANDERSON,6d6fdf90@yahoo.com,+1-784-323-4828,1982-09-17,6262 Cedar Ln,Chicago,TX,70397,USA,2018-02-10 13:12:28,2023-11-04 01:09:17,Bronze,EN,Yes,chris ANDERSON
+748,Mary,Moore,14f8457a@hotmail.com,3286523562,09/04/1984,5972 Cedar Ln,Los Angeles,California,36088,USA,2018-11-07 04:53:09,2023-12-21 21:43:40,,es-ES,1,Mary Moore
+749,  sam  ,,f8a7a4e7@gmail.com,+1-362-104-1641,01/15/2000,6384 Main St,Los Angeles,IL,77619,US,2019-04-26 17:45:44,2023-09-16 15:35:06,,es-ES,1,  sam   
+750,Sarah,Doe,cdc7d30b@example.org,+1-887-501-2066,08/27/1972,1430 Maple Dr,New York,IL,60970,USA,2022-04-29 17:12:06,2023-01-03 04:51:25,,en-US,False,Sarah Doe
+751,John,Doe,83484028@yahoo.com,4947836928,1972-01-02,4720 Cedar Ln,UNKNOWN,CA,77167,USA,2022-05-21 20:17:34,2023-08-20 04:18:35,Gold,fr-FR,Yes,John Doe
+752,chris,Brown,eabd56be@yahoo.com,+1-969-427-9054,1961-05-17,5757 Maple Dr,n/a,CA,14251,USA,2022-05-13 06:03:37,2023-11-17 09:51:13,Silver,EN,False,chris Brown
+753,John,,98faee2a@example.org,+1-220-472-3003,1979-05-16,9586 Maple Dr,UNKNOWN,NY,49693,USA,2022-10-07 19:03:10,2023-01-26 14:12:10,Platinum,en-US,True,John 
+754,David,Johnson,4ef5056d@hotmail.com,+1-978-854-4072,1990-05-28,2772 Cedar Ln,Chicago,IL,93788,USA,2020-08-17 20:46:25,2023-07-28 03:49:15,,es-ES,No,David Johnson
+755,Mary,Brown,6d225d75@gmail.com,+1-207-595-6140,10/28/1968,3012 Main St,New York,Texas,50116,USA,2021-09-16 14:31:52,2023-10-16 19:42:54,Bronze,fr-FR,Yes,Mary Brown
+756,,Wilson,61619cbd@example.org,+1-203-595-5106,03/04/1974,7543 Maple Dr,Houston,CA,61208,USA,2018-08-13 06:08:11,2023-11-13 17:54:00,,EN,0, Wilson
+757,Alex,,d15cd3df@example.org,2166604244,1970-11-20,1503 Maple Dr,New York,TX,54567,USA,2021-03-18 11:46:08,2023-02-06 05:00:11,Silver,en-UK,,Alex 
+758,Sarah,Smith,01049cc3@gmail.com,8752549993,1990-09-06,6136 Maple Dr,Phoenix,Texas,00000,USA,2020-10-12 12:44:38,2023-03-01 09:06:58,Silver,fr-FR,True,Sarah Smith
+759,Jane,Miller,830a3f42@gmail.com,+1-163-538-2357,1968-05-14,2150 Oak Ave,New York,CA,90514,USA,2022-03-10 01:57:41,2023-05-31 04:46:47,Platinum,EN,Yes,Jane Miller
+760,Alex,Johnson,2c1774e9@example.org,1877344699,1987-08-15,9184 Main St,UNKNOWN,,37345,US,2019-08-17 09:06:08,2023-08-14 15:00:42,Gold,en-US,,Alex Johnson
+761,David,,5a1589b9@yahoo.com,+1-514-990-9384,1968-04-03,6015 Main St,Phoenix,,15238,USA,2018-05-23 01:52:00,2023-01-18 05:29:03,Platinum,en-UK,0,David 
+762,chris,ANDERSON,0c4b7fdf@hotmail.com,+1-183-156-9351,1967-03-09,86 Oak Ave,Phoenix,CA,62933,USA,2019-10-03 12:43:36,2023-09-19 22:15:10,,EN,1,chris ANDERSON
+763,Jane,Wilson,e98ca4ca@yahoo.com,1767060164,1974-01-31,8691 Main St,Phoenix,IL,15396,USA,2020-01-23 04:53:18,2023-03-10 14:59:51,Bronze,EN,False,Jane Wilson
+764,KIM,ANDERSON,fb90019b@test.com,5119904025,1984-01-07,5226 Cedar Ln,Houston,California,53975,USA,2018-03-04 18:16:09,2023-08-14 10:58:39,Platinum,es-ES,1,KIM ANDERSON
+765,Emily,Doe,258a9409@hotmail.com,+1-856-129-4891,1973-07-10,6825 Cedar Ln,New York,California,81066,USA,2021-02-04 14:07:37,2023-01-29 05:06:27,Gold,fr-FR,No,Emily Doe
+766,Jane,Doe,67e09b02@test.com,+1-333-393-8934,2001-07-05,1647 Cedar Ln,UNKNOWN,IL,00000,USA,2019-07-04 09:49:08,2023-03-16 06:31:55,Platinum,es-ES,1,Jane Doe
+767,  sam  ,Brown,c916909a@yahoo.com,+1-138-786-9400,11/25/1973,6988 Maple Dr,New York,AZ,15331,USA,2019-02-12 10:24:16,2023-12-27 05:32:16,Silver,en-UK,Yes,  sam   Brown
+768,David,Smith,9f4ba444@test.com,+1-816-701-8499,1996-09-20,857 Main St,Houston,California,22674,USA,2019-11-24 22:54:13,2023-11-24 18:19:47,,EN,0,David Smith
+769,Mike,Johnson,invalid_email_at_hotmail.com,+1-231-271-7458,1963-02-13,1482 Cedar Ln,Chicago,,90597,USA,2020-11-04 03:47:46,2023-09-16 20:29:33,,es-ES,1,Mike Johnson
+770,Emily,taylor,44979650@example.org,8158758982,2004-03-28,4555 Maple Dr,Los Angeles,TX,34134,USA,2022-07-14 13:06:05,2023-07-27 01:01:44,,fr-FR,Yes,Emily taylor
+771,John,Wilson,849ad649@hotmail.com,+1-305-394-5303,2003-11-03,9583 Maple Dr,UNKNOWN,IL,31059,USA,2020-02-19 10:21:04,2023-08-21 08:31:29,,en-UK,No,John Wilson
+772,Sarah,Wilson,97d9ab41@yahoo.com,+1-927-725-5294,1978-07-29,5988 Oak Ave,UNKNOWN,NY,57317,US,2020-12-07 17:20:25,2023-04-28 14:15:11,,en-US,,Sarah Wilson
+773,John,,724b3345@test.com,+1-462-405-7611,1970-06-27,2755 Oak Ave,New York,,90372,USA,2022-03-23 19:10:04,2023-06-28 17:30:42,,es-ES,0,John 
+774,Jane,Brown,48d64d31@example.org,+1-237-757-6283,1980-04-11,24 Main St,Los Angeles,TX,38886,USA,2021-01-07 23:43:12,2023-12-08 06:32:57,Bronze,en-UK,1,Jane Brown
+775,John,Doe,c4341070@gmail.com,+1-108-522-4249,12/20/1967,6706 Maple Dr,n/a,TX,64171,USA,2021-01-03 03:31:49,2023-10-06 20:39:35,Gold,en-US,False,John Doe
+776,  sam  ,Brown,0981275d@yahoo.com,+1-561-886-6742,1986-08-06,9375 Main St,n/a,IL,54220,USA,2021-12-22 04:45:04,2023-05-29 14:13:25,,es-ES,False,  sam   Brown
+777,David,Miller,f9522101@example.org,+1-292-503-8311,2005-06-28,3904 Main St,Houston,TX,93518,USA,2021-11-13 04:54:29,2023-04-15 01:58:39,Gold,en-UK,0,David Miller
+778,KIM,,2eaa104f@gmail.com,+1-551-912-8864,1993-06-21,6520 Maple Dr,n/a,IL,68758,USA,2018-06-08 11:38:10,2023-04-21 10:23:19,,en-UK,False,KIM 
+779,chris,,c59d23f8@example.org,+1-279-106-6999,1998-10-10,5459 Oak Ave,UNKNOWN,California,00000,USA,2022-08-05 03:50:05,2023-05-23 08:34:55,Platinum,es-ES,1,chris 
+780,Sarah,Johnson,b4d964b1@hotmail.com,5864912934,04/06/1988,9467 Main St,n/a,CA,72278,USA,2018-10-25 19:52:14,2023-09-25 08:55:02,,en-UK,1,Sarah Johnson
+781,  sam  ,Smith,f1cc2cb8@example.org,+1-740-485-3620,1988-07-23,5350 Main St,Chicago,,49703,USA,2019-12-27 17:07:19,2023-05-06 09:01:17,Silver,EN,0,  sam   Smith
+782,  sam  ,Moore,invalid_email_at_hotmail.com,+1-294-315-9202,1999-04-13,2088 Main St,Chicago,AZ,27467,US,2019-11-26 13:45:50,2023-10-27 22:16:12,Bronze,es-ES,1,  sam   Moore
+783,John,Davis,29fe20a5@yahoo.com,+1-748-411-4153,2004-04-01,1235 Oak Ave,Chicago,CA,65788,US,2019-07-07 22:59:01,2023-05-07 17:04:12,Platinum,en-UK,,John Davis
+784,John,Davis,f60dc6aa@gmail.com,+1-552-921-1317,1962-05-08,9499 Main St,n/a,,85261,USA,2019-08-14 17:42:20,2023-09-28 12:04:20,Platinum,en-US,Yes,John Davis
+785,Jane,,0e0f6f3d@test.com,+1-323-364-8099,1962-10-05,4421 Oak Ave,Houston,IL,83262,USA,2019-04-23 18:27:38,2023-06-09 20:27:04,Silver,en-US,No,Jane 
+786,chris,Brown,eea1c802@hotmail.com,+1-339-975-5645,1980-01-25,2083 Cedar Ln,Phoenix,,95422,USA,2022-04-16 03:42:04,2023-07-23 19:20:51,,EN,,chris Brown
+787,Alex,Miller,fa02ea94@yahoo.com,+1-551-586-9522,1976-08-27,3401 Oak Ave,Phoenix,California,99966,USA,2020-12-10 22:28:00,2023-12-22 18:12:05,Bronze,es-ES,,Alex Miller
+788,John,Johnson,29f8d278@example.org,+1-885-450-1165,2004-08-31,3792 Oak Ave,Los Angeles,IL,62656,USA,2021-07-04 09:47:10,2023-01-17 23:33:37,Platinum,en-UK,False,John Johnson
+789,David,taylor,a4023d52@gmail.com,+1-162-503-2402,1992-01-20,8275 Cedar Ln,Phoenix,CA,61520,USA,2020-04-12 11:39:35,2023-02-01 18:24:46,Bronze,en-UK,Yes,David taylor
+790,Mike,Davis,invalid_email_at_hotmail.com,+1-615-127-2165,1992-02-06,5221 Cedar Ln,Phoenix,NY,14710,USA,2020-04-12 23:03:23,2023-08-20 13:42:41,Platinum,en-US,0,Mike Davis
+791,Sarah,Johnson,fef757c1@yahoo.com,+1-474-858-2364,1972-01-22,5671 Maple Dr,Chicago,NY,73653,USA,2019-12-01 08:05:13,2023-10-09 21:31:45,,EN,False,Sarah Johnson
+792,,,0ab7561b@example.org,1256085869,1990-01-09,8772 Main St,Chicago,Texas,41040,USA,2022-04-19 11:02:48,2023-03-29 11:11:05,Platinum,en-US,Yes, 
+793,John,Smith,fb877852@gmail.com,+1-231-818-7569,1968-07-05,9383 Oak Ave,n/a,Texas,19236,USA,2022-06-12 11:46:33,2023-01-03 16:16:54,Platinum,en-US,1,John Smith
+794,David,ANDERSON,25ea7c6c@test.com,7738254246,1973-05-14,5053 Main St,Los Angeles,,79603,USA,2022-06-16 22:00:51,2023-05-29 14:35:24,Gold,EN,0,David ANDERSON
+795,David,Miller,invalid_email_at_gmail.com,+1-729-382-1568,2001-01-06,1784 Oak Ave,New York,NY,33376,USA,2022-12-06 10:43:17,2023-11-12 03:45:53,,es-ES,0,David Miller
+796,Sarah,Doe,e3bcb29c@hotmail.com,+1-841-642-8589,1992-01-27,9023 Oak Ave,UNKNOWN,IL,73680,USA,2021-12-20 13:25:14,2023-07-11 22:54:38,Silver,en-UK,False,Sarah Doe
+797,Alex,Johnson,f24d2c1b@gmail.com,+1-229-454-8754,1996-04-13,6515 Cedar Ln,Los Angeles,TX,87205,USA,2022-04-11 09:07:11,2023-01-28 19:15:10,Silver,es-ES,1,Alex Johnson
+798,David,Smith,458c4076@hotmail.com,+1-356-258-3767,1991-10-18,4669 Cedar Ln,Los Angeles,IL,92303,US,2022-07-31 19:05:53,2023-01-20 00:24:43,,fr-FR,False,David Smith
+799,Mike,taylor,31499c54@example.org,5998537666,2000-10-02,849 Oak Ave,Houston,TX,00000,USA,2020-09-01 19:22:43,2023-05-01 10:05:34,Silver,fr-FR,True,Mike taylor
+800,David,Moore,da21c421@hotmail.com,+1-179-184-2595,1979-05-27,1331 Main St,n/a,CA,00000,USA,2021-09-16 18:25:17,2023-12-23 02:09:53,,fr-FR,Yes,David Moore
+801,David,Doe,0ec0260a@test.com,+1-101-720-9077,1983-08-11,2022 Main St,Houston,AZ,71578,US,2022-05-28 17:45:49,2023-05-17 11:24:30,Silver,EN,True,David Doe
+802,David,,defdab88@test.com,+1-940-644-7548,1978-09-20,2055 Maple Dr,Los Angeles,TX,00000,USA,2018-10-23 19:10:04,2023-11-04 14:23:52,Gold,en-US,Yes,David 
+803,KIM,Moore,invalid_email_at_test.com,3978678687,07/14/1978,7218 Cedar Ln,Los Angeles,NY,15596,USA,2022-12-19 13:22:14,2023-12-06 16:00:54,Silver,es-ES,No,KIM Moore
+804,KIM,taylor,5f7a52b5@example.org,+1-219-330-2987,1998-11-16,788 Cedar Ln,Los Angeles,IL,68635,USA,2019-09-04 10:53:02,2023-02-28 10:47:38,Platinum,en-UK,,KIM taylor
+805,Alex,Smith,invalid_email_at_example.org,9676491677,1984-04-04,4726 Main St,Phoenix,CA,58014,US,2021-03-17 18:36:46,2023-01-01 06:00:50,,fr-FR,0,Alex Smith
+806,John,Davis,cf5330d1@yahoo.com,+1-999-356-6617,1976-02-08,9738 Maple Dr,UNKNOWN,NY,76335,USA,2018-02-18 19:45:46,2023-01-17 06:16:02,Bronze,es-ES,False,John Davis
+807,David,Moore,dbccec05@yahoo.com,+1-400-712-7961,1985-04-20,7328 Oak Ave,UNKNOWN,CA,11254,USA,2018-10-18 01:36:34,2023-08-18 04:17:42,Bronze,fr-FR,No,David Moore
+808,chris,,6074d71a@yahoo.com,+1-991-906-3196,08/24/1993,1412 Oak Ave,Houston,AZ,16282,USA,2019-12-13 00:12:00,2023-11-09 22:50:28,,fr-FR,No,chris 
+809,John,Doe,c65802b3@hotmail.com,+1-534-581-2586,1992-08-29,5513 Main St,Los Angeles,California,58609,USA,2021-03-01 01:30:10,2023-12-20 22:17:17,Gold,en-UK,0,John Doe
+810,Alex,Brown,feb98ab8@hotmail.com,+1-260-425-9159,1969-10-12,7070 Cedar Ln,UNKNOWN,IL,43574,USA,2021-11-03 05:09:51,2023-02-03 17:14:53,Silver,EN,0,Alex Brown
+811,Mary,Wilson,1fd090ea@test.com,+1-361-217-9409,12/12/1971,6757 Cedar Ln,Chicago,,63349,USA,2018-05-14 09:10:17,2023-05-05 03:56:37,Gold,en-US,Yes,Mary Wilson
+812,John,Johnson,96c1b09d@example.org,9483586162,08/15/1987,6766 Oak Ave,UNKNOWN,IL,99358,USA,2020-11-17 01:47:27,2023-07-02 23:24:28,Bronze,EN,True,John Johnson
+813,John,Davis,d32890b9@hotmail.com,+1-426-352-5292,02/08/1985,8487 Main St,n/a,Texas,22187,USA,2018-04-18 22:06:31,2023-10-21 15:47:55,,es-ES,1,John Davis
+814,Emily,Moore,7eb21001@yahoo.com,+1-276-214-5489,12/02/1968,8714 Main St,n/a,AZ,29573,USA,2018-12-22 12:44:07,2023-10-01 04:21:43,,EN,Yes,Emily Moore
+815,Jane,ANDERSON,0a6fbf89@example.org,+1-521-535-6743,2005-07-11,2019 Cedar Ln,UNKNOWN,IL,52333,USA,2018-02-03 15:21:32,2023-02-14 11:52:08,Gold,es-ES,1,Jane ANDERSON
+816,,Johnson,invalid_email_at_test.com,5447018170,06/30/1982,586 Oak Ave,Chicago,Texas,73329,USA,2021-04-20 23:44:06,2023-10-12 05:10:24,Gold,es-ES,No, Johnson
+817,Emily,Brown,a42560f9@example.org,+1-646-861-6562,1963-07-26,9429 Maple Dr,n/a,,75040,USA,2018-09-23 06:32:10,2023-06-20 03:38:26,Silver,en-US,1,Emily Brown
+818,Mike,taylor,bb412e22@hotmail.com,1553279702,1987-04-03,3143 Maple Dr,Phoenix,TX,29721,USA,2021-05-15 21:33:37,2023-09-21 20:33:46,Platinum,en-UK,True,Mike taylor
+819,KIM,Wilson,b51c2cf4@yahoo.com,+1-481-328-6057,1963-04-17,4839 Cedar Ln,UNKNOWN,CA,00000,USA,2018-11-25 20:17:38,2023-03-24 10:16:22,Platinum,en-US,Yes,KIM Wilson
+820,KIM,Smith,b062901b@gmail.com,+1-259-917-2163,1971-09-05,6335 Main St,Phoenix,,70386,USA,2018-01-02 09:53:39,2023-05-25 04:45:09,Silver,EN,0,KIM Smith
+821,Jane,Brown,1160fe86@hotmail.com,+1-854-651-7159,2005-02-21,1313 Main St,UNKNOWN,NY,33588,USA,2022-04-23 21:04:05,2023-03-01 20:54:46,Platinum,es-ES,True,Jane Brown
+822,Sarah,Brown,a857134a@test.com,2875198031,1971-10-08,5655 Maple Dr,New York,AZ,46926,USA,2022-07-07 09:12:45,2023-02-22 05:40:07,Bronze,fr-FR,,Sarah Brown
+823,Sarah,taylor,e8c3d642@hotmail.com,+1-688-228-6840,03/01/1997,4627 Maple Dr,New York,TX,98280,USA,2021-10-28 20:01:40,2023-04-24 11:41:41,Platinum,fr-FR,True,Sarah taylor
+824,Alex,Miller,0cc70f5e@yahoo.com,+1-663-803-5393,1986-11-26,3090 Main St,New York,NY,33123,US,2019-01-14 04:51:59,2023-12-28 13:37:22,Silver,es-ES,,Alex Miller
+825,  sam  ,taylor,invalid_email_at_example.org,+1-547-985-2950,1962-06-17,6955 Cedar Ln,n/a,NY,82582,USA,2022-01-04 06:40:14,2023-10-29 15:03:45,Platinum,en-US,Yes,  sam   taylor
+826,Jane,Miller,675dbab2@yahoo.com,+1-314-489-4234,2000-08-27,5682 Oak Ave,Phoenix,AZ,45673,USA,2020-10-04 02:18:22,2023-10-15 08:39:39,,en-UK,0,Jane Miller
+827,,Miller,740e9105@example.org,+1-944-522-6379,1998-06-17,6728 Oak Ave,Phoenix,TX,79577,USA,2022-05-01 10:02:34,2023-08-03 03:27:50,Gold,en-US,True, Miller
+828,John,Davis,0202678e@example.org,+1-986-190-8148,1967-08-22,1828 Main St,Phoenix,California,95694,USA,2021-12-20 07:29:19,2023-12-16 05:55:39,Bronze,es-ES,,John Davis
+829,Sarah,Davis,303b6b7c@yahoo.com,6426073848,1995-04-16,3863 Maple Dr,Chicago,NY,37773,USA,2020-01-06 19:39:07,2023-10-23 16:50:35,,es-ES,0,Sarah Davis
+830,,Doe,625cfc08@example.org,+1-955-144-8433,1990-09-11,9014 Main St,Phoenix,NY,62456,USA,2022-05-23 02:29:35,2023-09-06 12:46:51,,en-UK,False, Doe
+831,David,Moore,2dc6c776@gmail.com,+1-841-378-2202,1985-04-30,9388 Cedar Ln,Chicago,TX,45601,USA,2022-04-05 02:54:59,2023-01-12 16:05:14,Silver,EN,False,David Moore
+832,  sam  ,Moore,invalid_email_at_yahoo.com,9360986648,2001-03-10,2448 Maple Dr,New York,IL,98505,USA,2022-06-08 23:48:41,2023-09-03 04:57:04,Gold,EN,False,  sam   Moore
+833,chris,,7a044a8b@hotmail.com,8578774762,1988-01-15,9923 Cedar Ln,New York,NY,74234,USA,2020-06-27 12:19:43,2023-08-12 00:55:46,Gold,en-UK,1,chris 
+834,John,Smith,8d079eed@hotmail.com,+1-569-451-1346,1978-03-02,2905 Oak Ave,n/a,CA,33966,USA,2018-08-04 06:08:44,2023-11-08 03:40:11,Bronze,EN,True,John Smith
+835,Mike,Moore,7abf3e85@example.org,4463846697,1977-11-07,1135 Cedar Ln,UNKNOWN,TX,50208,USA,2021-01-29 04:27:45,2023-12-29 09:59:22,Silver,fr-FR,Yes,Mike Moore
+836,David,Davis,845c5f3c@hotmail.com,+1-592-260-1683,1970-12-20,2204 Main St,New York,NY,54321,USA,2022-07-10 19:48:18,2023-09-30 01:53:55,Bronze,EN,Yes,David Davis
+837,David,Doe,555ae83b@test.com,3576818839,1966-10-13,7830 Main St,UNKNOWN,AZ,60017,US,2018-09-16 05:30:47,2023-12-17 08:49:00,Platinum,EN,1,David Doe
+838,Jane,Doe,36d05749@gmail.com,+1-720-282-3676,01/08/1991,5723 Main St,UNKNOWN,,69947,USA,2018-05-01 15:51:51,2023-03-18 10:59:09,,EN,Yes,Jane Doe
+839,  sam  ,Miller,b14b96bb@hotmail.com,+1-120-800-8738,1998-02-19,9667 Oak Ave,n/a,CA,53297,USA,2022-03-30 16:45:02,2023-09-03 01:30:24,Bronze,fr-FR,,  sam   Miller
+840,Alex,,b4672181@test.com,1972589237,1991-03-27,2373 Oak Ave,Los Angeles,Texas,42841,USA,2019-09-06 13:43:58,2023-07-22 10:02:12,,EN,False,Alex 
+841,Mike,taylor,58133be4@test.com,5637828832,1960-12-15,3027 Maple Dr,Los Angeles,Texas,76492,USA,2020-10-21 22:14:32,2023-08-15 05:01:13,Silver,fr-FR,True,Mike taylor
+842,Sarah,Smith,db3bd6e6@test.com,5032281280,1996-02-19,4617 Oak Ave,Houston,,46298,USA,2018-01-28 08:20:54,2023-12-23 15:57:21,Platinum,en-UK,Yes,Sarah Smith
+843,,Miller,cbe8396c@example.org,+1-121-615-3218,10/18/1967,4259 Oak Ave,n/a,Texas,49381,USA,2022-06-26 18:06:36,2023-07-10 18:27:10,Silver,en-US,Yes, Miller
+844,Jane,taylor,invalid_email_at_gmail.com,7832755159,1981-08-17,4551 Maple Dr,Houston,,46980,USA,2021-04-07 23:18:25,2023-03-29 07:04:02,Platinum,en-UK,No,Jane taylor
+845,Sarah,Moore,invalid_email_at_yahoo.com,1891050420,1990-08-26,3436 Main St,Houston,NY,92918,USA,2019-07-10 20:22:31,2023-11-21 02:10:47,Platinum,en-US,No,Sarah Moore
+846,Jane,,36264357@example.org,+1-767-109-8986,1975-01-01,9705 Main St,Los Angeles,CA,11829,USA,2021-09-09 19:15:55,2023-03-27 04:10:55,,en-UK,No,Jane 
+847,Jane,Miller,483c27ce@example.org,+1-291-978-5745,1977-11-16,3081 Main St,n/a,CA,14949,USA,2018-08-18 12:00:38,2023-07-13 04:31:33,Silver,en-US,True,Jane Miller
+848,Jane,Johnson,1610f00f@test.com,+1-469-951-9847,1978-06-03,4615 Oak Ave,Los Angeles,IL,59976,USA,2019-06-02 16:48:41,2023-08-02 20:27:56,Silver,en-US,False,Jane Johnson
+849,  sam  ,Moore,cc1ec525@test.com,2784941020,1994-03-18,3734 Cedar Ln,Houston,,55516,USA,2018-07-23 03:41:48,2023-03-12 17:27:25,Bronze,es-ES,0,  sam   Moore
+850,Alex,taylor,036fdd6b@hotmail.com,+1-467-109-9954,1981-05-12,4062 Main St,n/a,CA,43529,USA,2018-08-28 15:16:08,2023-07-18 04:17:26,Silver,en-US,False,Alex taylor
+851,Jane,Smith,57416ef5@gmail.com,+1-760-501-4741,1961-10-28,301 Oak Ave,Houston,IL,90853,USA,2022-11-10 15:16:31,2023-10-28 20:37:15,Bronze,en-US,False,Jane Smith
+852,Mary,taylor,915d7b2e@example.org,1559081016,1969-05-20,508 Cedar Ln,Phoenix,TX,25029,USA,2021-11-03 08:35:46,2023-08-04 16:24:21,Gold,es-ES,True,Mary taylor
+853,chris,Miller,3564c7c0@yahoo.com,5913653401,1998-06-25,5741 Cedar Ln,UNKNOWN,IL,27912,USA,2021-12-06 08:09:01,2023-08-12 04:16:21,Gold,EN,,chris Miller
+854,Sarah,Miller,40a7ef76@yahoo.com,+1-838-762-7793,1967-10-07,9997 Maple Dr,n/a,AZ,80463,USA,2018-04-30 04:47:05,2023-04-30 13:03:11,Gold,EN,,Sarah Miller
+855,John,Brown,f330f768@gmail.com,6779645893,1966-01-25,9035 Cedar Ln,n/a,California,87908,USA,2018-04-26 14:49:09,2023-06-28 00:21:03,Silver,es-ES,True,John Brown
+856,Emily,Smith,376407d2@example.org,+1-224-304-7242,1998-05-28,2651 Maple Dr,UNKNOWN,NY,66400,USA,2022-04-05 15:13:21,2023-06-13 19:08:18,Silver,fr-FR,No,Emily Smith
+857,,ANDERSON,12903c7b@gmail.com,+1-128-506-1372,1964-12-08,3403 Oak Ave,Houston,TX,71922,USA,2022-03-20 05:19:48,2023-09-25 05:46:35,Bronze,en-US,Yes, ANDERSON
+858,Mike,Moore,13d95207@example.org,+1-282-555-3045,1995-08-14,464 Cedar Ln,Phoenix,California,35898,USA,2021-02-28 15:49:58,2023-04-05 03:49:00,Platinum,en-US,1,Mike Moore
+859,KIM,Doe,b0b28c28@gmail.com,+1-501-819-3352,1997-07-11,5969 Main St,Chicago,California,00000,USA,2018-11-15 08:03:45,2023-01-10 19:23:25,Bronze,es-ES,1,KIM Doe
+860,Alex,Smith,3f4ed7e8@gmail.com,+1-470-866-1564,1993-08-12,3845 Maple Dr,UNKNOWN,TX,42916,USA,2019-08-19 02:34:18,2023-06-12 08:33:11,Gold,es-ES,0,Alex Smith
+861,John,Doe,224505ef@gmail.com,+1-674-767-5227,1997-07-05,9188 Main St,Los Angeles,AZ,67472,US,2020-07-13 08:12:45,2023-05-04 14:49:15,Bronze,fr-FR,Yes,John Doe
+862,David,Smith,82368d60@test.com,+1-235-261-4004,1999-01-29,2760 Cedar Ln,Houston,IL,26978,USA,2020-12-01 14:26:52,2023-06-29 12:01:58,Platinum,EN,0,David Smith
+863,Mary,Smith,e93515d8@test.com,+1-655-338-4473,1993-12-18,5409 Main St,UNKNOWN,NY,52459,USA,2022-07-02 04:07:50,2023-07-16 21:11:18,Silver,en-UK,No,Mary Smith
+864,KIM,taylor,972565f1@gmail.com,+1-308-993-3059,1997-01-04,7303 Cedar Ln,UNKNOWN,IL,53332,USA,2020-10-12 13:36:04,2023-03-15 09:54:29,Bronze,EN,0,KIM taylor
+865,Emily,Smith,252a2dad@hotmail.com,+1-625-690-5665,1995-04-21,9330 Maple Dr,n/a,CA,92986,USA,2019-02-05 14:53:17,2023-08-17 17:48:04,Gold,en-US,Yes,Emily Smith
+866,John,Brown,e44a69d9@gmail.com,+1-593-462-5539,1997-08-29,5428 Oak Ave,Los Angeles,IL,39818,USA,2018-10-10 02:19:35,2023-08-05 23:15:37,Gold,es-ES,Yes,John Brown
+867,KIM,ANDERSON,invalid_email_at_example.org,1717287597,1996-06-29,9602 Cedar Ln,Los Angeles,Texas,48702,USA,2022-05-18 23:25:45,2023-02-09 08:50:47,Silver,fr-FR,1,KIM ANDERSON
+868,John,Miller,invalid_email_at_hotmail.com,+1-832-989-9921,11/23/1968,6381 Oak Ave,Los Angeles,TX,13750,USA,2018-07-20 20:28:51,2023-05-08 18:20:04,Bronze,EN,,John Miller
+869,,Wilson,daa8200f@test.com,+1-615-483-9806,1981-04-13,959 Maple Dr,UNKNOWN,NY,17165,US,2020-06-20 03:45:32,2023-12-22 19:33:44,Platinum,fr-FR,No, Wilson
+870,Mary,Doe,b6301a59@hotmail.com,+1-577-904-6646,1964-07-28,200 Maple Dr,Chicago,IL,53676,USA,2018-01-24 17:27:33,2023-05-21 22:27:52,Silver,EN,True,Mary Doe
+871,Emily,Miller,8880a855@hotmail.com,+1-816-900-4707,1966-04-30,3465 Maple Dr,New York,NY,47497,USA,2018-02-28 02:59:43,2023-09-16 00:22:24,Bronze,en-US,0,Emily Miller
+872,David,Wilson,6525b980@test.com,+1-177-789-1279,1968-07-11,3752 Cedar Ln,Houston,NY,00000,USA,2022-04-26 10:16:49,2023-05-20 22:02:45,,en-UK,1,David Wilson
+873,Jane,ANDERSON,da5e2dd7@hotmail.com,+1-840-292-4807,1976-04-16,2689 Oak Ave,New York,CA,29843,USA,2019-12-02 16:31:27,2023-07-12 17:15:02,Gold,fr-FR,0,Jane ANDERSON
+874,Sarah,ANDERSON,aa835b3a@yahoo.com,+1-440-254-7101,1968-06-08,4710 Maple Dr,UNKNOWN,CA,46454,USA,2021-04-27 03:58:00,2023-10-24 00:27:30,Platinum,fr-FR,0,Sarah ANDERSON
+875,David,Doe,7a713a61@hotmail.com,2048489085,1978-12-13,512 Oak Ave,New York,TX,17451,USA,2021-08-14 10:45:29,2023-09-14 07:58:55,Platinum,en-UK,True,David Doe
+876,Jane,Doe,546c34f6@gmail.com,+1-616-277-2625,1964-05-30,4134 Main St,UNKNOWN,AZ,42277,USA,2019-06-09 01:20:19,2023-08-03 14:31:50,Platinum,fr-FR,No,Jane Doe
+877,  sam  ,ANDERSON,invalid_email_at_example.org,+1-560-679-7534,11/24/2002,3222 Cedar Ln,New York,Texas,85815,USA,2021-10-09 04:43:49,2023-12-26 21:42:02,Gold,fr-FR,Yes,  sam   ANDERSON
+878,  sam  ,Wilson,74236f0c@hotmail.com,+1-601-569-9122,1996-12-31,2343 Oak Ave,Los Angeles,California,48029,USA,2019-09-24 21:02:39,2023-09-27 01:59:06,Bronze,EN,False,  sam   Wilson
+879,  sam  ,Smith,39d24e9c@test.com,+1-177-249-8067,1971-10-06,8033 Oak Ave,Phoenix,NY,30656,USA,2019-04-11 01:08:07,2023-08-04 02:21:10,Silver,EN,0,  sam   Smith
+880,Alex,Moore,73ea396f@yahoo.com,+1-648-907-1199,1992-03-23,3757 Oak Ave,Los Angeles,AZ,16510,USA,2020-12-29 13:21:06,2023-06-03 05:40:47,Bronze,en-UK,False,Alex Moore
+881,chris,,87b4fedb@yahoo.com,+1-939-273-1175,1962-12-20,3099 Maple Dr,Los Angeles,California,17611,USA,2020-03-05 18:35:21,2023-11-07 15:02:53,Silver,en-US,No,chris 
+882,Mike,Johnson,bb497d12@gmail.com,2552059657,1991-08-21,6319 Maple Dr,n/a,California,81327,USA,2018-11-14 02:29:30,2023-02-27 21:40:28,Platinum,fr-FR,False,Mike Johnson
+883,Mike,,c6963643@gmail.com,+1-714-236-1690,1982-04-17,225 Maple Dr,n/a,Texas,00000,USA,2021-06-13 22:56:42,2023-01-02 12:32:42,Bronze,en-US,0,Mike 
+884,  sam  ,Miller,invalid_email_at_example.org,+1-875-242-1491,07/30/1966,8837 Cedar Ln,New York,TX,63657,USA,2019-04-03 02:11:43,2023-10-31 10:48:49,Platinum,en-UK,True,  sam   Miller
+885,Sarah,taylor,3af1fef6@example.org,+1-904-377-7118,06/02/1977,7809 Main St,UNKNOWN,California,41544,USA,2021-11-05 04:13:55,2023-09-20 12:23:50,,en-UK,False,Sarah taylor
+886,Emily,Miller,85004df1@example.org,8794671003,1968-03-09,3965 Main St,Los Angeles,Texas,99313,US,2019-08-12 20:36:14,2023-03-22 06:06:06,Platinum,EN,No,Emily Miller
+887,Mary,taylor,2838c194@example.org,8389927654,1967-02-10,9412 Cedar Ln,New York,California,15005,USA,2020-09-28 22:12:19,2023-09-16 21:10:56,Platinum,fr-FR,No,Mary taylor
+888,Emily,Wilson,a3390609@example.org,+1-466-494-8992,2004-08-15,5886 Cedar Ln,n/a,NY,77827,USA,2021-03-08 12:51:30,2023-05-29 15:01:12,Silver,es-ES,,Emily Wilson
+889,Mary,taylor,b236a513@gmail.com,+1-296-362-4258,1999-02-27,2364 Main St,Phoenix,NY,84819,USA,2022-07-14 15:43:00,2023-06-24 01:31:18,,en-UK,,Mary taylor
+890,Emily,Doe,c84aac99@example.org,1331879368,1995-05-29,9241 Cedar Ln,Houston,,91508,USA,2019-01-30 01:03:51,2023-11-24 22:15:50,Platinum,fr-FR,True,Emily Doe
+891,chris,Moore,invalid_email_at_gmail.com,3072454061,12/07/1976,9186 Maple Dr,New York,AZ,90730,USA,2018-06-02 18:51:14,2023-05-05 19:09:14,Platinum,en-US,False,chris Moore
+892,Alex,Moore,14d90c1c@gmail.com,+1-775-280-5548,1991-06-01,6656 Maple Dr,Phoenix,IL,15478,US,2019-04-06 03:08:05,2023-10-18 22:14:03,,EN,False,Alex Moore
+893,Alex,Doe,83ce2798@yahoo.com,+1-838-344-1909,11/30/1994,7309 Maple Dr,Houston,Texas,15053,USA,2019-01-04 02:02:40,2023-12-14 02:05:05,,en-US,,Alex Doe
+894,  sam  ,Brown,619f1386@gmail.com,8003098684,1979-09-24,9932 Main St,Chicago,CA,47862,USA,2021-06-07 07:25:07,2023-11-27 18:00:55,Bronze,en-UK,Yes,  sam   Brown
+895,Jane,,c89302ac@yahoo.com,4499568682,1980-12-25,9449 Cedar Ln,New York,Texas,60935,USA,2018-12-27 12:16:21,2023-01-05 04:05:06,Silver,en-UK,1,Jane 
+896,KIM,Wilson,d41edbe8@yahoo.com,3281953278,08/23/1990,105 Maple Dr,New York,IL,94457,USA,2022-07-14 06:02:23,2023-12-24 05:31:26,,en-US,No,KIM Wilson
+897,Alex,,6c91c003@hotmail.com,+1-897-229-5773,1986-12-17,5286 Maple Dr,Chicago,AZ,65783,USA,2020-03-02 19:22:50,2023-03-29 13:39:51,,en-UK,Yes,Alex 
+898,Alex,Brown,invalid_email_at_yahoo.com,8198829894,1986-01-08,6427 Main St,Chicago,CA,11609,USA,2020-04-20 06:14:36,2023-08-14 17:04:50,Gold,fr-FR,No,Alex Brown
+899,David,Brown,d4afc9c0@yahoo.com,+1-931-365-9304,1968-11-21,5924 Maple Dr,New York,IL,98147,USA,2022-02-09 17:12:09,2023-06-12 12:29:29,,en-UK,Yes,David Brown
+900,David,Miller,a61c70ef@test.com,1442827994,2002-01-05,4918 Maple Dr,Chicago,,99871,USA,2021-07-05 00:19:14,2023-08-01 15:15:18,Silver,EN,,David Miller
+901,Jane,ANDERSON,c10b873e@test.com,+1-782-192-7039,1974-10-08,7760 Maple Dr,Los Angeles,CA,17885,USA,2018-06-30 13:14:51,2023-12-03 19:04:17,Platinum,fr-FR,,Jane ANDERSON
+902,,Miller,beccce09@example.org,5712407416,11/27/1984,6373 Maple Dr,Houston,NY,92356,USA,2022-09-12 07:14:30,2023-07-31 09:45:19,Platinum,es-ES,1, Miller
+903,KIM,ANDERSON,1c084e55@yahoo.com,+1-124-579-1595,1975-07-12,5977 Cedar Ln,Houston,IL,46412,US,2021-01-06 02:57:17,2023-03-11 05:49:07,Platinum,en-UK,Yes,KIM ANDERSON
+904,Sarah,Johnson,5c71d6f7@yahoo.com,1339924626,1962-12-31,9353 Cedar Ln,Houston,Texas,16853,USA,2018-01-28 02:52:16,2023-07-20 04:21:46,Platinum,en-UK,No,Sarah Johnson
+905,David,taylor,ad0bbb8c@test.com,+1-847-284-4160,1980-08-01,8131 Main St,Los Angeles,CA,67737,USA,2018-02-21 04:34:48,2023-06-16 12:37:25,Gold,EN,False,David taylor
+906,Sarah,ANDERSON,ba89b465@hotmail.com,+1-991-666-8650,12/10/1989,9331 Main St,UNKNOWN,,30146,USA,2019-06-11 16:56:40,2023-05-02 02:15:54,,EN,No,Sarah ANDERSON
+907,John,,59f66b57@test.com,1470137351,1990-08-31,6383 Maple Dr,Chicago,Texas,99038,USA,2018-06-08 16:20:25,2023-05-07 17:20:52,Platinum,en-US,0,John 
+908,David,Doe,79aea1f2@test.com,+1-164-499-6000,1994-02-26,2375 Cedar Ln,Phoenix,California,47749,USA,2019-08-26 10:54:52,2023-09-01 03:07:24,Bronze,en-US,,David Doe
+909,chris,Miller,510b3f77@hotmail.com,+1-287-436-7907,1972-02-03,4368 Oak Ave,Chicago,CA,40834,USA,2022-10-15 14:41:50,2023-11-02 20:53:12,Platinum,en-US,True,chris Miller
+910,,Wilson,0e31aa42@test.com,7971964684,1985-01-03,4053 Oak Ave,New York,CA,29404,USA,2021-07-30 21:46:00,2023-12-23 23:24:14,,EN,True, Wilson
+911,KIM,taylor,4fc616ee@hotmail.com,+1-484-102-2154,1968-05-01,8645 Maple Dr,n/a,,95518,USA,2022-10-18 01:47:07,2023-01-23 00:38:44,Platinum,en-US,,KIM taylor
+912,Jane,Johnson,655912d8@example.org,+1-974-927-4300,1966-02-20,6545 Main St,Houston,California,94323,USA,2018-10-01 11:15:45,2023-02-02 07:42:17,Gold,en-US,0,Jane Johnson
+913,John,ANDERSON,ae6d96cd@example.org,+1-287-915-1299,1963-03-08,4134 Main St,Chicago,IL,88874,USA,2018-05-26 03:39:35,2023-09-24 13:48:23,Silver,es-ES,True,John ANDERSON
+914,KIM,Johnson,919df73f@yahoo.com,4894295815,1975-08-15,2593 Main St,Phoenix,TX,43496,USA,2018-08-25 05:41:02,2023-02-06 10:24:47,Silver,en-US,,KIM Johnson
+915,  sam  ,Wilson,invalid_email_at_hotmail.com,6326870454,1990-12-13,5956 Oak Ave,New York,IL,54778,USA,2018-12-29 00:55:52,2023-10-01 15:11:40,,en-UK,True,  sam   Wilson
+916,chris,Brown,fb817e9c@test.com,+1-867-216-8449,1990-04-29,9353 Main St,Los Angeles,California,61317,USA,2021-02-15 13:53:17,2023-07-09 00:46:04,Silver,EN,,chris Brown
+917,KIM,Moore,invalid_email_at_test.com,8089543922,1965-10-15,6076 Oak Ave,UNKNOWN,AZ,00000,USA,2022-12-31 23:38:17,2023-06-01 01:51:44,Silver,fr-FR,1,KIM Moore
+918,chris,Wilson,5e04dba3@test.com,+1-462-432-8345,1969-03-17,1025 Maple Dr,Los Angeles,Texas,67026,USA,2020-12-11 02:48:24,2023-01-19 08:59:02,Bronze,es-ES,False,chris Wilson
+919,chris,Davis,1c95db65@hotmail.com,+1-797-688-3104,1999-09-13,2639 Maple Dr,Phoenix,,83403,USA,2018-05-25 10:39:41,2023-08-27 21:09:39,,EN,False,chris Davis
+920,Sarah,Wilson,54dbf127@gmail.com,+1-317-834-5134,1988-04-14,9649 Cedar Ln,New York,IL,97470,USA,2020-06-18 22:48:25,2023-06-25 00:08:04,,EN,No,Sarah Wilson
+921,Emily,Johnson,dfaef2a2@test.com,2353599895,1966-08-24,9365 Cedar Ln,Houston,CA,14373,USA,2021-10-26 02:47:57,2023-10-11 19:48:05,Silver,en-UK,0,Emily Johnson
+922,  sam  ,Doe,d65c5fe1@test.com,1155440507,1965-12-04,7176 Oak Ave,Chicago,,92591,US,2020-04-04 19:36:08,2023-09-08 09:20:52,Silver,en-US,,  sam   Doe
+923,John,Miller,invalid_email_at_example.org,9292600035,1975-05-14,8136 Cedar Ln,New York,NY,74690,USA,2022-12-31 07:05:49,2023-11-07 06:04:11,Silver,en-UK,Yes,John Miller
+924,KIM,Doe,1997c1eb@test.com,+1-143-516-1284,02/14/1971,3418 Oak Ave,UNKNOWN,California,49367,USA,2022-09-18 05:06:42,2023-10-03 20:33:20,Gold,en-US,No,KIM Doe
+925,Mary,Johnson,addb58ca@hotmail.com,+1-115-354-6023,10/11/1990,7096 Main St,Los Angeles,Texas,58038,USA,2021-02-23 11:08:31,2023-11-20 23:34:51,Platinum,en-US,No,Mary Johnson
+926,John,Miller,92cf3f2a@test.com,+1-554-768-9462,07/24/1982,4828 Cedar Ln,UNKNOWN,IL,55592,US,2019-12-13 05:26:33,2023-10-21 01:26:00,Gold,EN,,John Miller
+927,Emily,Davis,bc36a245@test.com,+1-945-179-7230,1979-03-09,8476 Main St,UNKNOWN,,52814,USA,2021-03-24 12:26:50,2023-06-02 07:05:37,,en-US,,Emily Davis
+928,John,Moore,a03ca9b7@yahoo.com,+1-402-795-5446,1982-05-06,1615 Oak Ave,Phoenix,Texas,50210,USA,2020-05-27 10:26:28,2023-12-11 17:12:56,Bronze,es-ES,No,John Moore
+929,Alex,taylor,574abe05@yahoo.com,+1-636-367-8265,1989-05-29,7057 Oak Ave,Phoenix,IL,94959,USA,2021-01-20 20:33:24,2023-11-22 08:35:05,Platinum,es-ES,No,Alex taylor
+930,Mary,,c4f1f3ff@hotmail.com,+1-323-331-3028,1983-01-02,9581 Maple Dr,Chicago,,38467,USA,2019-06-19 11:04:53,2023-11-18 08:16:49,Bronze,es-ES,False,Mary 
+931,Emily,Johnson,f1f08b73@hotmail.com,+1-790-653-3839,1973-04-11,8406 Maple Dr,Phoenix,CA,79864,USA,2019-06-04 22:43:02,2023-03-14 03:46:48,,EN,Yes,Emily Johnson
+932,Sarah,ANDERSON,4e6c5730@yahoo.com,+1-670-514-4028,1980-07-18,5977 Main St,Phoenix,NY,48216,USA,2019-12-23 14:01:52,2023-07-21 09:53:09,,en-UK,No,Sarah ANDERSON
+933,KIM,Johnson,31dd145d@example.org,+1-672-844-4732,1993-12-04,5064 Cedar Ln,New York,NY,82540,USA,2022-01-25 23:19:25,2023-03-29 17:50:02,Bronze,fr-FR,False,KIM Johnson
+934,,Johnson,d17fd408@gmail.com,+1-406-697-3452,1966-03-08,8284 Cedar Ln,Houston,AZ,49944,USA,2021-10-09 22:09:05,2023-08-06 12:45:44,Bronze,en-US,No, Johnson
+935,Mike,Miller,2db621d0@test.com,7342477845,1999-07-20,6082 Cedar Ln,Chicago,,34403,USA,2022-11-22 02:22:48,2023-01-20 10:12:12,Bronze,fr-FR,True,Mike Miller
+936,Emily,Smith,invalid_email_at_yahoo.com,+1-370-986-3045,06/22/1968,6962 Oak Ave,New York,IL,64773,USA,2021-07-26 07:36:26,2023-01-12 14:20:21,,en-UK,No,Emily Smith
+937,Jane,Wilson,invalid_email_at_test.com,1791679651,1999-01-21,2841 Maple Dr,Houston,NY,37386,USA,2019-07-24 04:13:36,2023-09-25 00:12:53,Silver,en-UK,,Jane Wilson
+938,KIM,Smith,3a93e3a8@yahoo.com,+1-549-248-1433,1961-09-13,3303 Oak Ave,UNKNOWN,California,34543,USA,2019-04-27 12:54:10,2023-01-26 06:58:52,Bronze,EN,0,KIM Smith
+939,  sam  ,Davis,e1693655@gmail.com,7804356961,1975-03-27,5687 Main St,New York,NY,51630,USA,2020-06-08 13:41:37,2023-11-04 16:28:58,Platinum,es-ES,0,  sam   Davis
+940,Emily,ANDERSON,invalid_email_at_yahoo.com,+1-496-593-9544,2001-09-13,3931 Oak Ave,n/a,TX,85680,USA,2021-11-25 07:40:36,2023-11-30 04:46:05,,es-ES,No,Emily ANDERSON
+941,Alex,Moore,5e5c73af@test.com,+1-429-622-1168,1967-01-26,4080 Maple Dr,New York,TX,29272,USA,2020-10-28 14:34:01,2023-06-04 18:30:25,Gold,en-UK,1,Alex Moore
+942,Mike,Brown,c72cce5a@gmail.com,7177100478,2000-01-05,7024 Cedar Ln,Phoenix,NY,97268,USA,2019-04-06 02:53:03,2023-07-17 13:27:03,Gold,EN,True,Mike Brown
+943,Alex,Davis,07137aa9@test.com,+1-688-989-7089,1998-12-17,406 Maple Dr,Houston,,57795,US,2019-07-16 20:26:45,2023-06-28 18:46:26,Platinum,EN,Yes,Alex Davis
+944,Mike,Brown,7ebd2eb3@test.com,4354021001,1987-05-28,7430 Maple Dr,Chicago,AZ,92797,USA,2022-04-21 14:44:08,2023-05-06 23:29:58,Silver,en-US,No,Mike Brown
+945,  sam  ,Brown,bf776242@test.com,+1-548-613-4618,1995-03-14,7461 Oak Ave,Chicago,NY,98812,USA,2018-03-01 23:25:30,2023-06-25 21:07:00,Bronze,es-ES,Yes,  sam   Brown
+946,,Moore,43f44138@gmail.com,5759234764,1982-06-01,7638 Oak Ave,Houston,CA,52259,USA,2019-05-23 20:31:37,2023-05-25 03:13:38,,en-UK,True, Moore
+947,Jane,Doe,e7471686@hotmail.com,+1-165-343-2520,1966-02-07,6744 Cedar Ln,Phoenix,Texas,79790,US,2021-07-09 02:54:03,2023-11-05 22:06:24,Bronze,fr-FR,No,Jane Doe
+948,KIM,Smith,6101614e@hotmail.com,+1-203-519-1212,12/10/2004,3215 Maple Dr,Los Angeles,IL,36553,USA,2021-02-01 15:33:32,2023-09-30 15:15:35,,es-ES,1,KIM Smith
+949,Sarah,Johnson,invalid_email_at_gmail.com,+1-475-464-1328,1995-03-04,8710 Cedar Ln,New York,AZ,58681,US,2018-07-04 16:10:43,2023-02-03 21:33:05,Gold,en-US,False,Sarah Johnson
+950,Alex,taylor,52c1f6ef@gmail.com,+1-885-425-9481,1994-12-11,7646 Main St,Phoenix,CA,79868,USA,2022-12-10 12:04:54,2023-06-22 19:45:03,Bronze,EN,1,Alex taylor
+951,Alex,Brown,acc6a8fe@example.org,+1-314-123-8787,08/01/1994,9437 Cedar Ln,n/a,AZ,23671,USA,2018-11-08 01:27:17,2023-07-01 18:35:28,Platinum,en-UK,,Alex Brown
+952,chris,ANDERSON,887f4554@test.com,+1-967-173-9740,1962-08-21,4858 Oak Ave,UNKNOWN,CA,69371,USA,2021-06-08 15:31:06,2023-04-23 22:42:59,Silver,es-ES,1,chris ANDERSON
+953,Mike,Davis,83de20a9@yahoo.com,+1-819-799-1114,1962-06-11,6310 Maple Dr,Houston,IL,85368,USA,2022-10-25 03:35:54,2023-02-25 10:52:44,Platinum,fr-FR,False,Mike Davis
+954,David,Doe,aea5df15@test.com,+1-582-864-5368,1987-11-19,7813 Oak Ave,New York,IL,30424,USA,2020-12-26 14:05:14,2023-01-19 15:48:39,Silver,en-US,,David Doe
+955,,Brown,8f99b378@example.org,+1-333-423-2463,1977-03-08,6513 Oak Ave,Chicago,TX,40809,US,2018-06-27 13:08:30,2023-10-13 22:25:48,Bronze,en-US,False, Brown
+956,KIM,Doe,c65b7b35@example.org,+1-245-406-7379,1981-09-22,896 Maple Dr,UNKNOWN,,17516,USA,2020-12-04 08:57:34,2023-06-29 14:11:46,Bronze,es-ES,0,KIM Doe
+957,Mike,Doe,invalid_email_at_hotmail.com,+1-558-690-7282,12/30/1981,7816 Main St,Los Angeles,CA,71582,USA,2018-03-14 05:25:27,2023-10-23 18:13:17,Silver,fr-FR,False,Mike Doe
+958,chris,Brown,a0cd8ec1@gmail.com,+1-880-957-8275,1994-10-09,4046 Main St,n/a,Texas,55778,USA,2021-12-24 16:36:22,2023-03-14 15:38:40,Gold,en-US,No,chris Brown
+959,John,Miller,5f7c6465@hotmail.com,+1-980-695-2450,1992-07-01,7684 Maple Dr,Chicago,TX,35455,USA,2018-12-13 05:57:18,2023-02-18 19:20:03,,en-UK,Yes,John Miller
+960,Mike,Wilson,daaf213a@gmail.com,+1-213-947-9512,1968-03-10,4798 Oak Ave,Houston,CA,81719,USA,2019-10-18 08:01:58,2023-04-15 08:17:28,Platinum,en-US,0,Mike Wilson
+961,Sarah,ANDERSON,ce460a3a@test.com,8558432319,1994-02-14,263 Oak Ave,New York,TX,75834,USA,2018-12-12 08:52:14,2023-12-11 23:09:32,Platinum,fr-FR,0,Sarah ANDERSON
+962,KIM,Johnson,793c4d88@example.org,7830808276,1997-01-07,5868 Oak Ave,Houston,IL,32217,USA,2022-03-06 21:54:03,2023-04-27 00:07:12,Platinum,EN,Yes,KIM Johnson
+963,,Johnson,25395413@test.com,8119061657,11/22/1967,736 Oak Ave,UNKNOWN,AZ,19406,USA,2022-10-31 12:07:40,2023-04-24 19:56:43,Bronze,EN,0, Johnson
+964,chris,ANDERSON,f07fa8b5@yahoo.com,+1-662-612-5311,1963-09-12,1069 Oak Ave,New York,California,37802,USA,2020-09-14 10:07:57,2023-08-13 02:01:33,Platinum,es-ES,False,chris ANDERSON
+965,John,Miller,invalid_email_at_hotmail.com,1306138323,02/23/1967,5310 Cedar Ln,Phoenix,TX,98399,US,2022-09-01 03:59:58,2023-12-05 06:10:50,,fr-FR,1,John Miller
+966,Mary,Johnson,invalid_email_at_test.com,+1-557-551-4431,11/15/1968,1771 Cedar Ln,Los Angeles,CA,91010,USA,2018-09-09 06:21:04,2023-04-18 04:21:53,,en-US,True,Mary Johnson
+967,chris,Doe,e31873a2@hotmail.com,3976854625,1972-10-24,1652 Main St,Phoenix,CA,91619,USA,2019-04-12 16:47:31,2023-01-02 15:55:04,Silver,en-US,False,chris Doe
+968,Mary,Moore,c61ce478@yahoo.com,+1-121-295-7060,1998-06-09,3461 Maple Dr,Phoenix,California,21843,USA,2018-08-27 20:57:56,2023-06-27 20:20:31,Bronze,EN,,Mary Moore
+969,KIM,Davis,0ef0059a@example.org,9589973505,1965-04-07,7771 Main St,Houston,,63967,USA,2021-06-01 07:04:39,2023-06-08 20:02:41,,EN,,KIM Davis
+970,Alex,Smith,invalid_email_at_yahoo.com,3691767149,2000-08-08,2813 Main St,UNKNOWN,Texas,22503,USA,2021-09-24 20:51:37,2023-04-08 20:26:04,Gold,en-UK,1,Alex Smith
+971,chris,Johnson,bfe131a3@test.com,+1-879-324-8032,05/10/1974,5493 Maple Dr,Los Angeles,IL,89678,USA,2022-06-22 12:36:31,2023-09-30 02:14:42,Bronze,EN,1,chris Johnson
+972,Jane,ANDERSON,e252c944@test.com,3669897479,05/03/1981,6616 Maple Dr,New York,CA,00000,US,2018-10-13 19:18:59,2023-07-04 07:04:54,Bronze,en-UK,0,Jane ANDERSON
+973,Mary,Moore,invalid_email_at_test.com,+1-854-890-2325,2003-11-02,9691 Oak Ave,New York,NY,72338,US,2019-09-17 07:02:51,2023-04-23 21:54:32,,en-US,No,Mary Moore
+974,Sarah,Brown,ba0bc6d5@example.org,6777565283,09/17/1972,4651 Maple Dr,n/a,AZ,74992,USA,2021-05-25 11:37:00,2023-11-29 07:35:17,Gold,en-UK,No,Sarah Brown
+975,Jane,Wilson,59939eb1@yahoo.com,+1-448-684-7864,1997-07-05,8859 Cedar Ln,Chicago,TX,79417,USA,2018-03-14 10:17:18,2023-12-04 14:32:18,Silver,en-UK,0,Jane Wilson
+976,Emily,ANDERSON,997dbede@test.com,2421380989,1986-08-15,7438 Main St,n/a,,25432,USA,2020-11-11 03:42:21,2023-10-13 12:30:00,,es-ES,0,Emily ANDERSON
+977,Emily,Doe,aadd8896@example.org,+1-642-206-3913,1987-09-25,9004 Oak Ave,n/a,Texas,75781,USA,2022-01-18 16:19:34,2023-03-31 23:57:52,Gold,EN,Yes,Emily Doe
+978,John,Wilson,b76e2a0b@hotmail.com,+1-327-574-1944,05/31/1985,7075 Main St,New York,California,44368,USA,2021-03-20 10:50:55,2023-12-20 08:43:21,Bronze,en-UK,Yes,John Wilson
+979,,Davis,b53f756e@hotmail.com,+1-772-130-3336,1963-03-05,8015 Oak Ave,Houston,AZ,74783,USA,2020-08-27 06:22:05,2023-02-24 13:33:06,Gold,en-US,True, Davis
+980,Alex,Davis,68bbcbb6@gmail.com,+1-154-290-6528,10/18/1972,9659 Main St,Phoenix,IL,51246,USA,2018-05-03 16:50:17,2023-01-28 17:44:00,Bronze,fr-FR,True,Alex Davis
+981,KIM,Miller,657b2b15@example.org,9785833446,1999-01-29,7704 Maple Dr,UNKNOWN,,59615,USA,2019-03-28 17:08:12,2023-06-07 17:04:33,,en-UK,True,KIM Miller
+982,chris,taylor,2ab1eaaa@example.org,+1-167-344-4359,1999-11-09,9908 Oak Ave,Phoenix,Texas,25255,USA,2018-08-18 00:24:04,2023-03-15 18:54:07,,EN,True,chris taylor
+983,David,Miller,d9ed6467@test.com,+1-760-335-9589,1995-01-16,3964 Main St,Phoenix,TX,45698,USA,2020-12-24 17:07:14,2023-06-15 15:19:07,Platinum,es-ES,1,David Miller
+984,Sarah,Moore,7fe909d7@test.com,+1-666-157-5392,1970-07-24,2036 Cedar Ln,Los Angeles,TX,73036,USA,2020-08-30 22:40:35,2023-03-22 22:59:51,Platinum,en-US,1,Sarah Moore
+985,Mary,Wilson,1346d44b@hotmail.com,+1-442-704-4391,1997-08-15,9128 Maple Dr,New York,California,73675,USA,2018-11-10 10:49:18,2023-08-21 02:57:58,Platinum,es-ES,Yes,Mary Wilson
+986,KIM,taylor,f9a39294@gmail.com,+1-265-550-9030,1978-04-26,1674 Maple Dr,UNKNOWN,NY,79337,USA,2022-01-28 08:30:37,2023-04-06 10:44:33,,fr-FR,No,KIM taylor
+987,Jane,Brown,d85fcf87@test.com,+1-336-967-1400,2002-07-05,9321 Cedar Ln,Houston,California,11677,USA,2022-12-13 19:57:06,2023-03-27 21:31:13,Silver,en-UK,0,Jane Brown
+988,  sam  ,Doe,9a8b8bc6@example.org,8519554335,2000-07-18,9448 Main St,Los Angeles,IL,35911,USA,2021-11-30 04:42:52,2023-11-10 13:21:28,,en-UK,,  sam   Doe
+989,Emily,Wilson,e4fe8718@test.com,+1-672-607-1200,1979-06-02,6045 Main St,Chicago,,69732,USA,2019-04-18 01:01:29,2023-01-23 04:26:36,Gold,EN,No,Emily Wilson
+990,  sam  ,Miller,invalid_email_at_hotmail.com,+1-270-228-9674,1986-08-27,7456 Maple Dr,Houston,,20952,USA,2020-11-14 07:24:04,2023-01-15 21:16:28,,en-UK,False,  sam   Miller
+991,Sarah,Smith,baf09615@example.org,+1-746-896-6824,1964-06-29,960 Main St,n/a,CA,62042,USA,2019-05-21 02:27:38,2023-04-13 02:40:05,,en-US,1,Sarah Smith
+992,David,,60eabe89@yahoo.com,+1-952-527-6400,09/30/1962,169 Main St,Houston,NY,69063,USA,2022-11-15 18:15:18,2023-07-04 17:21:24,Bronze,fr-FR,True,David 
+993,chris,taylor,invalid_email_at_yahoo.com,+1-804-371-5084,1981-06-30,9473 Cedar Ln,Houston,NY,42980,USA,2021-12-07 14:55:47,2023-08-18 21:32:41,Bronze,es-ES,True,chris taylor
+994,John,taylor,e7457118@test.com,+1-833-226-6551,1986-08-30,1286 Oak Ave,Phoenix,,14526,USA,2021-04-20 10:44:35,2023-08-31 10:19:49,Bronze,fr-FR,False,John taylor
+995,David,Doe,bb74b279@example.org,5742390350,1967-11-14,4087 Maple Dr,Houston,,55316,USA,2020-06-22 10:51:49,2023-10-28 12:53:51,,en-UK,No,David Doe
+996,Sarah,Johnson,d206ea29@gmail.com,+1-923-510-3440,1999-11-30,9228 Cedar Ln,n/a,AZ,37617,USA,2022-08-21 01:41:18,2023-06-19 19:11:36,Silver,es-ES,True,Sarah Johnson
+997,David,Davis,66f378a7@test.com,2387183053,1982-08-06,3305 Main St,n/a,Texas,84060,USA,2022-06-15 07:25:53,2023-06-21 11:55:27,Gold,EN,No,David Davis
+998,Sarah,Davis,invalid_email_at_gmail.com,9264189591,2003-02-10,6922 Maple Dr,New York,AZ,79923,USA,2022-07-22 02:04:05,2023-09-28 23:57:30,Gold,fr-FR,0,Sarah Davis
+999,Sarah,Smith,5eb388be@hotmail.com,+1-642-981-2840,1975-06-11,6432 Maple Dr,Houston,AZ,45338,USA,2018-01-29 02:45:51,2023-04-03 00:00:38,Silver,es-ES,False,Sarah Smith
+1000,Mike,Moore,0d1c62d7@test.com,+1-709-616-2815,1997-09-07,2927 Cedar Ln,Phoenix,NY,92413,USA,2020-01-09 12:33:57,2023-08-03 19:55:10,Silver,es-ES,,Mike Moore
